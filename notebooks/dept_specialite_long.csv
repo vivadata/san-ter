@@ -1,0 +1,1090 @@
+dept_code,specialite,charge_pathologique
+01,Autre,878452.0
+01,Dermatologie,220.0
+01,Hépato-gastro-entérologie,35.0
+01,Infectiologie,6696.0
+01,Oncologie,37446.0
+01,Oncologie Digestive,2226.0
+01,Oncologie Gynécologique,244.0
+01,Oncologie ORL,469.0
+01,Oncologie Pneumologique,997.0
+01,Oncologie Sénologique,1332.0
+01,Pneumologie,89.0
+02,Autre,831779.0
+02,Dermatologie,214.0
+02,Hépato-gastro-entérologie,52.0
+02,Infectiologie,7585.0
+02,Oncologie,34508.0
+02,Oncologie Digestive,2281.0
+02,Oncologie Gynécologique,237.0
+02,Oncologie ORL,521.0
+02,Oncologie Pneumologique,985.0
+02,Oncologie Sénologique,1249.0
+02,Pneumologie,30.0
+03,Autre,555980.0
+03,Dermatologie,228.0
+03,Hépato-gastro-entérologie,14.0
+03,Infectiologie,4600.0
+03,Oncologie,26628.0
+03,Oncologie Digestive,1612.0
+03,Oncologie Gynécologique,207.0
+03,Oncologie ORL,317.0
+03,Oncologie Pneumologique,736.0
+03,Oncologie Sénologique,928.0
+03,Pneumologie,12.0
+04,Autre,276648.0
+04,Dermatologie,40.0
+04,Hépato-gastro-entérologie,14.0
+04,Infectiologie,1386.0
+04,Oncologie,13667.0
+04,Oncologie Digestive,1024.0
+04,Oncologie Gynécologique,94.0
+04,Oncologie ORL,158.0
+04,Oncologie Pneumologique,474.0
+04,Oncologie Sénologique,427.0
+04,Pneumologie,6.0
+05,Autre,228814.0
+05,Dermatologie,60.0
+05,Hépato-gastro-entérologie,4.0
+05,Infectiologie,1813.0
+05,Oncologie,11200.0
+05,Oncologie Digestive,628.0
+05,Oncologie Gynécologique,86.0
+05,Oncologie ORL,105.0
+05,Oncologie Pneumologique,223.0
+05,Oncologie Sénologique,402.0
+05,Pneumologie,10.0
+06,Autre,1830125.0
+06,Dermatologie,801.0
+06,Hépato-gastro-entérologie,97.0
+06,Infectiologie,11395.0
+06,Oncologie,97252.0
+06,Oncologie Digestive,5269.0
+06,Oncologie Gynécologique,556.0
+06,Oncologie ORL,976.0
+06,Oncologie Pneumologique,2244.0
+06,Oncologie Sénologique,2625.0
+06,Pneumologie,117.0
+07,Autre,535730.0
+07,Dermatologie,190.0
+07,Hépato-gastro-entérologie,21.0
+07,Infectiologie,4101.0
+07,Oncologie,26152.0
+07,Oncologie Digestive,1561.0
+07,Oncologie Gynécologique,222.0
+07,Oncologie ORL,326.0
+07,Oncologie Pneumologique,630.0
+07,Oncologie Sénologique,782.0
+07,Pneumologie,25.0
+08,Autre,419983.0
+08,Dermatologie,107.0
+08,Hépato-gastro-entérologie,12.0
+08,Infectiologie,3460.0
+08,Oncologie,15614.0
+08,Oncologie Digestive,1029.0
+08,Oncologie Gynécologique,128.0
+08,Oncologie ORL,211.0
+08,Oncologie Pneumologique,566.0
+08,Oncologie Sénologique,576.0
+08,Pneumologie,12.0
+09,Autre,249462.0
+09,Dermatologie,25.0
+09,Hépato-gastro-entérologie,5.0
+09,Infectiologie,1633.0
+09,Oncologie,11260.0
+09,Oncologie Digestive,784.0
+09,Oncologie Gynécologique,85.0
+09,Oncologie ORL,157.0
+09,Oncologie Pneumologique,366.0
+09,Oncologie Sénologique,412.0
+09,Pneumologie,3.0
+10,Autre,436065.0
+10,Dermatologie,90.0
+10,Hépato-gastro-entérologie,24.0
+10,Infectiologie,2532.0
+10,Oncologie,20196.0
+10,Oncologie Digestive,1245.0
+10,Oncologie Gynécologique,144.0
+10,Oncologie ORL,325.0
+10,Oncologie Pneumologique,625.0
+10,Oncologie Sénologique,717.0
+10,Pneumologie,34.0
+11,Autre,653377.0
+11,Dermatologie,94.0
+11,Hépato-gastro-entérologie,25.0
+11,Infectiologie,4328.0
+11,Oncologie,25724.0
+11,Oncologie Digestive,1928.0
+11,Oncologie Gynécologique,209.0
+11,Oncologie ORL,413.0
+11,Oncologie Pneumologique,815.0
+11,Oncologie Sénologique,993.0
+11,Pneumologie,32.0
+12,Autre,418491.0
+12,Dermatologie,65.0
+12,Hépato-gastro-entérologie,37.0
+12,Infectiologie,2145.0
+12,Oncologie,18099.0
+12,Oncologie Digestive,1217.0
+12,Oncologie Gynécologique,167.0
+12,Oncologie ORL,240.0
+12,Oncologie Pneumologique,554.0
+12,Oncologie Sénologique,638.0
+12,Pneumologie,37.0
+13,Autre,3475162.0
+13,Dermatologie,630.0
+13,Hépato-gastro-entérologie,223.0
+13,Infectiologie,24273.0
+13,Oncologie,144196.0
+13,Oncologie Digestive,8445.0
+13,Oncologie Gynécologique,948.0
+13,Oncologie ORL,1529.0
+13,Oncologie Pneumologique,4505.0
+13,Oncologie Sénologique,4731.0
+13,Pneumologie,249.0
+14,Autre,1075169.0
+14,Dermatologie,364.0
+14,Hépato-gastro-entérologie,56.0
+14,Infectiologie,9084.0
+14,Oncologie,45189.0
+14,Oncologie Digestive,2413.0
+14,Oncologie Gynécologique,367.0
+14,Oncologie ORL,591.0
+14,Oncologie Pneumologique,1196.0
+14,Oncologie Sénologique,1697.0
+14,Pneumologie,64.0
+15,Autre,237221.0
+15,Dermatologie,126.0
+15,Hépato-gastro-entérologie,8.0
+15,Infectiologie,2474.0
+15,Oncologie,10879.0
+15,Oncologie Digestive,780.0
+15,Oncologie Gynécologique,64.0
+15,Oncologie ORL,149.0
+15,Oncologie Pneumologique,269.0
+15,Oncologie Sénologique,363.0
+15,Pneumologie,3.0
+16,Autre,514954.0
+16,Dermatologie,138.0
+16,Hépato-gastro-entérologie,16.0
+16,Infectiologie,2902.0
+16,Oncologie,23416.0
+16,Oncologie Digestive,1438.0
+16,Oncologie Gynécologique,206.0
+16,Oncologie ORL,258.0
+16,Oncologie Pneumologique,600.0
+16,Oncologie Sénologique,921.0
+16,Pneumologie,13.0
+17,Autre,966865.0
+17,Dermatologie,228.0
+17,Hépato-gastro-entérologie,30.0
+17,Infectiologie,6240.0
+17,Oncologie,46839.0
+17,Oncologie Digestive,3055.0
+17,Oncologie Gynécologique,328.0
+17,Oncologie ORL,584.0
+17,Oncologie Pneumologique,1277.0
+17,Oncologie Sénologique,1773.0
+17,Pneumologie,26.0
+18,Autre,420305.0
+18,Dermatologie,104.0
+18,Hépato-gastro-entérologie,8.0
+18,Infectiologie,3985.0
+18,Oncologie,19578.0
+18,Oncologie Digestive,1451.0
+18,Oncologie Gynécologique,171.0
+18,Oncologie ORL,342.0
+18,Oncologie Pneumologique,531.0
+18,Oncologie Sénologique,700.0
+18,Pneumologie,21.0
+19,Autre,363231.0
+19,Dermatologie,66.0
+19,Hépato-gastro-entérologie,9.0
+19,Infectiologie,2966.0
+19,Oncologie,17258.0
+19,Oncologie Digestive,1221.0
+19,Oncologie Gynécologique,145.0
+19,Oncologie ORL,188.0
+19,Oncologie Pneumologique,464.0
+19,Oncologie Sénologique,690.0
+19,Pneumologie,3.0
+21,Autre,803040.0
+21,Dermatologie,210.0
+21,Hépato-gastro-entérologie,37.0
+21,Infectiologie,5577.0
+21,Oncologie,35662.0
+21,Oncologie Digestive,1982.0
+21,Oncologie Gynécologique,242.0
+21,Oncologie ORL,357.0
+21,Oncologie Pneumologique,864.0
+21,Oncologie Sénologique,1266.0
+21,Pneumologie,55.0
+22,Autre,926242.0
+22,Dermatologie,375.0
+22,Hépato-gastro-entérologie,30.0
+22,Infectiologie,6537.0
+22,Oncologie,46706.0
+22,Oncologie Digestive,2827.0
+22,Oncologie Gynécologique,284.0
+22,Oncologie ORL,593.0
+22,Oncologie Pneumologique,1231.0
+22,Oncologie Sénologique,1590.0
+22,Pneumologie,62.0
+23,Autre,190940.0
+23,Dermatologie,55.0
+23,Hépato-gastro-entérologie,6.0
+23,Infectiologie,1465.0
+23,Oncologie,8938.0
+23,Oncologie Digestive,668.0
+23,Oncologie Gynécologique,60.0
+23,Oncologie ORL,106.0
+23,Oncologie Pneumologique,273.0
+23,Oncologie Sénologique,272.0
+23,Pneumologie,5.0
+24,Autre,675463.0
+24,Dermatologie,127.0
+24,Hépato-gastro-entérologie,32.0
+24,Infectiologie,3929.0
+24,Oncologie,32646.0
+24,Oncologie Digestive,1945.0
+24,Oncologie Gynécologique,282.0
+24,Oncologie ORL,438.0
+24,Oncologie Pneumologique,856.0
+24,Oncologie Sénologique,992.0
+24,Pneumologie,50.0
+25,Autre,710721.0
+25,Dermatologie,138.0
+25,Hépato-gastro-entérologie,32.0
+25,Infectiologie,5578.0
+25,Oncologie,31796.0
+25,Oncologie Digestive,2004.0
+25,Oncologie Gynécologique,238.0
+25,Oncologie ORL,306.0
+25,Oncologie Pneumologique,846.0
+25,Oncologie Sénologique,1199.0
+25,Pneumologie,23.0
+26,Autre,743149.0
+26,Dermatologie,279.0
+26,Hépato-gastro-entérologie,25.0
+26,Infectiologie,6047.0
+26,Oncologie,35368.0
+26,Oncologie Digestive,2231.0
+26,Oncologie Gynécologique,268.0
+26,Oncologie ORL,356.0
+26,Oncologie Pneumologique,768.0
+26,Oncologie Sénologique,1170.0
+26,Pneumologie,37.0
+27,Autre,873502.0
+27,Dermatologie,237.0
+27,Hépato-gastro-entérologie,11.0
+27,Infectiologie,6981.0
+27,Oncologie,37536.0
+27,Oncologie Digestive,2253.0
+27,Oncologie Gynécologique,294.0
+27,Oncologie ORL,531.0
+27,Oncologie Pneumologique,1097.0
+27,Oncologie Sénologique,1590.0
+27,Pneumologie,44.0
+28,Autre,616556.0
+28,Dermatologie,112.0
+28,Hépato-gastro-entérologie,34.0
+28,Infectiologie,4600.0
+28,Oncologie,25396.0
+28,Oncologie Digestive,1841.0
+28,Oncologie Gynécologique,174.0
+28,Oncologie ORL,321.0
+28,Oncologie Pneumologique,566.0
+28,Oncologie Sénologique,930.0
+28,Pneumologie,44.0
+29,Autre,1425456.0
+29,Dermatologie,430.0
+29,Hépato-gastro-entérologie,68.0
+29,Infectiologie,10562.0
+29,Oncologie,73986.0
+29,Oncologie Digestive,4103.0
+29,Oncologie Gynécologique,474.0
+29,Oncologie ORL,807.0
+29,Oncologie Pneumologique,2314.0
+29,Oncologie Sénologique,2448.0
+29,Pneumologie,58.0
+30,Autre,1212443.0
+30,Dermatologie,309.0
+30,Hépato-gastro-entérologie,47.0
+30,Infectiologie,7597.0
+30,Oncologie,55366.0
+30,Oncologie Digestive,3670.0
+30,Oncologie Gynécologique,502.0
+30,Oncologie ORL,829.0
+30,Oncologie Pneumologique,1783.0
+30,Oncologie Sénologique,2058.0
+30,Pneumologie,79.0
+31,Autre,2063869.0
+31,Dermatologie,312.0
+31,Hépato-gastro-entérologie,99.0
+31,Infectiologie,11693.0
+31,Oncologie,84586.0
+31,Oncologie Digestive,4579.0
+31,Oncologie Gynécologique,669.0
+31,Oncologie ORL,897.0
+31,Oncologie Pneumologique,2144.0
+31,Oncologie Sénologique,2797.0
+31,Pneumologie,158.0
+32,Autre,322572.0
+32,Dermatologie,51.0
+32,Hépato-gastro-entérologie,6.0
+32,Infectiologie,1806.0
+32,Oncologie,15415.0
+32,Oncologie Digestive,895.0
+32,Oncologie Gynécologique,141.0
+32,Oncologie ORL,109.0
+32,Oncologie Pneumologique,468.0
+32,Oncologie Sénologique,456.0
+32,Pneumologie,14.0
+33,Autre,2589356.0
+33,Dermatologie,384.0
+33,Hépato-gastro-entérologie,174.0
+33,Infectiologie,15049.0
+33,Oncologie,108958.0
+33,Oncologie Digestive,6107.0
+33,Oncologie Gynécologique,768.0
+33,Oncologie ORL,1121.0
+33,Oncologie Pneumologique,2916.0
+33,Oncologie Sénologique,3714.0
+33,Pneumologie,198.0
+34,Autre,1924127.0
+34,Dermatologie,430.0
+34,Hépato-gastro-entérologie,94.0
+34,Infectiologie,11794.0
+34,Oncologie,94312.0
+34,Oncologie Digestive,5570.0
+34,Oncologie Gynécologique,635.0
+34,Oncologie ORL,1084.0
+34,Oncologie Pneumologique,2948.0
+34,Oncologie Sénologique,2890.0
+34,Pneumologie,92.0
+35,Autre,1415727.0
+35,Dermatologie,388.0
+35,Hépato-gastro-entérologie,80.0
+35,Infectiologie,9660.0
+35,Oncologie,57922.0
+35,Oncologie Digestive,3280.0
+35,Oncologie Gynécologique,468.0
+35,Oncologie ORL,599.0
+35,Oncologie Pneumologique,1166.0
+35,Oncologie Sénologique,2294.0
+35,Pneumologie,120.0
+36,Autre,309686.0
+36,Dermatologie,53.0
+36,Hépato-gastro-entérologie,7.0
+36,Infectiologie,2070.0
+36,Oncologie,16370.0
+36,Oncologie Digestive,1063.0
+36,Oncologie Gynécologique,126.0
+36,Oncologie ORL,200.0
+36,Oncologie Pneumologique,356.0
+36,Oncologie Sénologique,498.0
+36,Pneumologie,17.0
+37,Autre,843008.0
+37,Dermatologie,90.0
+37,Hépato-gastro-entérologie,54.0
+37,Infectiologie,5651.0
+37,Oncologie,37646.0
+37,Oncologie Digestive,2237.0
+37,Oncologie Gynécologique,252.0
+37,Oncologie ORL,512.0
+37,Oncologie Pneumologique,884.0
+37,Oncologie Sénologique,1462.0
+37,Pneumologie,73.0
+38,Autre,1782940.0
+38,Dermatologie,491.0
+38,Hépato-gastro-entérologie,89.0
+38,Infectiologie,10691.0
+38,Oncologie,78714.0
+38,Oncologie Digestive,4212.0
+38,Oncologie Gynécologique,508.0
+38,Oncologie ORL,802.0
+38,Oncologie Pneumologique,1946.0
+38,Oncologie Sénologique,2765.0
+38,Pneumologie,127.0
+39,Autre,366385.0
+39,Dermatologie,127.0
+39,Hépato-gastro-entérologie,10.0
+39,Infectiologie,3215.0
+39,Oncologie,18000.0
+39,Oncologie Digestive,1161.0
+39,Oncologie Gynécologique,107.0
+39,Oncologie ORL,161.0
+39,Oncologie Pneumologique,477.0
+39,Oncologie Sénologique,636.0
+39,Pneumologie,4.0
+40,Autre,681084.0
+40,Dermatologie,170.0
+40,Hépato-gastro-entérologie,12.0
+40,Infectiologie,4161.0
+40,Oncologie,33501.0
+40,Oncologie Digestive,2155.0
+40,Oncologie Gynécologique,244.0
+40,Oncologie ORL,308.0
+40,Oncologie Pneumologique,830.0
+40,Oncologie Sénologique,1052.0
+40,Pneumologie,13.0
+41,Autre,436102.0
+41,Dermatologie,73.0
+41,Hépato-gastro-entérologie,24.0
+41,Infectiologie,3061.0
+41,Oncologie,19086.0
+41,Oncologie Digestive,1350.0
+41,Oncologie Gynécologique,128.0
+41,Oncologie ORL,353.0
+41,Oncologie Pneumologique,432.0
+41,Oncologie Sénologique,798.0
+41,Pneumologie,15.0
+42,Autre,1252460.0
+42,Dermatologie,288.0
+42,Hépato-gastro-entérologie,76.0
+42,Infectiologie,9778.0
+42,Oncologie,57622.0
+42,Oncologie Digestive,3551.0
+42,Oncologie Gynécologique,362.0
+42,Oncologie ORL,719.0
+42,Oncologie Pneumologique,1324.0
+42,Oncologie Sénologique,1954.0
+42,Pneumologie,64.0
+43,Autre,401347.0
+43,Dermatologie,126.0
+43,Hépato-gastro-entérologie,5.0
+43,Infectiologie,3021.0
+43,Oncologie,19143.0
+43,Oncologie Digestive,1103.0
+43,Oncologie Gynécologique,122.0
+43,Oncologie ORL,205.0
+43,Oncologie Pneumologique,391.0
+43,Oncologie Sénologique,578.0
+43,Pneumologie,9.0
+44,Autre,2103495.0
+44,Dermatologie,633.0
+44,Hépato-gastro-entérologie,99.0
+44,Infectiologie,11183.0
+44,Oncologie,104302.0
+44,Oncologie Digestive,5211.0
+44,Oncologie Gynécologique,662.0
+44,Oncologie ORL,1150.0
+44,Oncologie Pneumologique,2324.0
+44,Oncologie Sénologique,4324.0
+44,Pneumologie,199.0
+45,Autre,870696.0
+45,Dermatologie,275.0
+45,Hépato-gastro-entérologie,43.0
+45,Infectiologie,6218.0
+45,Oncologie,41914.0
+45,Oncologie Digestive,2613.0
+45,Oncologie Gynécologique,249.0
+45,Oncologie ORL,530.0
+45,Oncologie Pneumologique,1114.0
+45,Oncologie Sénologique,1650.0
+45,Pneumologie,105.0
+46,Autre,271541.0
+46,Dermatologie,57.0
+46,Hépato-gastro-entérologie,5.0
+46,Infectiologie,2120.0
+46,Oncologie,12884.0
+46,Oncologie Digestive,851.0
+46,Oncologie Gynécologique,108.0
+46,Oncologie ORL,139.0
+46,Oncologie Pneumologique,339.0
+46,Oncologie Sénologique,485.0
+46,Pneumologie,10.0
+47,Autre,545313.0
+47,Dermatologie,86.0
+47,Hépato-gastro-entérologie,15.0
+47,Infectiologie,3599.0
+47,Oncologie,24396.0
+47,Oncologie Digestive,1591.0
+47,Oncologie Gynécologique,218.0
+47,Oncologie ORL,261.0
+47,Oncologie Pneumologique,684.0
+47,Oncologie Sénologique,782.0
+47,Pneumologie,55.0
+48,Autre,121085.0
+48,Dermatologie,34.0
+48,Hépato-gastro-entérologie,6.0
+48,Infectiologie,1047.0
+48,Oncologie,5730.0
+48,Oncologie Digestive,426.0
+48,Oncologie Gynécologique,39.0
+48,Oncologie ORL,72.0
+48,Oncologie Pneumologique,196.0
+48,Oncologie Sénologique,201.0
+48,Pneumologie,4.0
+49,Autre,1134041.0
+49,Dermatologie,182.0
+49,Hépato-gastro-entérologie,65.0
+49,Infectiologie,6930.0
+49,Oncologie,54826.0
+49,Oncologie Digestive,3450.0
+49,Oncologie Gynécologique,366.0
+49,Oncologie ORL,650.0
+49,Oncologie Pneumologique,926.0
+49,Oncologie Sénologique,2192.0
+49,Pneumologie,70.0
+50,Autre,749140.0
+50,Dermatologie,320.0
+50,Hépato-gastro-entérologie,17.0
+50,Infectiologie,7345.0
+50,Oncologie,33454.0
+50,Oncologie Digestive,2014.0
+50,Oncologie Gynécologique,320.0
+50,Oncologie ORL,477.0
+50,Oncologie Pneumologique,754.0
+50,Oncologie Sénologique,1325.0
+50,Pneumologie,48.0
+51,Autre,834427.0
+51,Dermatologie,168.0
+51,Hépato-gastro-entérologie,43.0
+51,Infectiologie,5174.0
+51,Oncologie,37552.0
+51,Oncologie Digestive,2072.0
+51,Oncologie Gynécologique,310.0
+51,Oncologie ORL,344.0
+51,Oncologie Pneumologique,1100.0
+51,Oncologie Sénologique,1278.0
+51,Pneumologie,52.0
+52,Autre,295442.0
+52,Dermatologie,62.0
+52,Hépato-gastro-entérologie,7.0
+52,Infectiologie,2845.0
+52,Oncologie,12020.0
+52,Oncologie Digestive,804.0
+52,Oncologie Gynécologique,65.0
+52,Oncologie ORL,167.0
+52,Oncologie Pneumologique,506.0
+52,Oncologie Sénologique,414.0
+52,Pneumologie,12.0
+53,Autre,420063.0
+53,Dermatologie,89.0
+53,Hépato-gastro-entérologie,5.0
+53,Infectiologie,2970.0
+53,Oncologie,19050.0
+53,Oncologie Digestive,1236.0
+53,Oncologie Gynécologique,132.0
+53,Oncologie ORL,220.0
+53,Oncologie Pneumologique,458.0
+53,Oncologie Sénologique,691.0
+53,Pneumologie,13.0
+54,Autre,1185965.0
+54,Dermatologie,231.0
+54,Hépato-gastro-entérologie,65.0
+54,Infectiologie,8379.0
+54,Oncologie,42931.0
+54,Oncologie Digestive,2538.0
+54,Oncologie Gynécologique,348.0
+54,Oncologie ORL,579.0
+54,Oncologie Pneumologique,1386.0
+54,Oncologie Sénologique,1484.0
+54,Pneumologie,64.0
+55,Autre,314173.0
+55,Dermatologie,56.0
+55,Hépato-gastro-entérologie,0.0
+55,Infectiologie,2468.0
+55,Oncologie,14998.0
+55,Oncologie Digestive,770.0
+55,Oncologie Gynécologique,130.0
+55,Oncologie ORL,180.0
+55,Oncologie Pneumologique,494.0
+55,Oncologie Sénologique,431.0
+55,Pneumologie,23.0
+56,Autre,1101151.0
+56,Dermatologie,391.0
+56,Hépato-gastro-entérologie,59.0
+56,Infectiologie,6311.0
+56,Oncologie,60272.0
+56,Oncologie Digestive,3305.0
+56,Oncologie Gynécologique,391.0
+56,Oncologie ORL,726.0
+56,Oncologie Pneumologique,1686.0
+56,Oncologie Sénologique,2162.0
+56,Pneumologie,76.0
+57,Autre,1561654.0
+57,Dermatologie,290.0
+57,Hépato-gastro-entérologie,68.0
+57,Infectiologie,12592.0
+57,Oncologie,62500.0
+57,Oncologie Digestive,4250.0
+57,Oncologie Gynécologique,536.0
+57,Oncologie ORL,807.0
+57,Oncologie Pneumologique,2166.0
+57,Oncologie Sénologique,2310.0
+57,Pneumologie,95.0
+58,Autre,329975.0
+58,Dermatologie,137.0
+58,Hépato-gastro-entérologie,9.0
+58,Infectiologie,2363.0
+58,Oncologie,17834.0
+58,Oncologie Digestive,1212.0
+58,Oncologie Gynécologique,144.0
+58,Oncologie ORL,208.0
+58,Oncologie Pneumologique,512.0
+58,Oncologie Sénologique,473.0
+58,Pneumologie,8.0
+59,Autre,4339752.0
+59,Dermatologie,825.0
+59,Hépato-gastro-entérologie,236.0
+59,Infectiologie,37528.0
+59,Oncologie,140046.0
+59,Oncologie Digestive,9599.0
+59,Oncologie Gynécologique,1188.0
+59,Oncologie ORL,2392.0
+59,Oncologie Pneumologique,3395.0
+59,Oncologie Sénologique,5502.0
+59,Pneumologie,331.0
+60,Autre,1127617.0
+60,Dermatologie,204.0
+60,Hépato-gastro-entérologie,59.0
+60,Infectiologie,10578.0
+60,Oncologie,45062.0
+60,Oncologie Digestive,3072.0
+60,Oncologie Gynécologique,384.0
+60,Oncologie ORL,693.0
+60,Oncologie Pneumologique,1337.0
+60,Oncologie Sénologique,1740.0
+60,Pneumologie,122.0
+61,Autre,464372.0
+61,Dermatologie,122.0
+61,Hépato-gastro-entérologie,19.0
+61,Infectiologie,4782.0
+61,Oncologie,17552.0
+61,Oncologie Digestive,1064.0
+61,Oncologie Gynécologique,152.0
+61,Oncologie ORL,210.0
+61,Oncologie Pneumologique,451.0
+61,Oncologie Sénologique,727.0
+61,Pneumologie,26.0
+62,Autre,2399109.0
+62,Dermatologie,409.0
+62,Hépato-gastro-entérologie,125.0
+62,Infectiologie,22075.0
+62,Oncologie,86162.0
+62,Oncologie Digestive,6416.0
+62,Oncologie Gynécologique,896.0
+62,Oncologie ORL,1522.0
+62,Oncologie Pneumologique,2153.0
+62,Oncologie Sénologique,3427.0
+62,Pneumologie,77.0
+63,Autre,957319.0
+63,Dermatologie,302.0
+63,Hépato-gastro-entérologie,20.0
+63,Infectiologie,6756.0
+63,Oncologie,44828.0
+63,Oncologie Digestive,2543.0
+63,Oncologie Gynécologique,322.0
+63,Oncologie ORL,485.0
+63,Oncologie Pneumologique,1228.0
+63,Oncologie Sénologique,1730.0
+63,Pneumologie,66.0
+64,Autre,1123255.0
+64,Dermatologie,226.0
+64,Hépato-gastro-entérologie,60.0
+64,Infectiologie,8162.0
+64,Oncologie,48153.0
+64,Oncologie Digestive,3059.0
+64,Oncologie Gynécologique,332.0
+64,Oncologie ORL,394.0
+64,Oncologie Pneumologique,1386.0
+64,Oncologie Sénologique,1765.0
+64,Pneumologie,58.0
+65,Autre,363592.0
+65,Dermatologie,130.0
+65,Hépato-gastro-entérologie,4.0
+65,Infectiologie,2431.0
+65,Oncologie,17560.0
+65,Oncologie Digestive,1147.0
+65,Oncologie Gynécologique,138.0
+65,Oncologie ORL,258.0
+65,Oncologie Pneumologique,571.0
+65,Oncologie Sénologique,519.0
+65,Pneumologie,8.0
+66,Autre,738633.0
+66,Dermatologie,93.0
+66,Hépato-gastro-entérologie,14.0
+66,Infectiologie,3321.0
+66,Oncologie,35376.0
+66,Oncologie Digestive,2223.0
+66,Oncologie Gynécologique,248.0
+66,Oncologie ORL,587.0
+66,Oncologie Pneumologique,1072.0
+66,Oncologie Sénologique,1286.0
+66,Pneumologie,37.0
+67,Autre,1780297.0
+67,Dermatologie,242.0
+67,Hépato-gastro-entérologie,133.0
+67,Infectiologie,12424.0
+67,Oncologie,74274.0
+67,Oncologie Digestive,4673.0
+67,Oncologie Gynécologique,556.0
+67,Oncologie ORL,864.0
+67,Oncologie Pneumologique,2070.0
+67,Oncologie Sénologique,2791.0
+67,Pneumologie,98.0
+68,Autre,1049258.0
+68,Dermatologie,301.0
+68,Hépato-gastro-entérologie,27.0
+68,Infectiologie,8553.0
+68,Oncologie,46558.0
+68,Oncologie Digestive,2988.0
+68,Oncologie Gynécologique,389.0
+68,Oncologie ORL,521.0
+68,Oncologie Pneumologique,1362.0
+68,Oncologie Sénologique,1812.0
+68,Pneumologie,78.0
+69,Autre,2666224.0
+69,Dermatologie,531.0
+69,Hépato-gastro-entérologie,137.0
+69,Infectiologie,16785.0
+69,Oncologie,112788.0
+69,Oncologie Digestive,6441.0
+69,Oncologie Gynécologique,722.0
+69,Oncologie ORL,1087.0
+69,Oncologie Pneumologique,3249.0
+69,Oncologie Sénologique,3983.0
+69,Pneumologie,350.0
+70,Autre,357140.0
+70,Dermatologie,122.0
+70,Hépato-gastro-entérologie,10.0
+70,Infectiologie,2921.0
+70,Oncologie,16310.0
+70,Oncologie Digestive,1007.0
+70,Oncologie Gynécologique,144.0
+70,Oncologie ORL,128.0
+70,Oncologie Pneumologique,473.0
+70,Oncologie Sénologique,508.0
+70,Pneumologie,7.0
+71,Autre,966377.0
+71,Dermatologie,308.0
+71,Hépato-gastro-entérologie,20.0
+71,Infectiologie,8691.0
+71,Oncologie,45114.0
+71,Oncologie Digestive,2819.0
+71,Oncologie Gynécologique,330.0
+71,Oncologie ORL,543.0
+71,Oncologie Pneumologique,1289.0
+71,Oncologie Sénologique,1474.0
+71,Pneumologie,23.0
+72,Autre,842033.0
+72,Dermatologie,198.0
+72,Hépato-gastro-entérologie,39.0
+72,Infectiologie,6529.0
+72,Oncologie,37181.0
+72,Oncologie Digestive,2193.0
+72,Oncologie Gynécologique,254.0
+72,Oncologie ORL,380.0
+72,Oncologie Pneumologique,764.0
+72,Oncologie Sénologique,1350.0
+72,Pneumologie,67.0
+73,Autre,620192.0
+73,Dermatologie,186.0
+73,Hépato-gastro-entérologie,37.0
+73,Infectiologie,5161.0
+73,Oncologie,28590.0
+73,Oncologie Digestive,1830.0
+73,Oncologie Gynécologique,169.0
+73,Oncologie ORL,392.0
+73,Oncologie Pneumologique,644.0
+73,Oncologie Sénologique,1138.0
+73,Pneumologie,53.0
+74,Autre,1012052.0
+74,Dermatologie,262.0
+74,Hépato-gastro-entérologie,57.0
+74,Infectiologie,7269.0
+74,Oncologie,42098.0
+74,Oncologie Digestive,2479.0
+74,Oncologie Gynécologique,284.0
+74,Oncologie ORL,595.0
+74,Oncologie Pneumologique,963.0
+74,Oncologie Sénologique,1664.0
+74,Pneumologie,48.0
+75,Autre,2881113.0
+75,Dermatologie,887.0
+75,Hépato-gastro-entérologie,303.0
+75,Infectiologie,19244.0
+75,Oncologie,129124.0
+75,Oncologie Digestive,7539.0
+75,Oncologie Gynécologique,1022.0
+75,Oncologie ORL,1374.0
+75,Oncologie Pneumologique,3301.0
+75,Oncologie Sénologique,5288.0
+75,Pneumologie,917.0
+76,Autre,1947196.0
+76,Dermatologie,528.0
+76,Hépato-gastro-entérologie,114.0
+76,Infectiologie,14864.0
+76,Oncologie,79628.0
+76,Oncologie Digestive,5027.0
+76,Oncologie Gynécologique,560.0
+76,Oncologie ORL,1230.0
+76,Oncologie Pneumologique,2060.0
+76,Oncologie Sénologique,3181.0
+76,Pneumologie,145.0
+77,Autre,1825141.0
+77,Dermatologie,373.0
+77,Hépato-gastro-entérologie,91.0
+77,Infectiologie,14926.0
+77,Oncologie,79668.0
+77,Oncologie Digestive,5101.0
+77,Oncologie Gynécologique,566.0
+77,Oncologie ORL,888.0
+77,Oncologie Pneumologique,2039.0
+77,Oncologie Sénologique,2942.0
+77,Pneumologie,339.0
+78,Autre,1861274.0
+78,Dermatologie,829.0
+78,Hépato-gastro-entérologie,107.0
+78,Infectiologie,13439.0
+78,Oncologie,89826.0
+78,Oncologie Digestive,4536.0
+78,Oncologie Gynécologique,560.0
+78,Oncologie ORL,907.0
+78,Oncologie Pneumologique,1766.0
+78,Oncologie Sénologique,3060.0
+78,Pneumologie,312.0
+79,Autre,517105.0
+79,Dermatologie,105.0
+79,Hépato-gastro-entérologie,6.0
+79,Infectiologie,2923.0
+79,Oncologie,23907.0
+79,Oncologie Digestive,1307.0
+79,Oncologie Gynécologique,155.0
+79,Oncologie ORL,315.0
+79,Oncologie Pneumologique,503.0
+79,Oncologie Sénologique,1022.0
+79,Pneumologie,7.0
+80,Autre,845333.0
+80,Dermatologie,165.0
+80,Hépato-gastro-entérologie,54.0
+80,Infectiologie,8323.0
+80,Oncologie,35014.0
+80,Oncologie Digestive,2169.0
+80,Oncologie Gynécologique,286.0
+80,Oncologie ORL,565.0
+80,Oncologie Pneumologique,833.0
+80,Oncologie Sénologique,1388.0
+80,Pneumologie,52.0
+81,Autre,601517.0
+81,Dermatologie,126.0
+81,Hépato-gastro-entérologie,19.0
+81,Infectiologie,4003.0
+81,Oncologie,26910.0
+81,Oncologie Digestive,1610.0
+81,Oncologie Gynécologique,212.0
+81,Oncologie ORL,287.0
+81,Oncologie Pneumologique,617.0
+81,Oncologie Sénologique,868.0
+81,Pneumologie,24.0
+82,Autre,388532.0
+82,Dermatologie,53.0
+82,Hépato-gastro-entérologie,6.0
+82,Infectiologie,2219.0
+82,Oncologie,16980.0
+82,Oncologie Digestive,994.0
+82,Oncologie Gynécologique,134.0
+82,Oncologie ORL,263.0
+82,Oncologie Pneumologique,518.0
+82,Oncologie Sénologique,611.0
+82,Pneumologie,5.0
+83,Autre,1931058.0
+83,Dermatologie,660.0
+83,Hépato-gastro-entérologie,84.0
+83,Infectiologie,12620.0
+83,Oncologie,98441.0
+83,Oncologie Digestive,5509.0
+83,Oncologie Gynécologique,554.0
+83,Oncologie ORL,1135.0
+83,Oncologie Pneumologique,2616.0
+83,Oncologie Sénologique,2992.0
+83,Pneumologie,78.0
+84,Autre,887487.0
+84,Dermatologie,172.0
+84,Hépato-gastro-entérologie,43.0
+84,Infectiologie,7122.0
+84,Oncologie,36866.0
+84,Oncologie Digestive,2315.0
+84,Oncologie Gynécologique,314.0
+84,Oncologie ORL,439.0
+84,Oncologie Pneumologique,1051.0
+84,Oncologie Sénologique,1318.0
+84,Pneumologie,52.0
+85,Autre,1084087.0
+85,Dermatologie,319.0
+85,Hépato-gastro-entérologie,45.0
+85,Infectiologie,6290.0
+85,Oncologie,53912.0
+85,Oncologie Digestive,3220.0
+85,Oncologie Gynécologique,342.0
+85,Oncologie ORL,673.0
+85,Oncologie Pneumologique,1125.0
+85,Oncologie Sénologique,1845.0
+85,Pneumologie,10.0
+86,Autre,620844.0
+86,Dermatologie,93.0
+86,Hépato-gastro-entérologie,30.0
+86,Infectiologie,2879.0
+86,Oncologie,26382.0
+86,Oncologie Digestive,1596.0
+86,Oncologie Gynécologique,192.0
+86,Oncologie ORL,288.0
+86,Oncologie Pneumologique,607.0
+86,Oncologie Sénologique,960.0
+86,Pneumologie,32.0
+87,Autre,540565.0
+87,Dermatologie,141.0
+87,Hépato-gastro-entérologie,16.0
+87,Infectiologie,3510.0
+87,Oncologie,25179.0
+87,Oncologie Digestive,1517.0
+87,Oncologie Gynécologique,204.0
+87,Oncologie ORL,247.0
+87,Oncologie Pneumologique,534.0
+87,Oncologie Sénologique,930.0
+87,Pneumologie,22.0
+88,Autre,605776.0
+88,Dermatologie,136.0
+88,Hépato-gastro-entérologie,16.0
+88,Infectiologie,4744.0
+88,Oncologie,24320.0
+88,Oncologie Digestive,1600.0
+88,Oncologie Gynécologique,170.0
+88,Oncologie ORL,444.0
+88,Oncologie Pneumologique,703.0
+88,Oncologie Sénologique,804.0
+88,Pneumologie,15.0
+89,Autre,514223.0
+89,Dermatologie,137.0
+89,Hépato-gastro-entérologie,18.0
+89,Infectiologie,3914.0
+89,Oncologie,24364.0
+89,Oncologie Digestive,1460.0
+89,Oncologie Gynécologique,162.0
+89,Oncologie ORL,350.0
+89,Oncologie Pneumologique,674.0
+89,Oncologie Sénologique,708.0
+89,Pneumologie,33.0
+90,Autre,181724.0
+90,Dermatologie,15.0
+90,Hépato-gastro-entérologie,17.0
+90,Infectiologie,1402.0
+90,Oncologie,7427.0
+90,Oncologie Digestive,460.0
+90,Oncologie Gynécologique,67.0
+90,Oncologie ORL,71.0
+90,Oncologie Pneumologique,318.0
+90,Oncologie Sénologique,260.0
+90,Pneumologie,10.0
+91,Autre,1743968.0
+91,Dermatologie,277.0
+91,Hépato-gastro-entérologie,86.0
+91,Infectiologie,12585.0
+91,Oncologie,73289.0
+91,Oncologie Digestive,4031.0
+91,Oncologie Gynécologique,514.0
+91,Oncologie ORL,776.0
+91,Oncologie Pneumologique,1554.0
+91,Oncologie Sénologique,2716.0
+91,Pneumologie,376.0
+92,Autre,2048364.0
+92,Dermatologie,657.0
+92,Hépato-gastro-entérologie,158.0
+92,Infectiologie,13278.0
+92,Oncologie,91088.0
+92,Oncologie Digestive,4946.0
+92,Oncologie Gynécologique,648.0
+92,Oncologie ORL,901.0
+92,Oncologie Pneumologique,2128.0
+92,Oncologie Sénologique,3449.0
+92,Pneumologie,380.0
+93,Autre,2100929.0
+93,Dermatologie,292.0
+93,Hépato-gastro-entérologie,291.0
+93,Infectiologie,18913.0
+93,Oncologie,73098.0
+93,Oncologie Digestive,5494.0
+93,Oncologie Gynécologique,628.0
+93,Oncologie ORL,906.0
+93,Oncologie Pneumologique,1983.0
+93,Oncologie Sénologique,2834.0
+93,Pneumologie,722.0
+94,Autre,1844829.0
+94,Dermatologie,324.0
+94,Hépato-gastro-entérologie,197.0
+94,Infectiologie,13874.0
+94,Oncologie,75162.0
+94,Oncologie Digestive,4208.0
+94,Oncologie Gynécologique,530.0
+94,Oncologie ORL,795.0
+94,Oncologie Pneumologique,1936.0
+94,Oncologie Sénologique,2812.0
+94,Pneumologie,388.0
+95,Autre,1625969.0
+95,Dermatologie,296.0
+95,Hépato-gastro-entérologie,103.0
+95,Infectiologie,16417.0
+95,Oncologie,66594.0
+95,Oncologie Digestive,3903.0
+95,Oncologie Gynécologique,475.0
+95,Oncologie ORL,699.0
+95,Oncologie Pneumologique,1489.0
+95,Oncologie Sénologique,2614.0
+95,Pneumologie,424.0
+971,Autre,558764.0
+971,Dermatologie,38.0
+971,Hépato-gastro-entérologie,32.0
+971,Infectiologie,3848.0
+971,Oncologie,21124.0
+971,Oncologie Digestive,1485.0
+971,Oncologie Gynécologique,278.0
+971,Oncologie ORL,327.0
+971,Oncologie Pneumologique,356.0
+971,Oncologie Sénologique,742.0
+971,Pneumologie,37.0
+972,Autre,400400.0
+972,Dermatologie,33.0
+972,Hépato-gastro-entérologie,7.0
+972,Infectiologie,3320.0
+972,Oncologie,18110.0
+972,Oncologie Digestive,1344.0
+972,Oncologie Gynécologique,228.0
+972,Oncologie ORL,211.0
+972,Oncologie Pneumologique,284.0
+972,Oncologie Sénologique,642.0
+972,Pneumologie,8.0
+973,Autre,264738.0
+973,Dermatologie,7.0
+973,Hépato-gastro-entérologie,35.0
+973,Infectiologie,5770.0
+973,Oncologie,5288.0
+973,Oncologie Digestive,405.0
+973,Oncologie Gynécologique,68.0
+973,Oncologie ORL,68.0
+973,Oncologie Pneumologique,117.0
+973,Oncologie Sénologique,146.0
+973,Pneumologie,147.0
+974,Autre,1118453.0
+974,Dermatologie,73.0
+974,Hépato-gastro-entérologie,48.0
+974,Infectiologie,10955.0
+974,Oncologie,33280.0
+974,Oncologie Digestive,2385.0
+974,Oncologie Gynécologique,386.0
+974,Oncologie ORL,524.0
+974,Oncologie Pneumologique,615.0
+974,Oncologie Sénologique,1117.0
+974,Pneumologie,65.0
+976,Autre,181727.0
+976,Dermatologie,4.0
+976,Hépato-gastro-entérologie,15.0
+976,Infectiologie,2847.0
+976,Oncologie,3120.0
+976,Oncologie Digestive,159.0
+976,Oncologie Gynécologique,88.0
+976,Oncologie ORL,52.0
+976,Oncologie Pneumologique,60.0
+976,Oncologie Sénologique,148.0
+976,Pneumologie,91.0
