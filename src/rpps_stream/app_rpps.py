@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import geopandas as gpd
 import pydeck as pdk
+import matplotlib.pyplot as plt
+import numpy as np
 
 # ------------------------------------------------------
 # 1. Chargement des données
@@ -137,6 +139,24 @@ st.bar_chart(
     df_densite.set_index('dept_name')['densite']
 )
 
+# --- Options supplémentaires: seuil absolu vs percentile, Top-N, sélection département ---
+st.markdown("---")
+st.subheader("Options d'analyse")
+
+# Basculer entre percentile et seuil absolu
+use_absolute = st.checkbox("Utiliser un seuil absolu de densité (au lieu du percentile)", value=False)
+absolute_threshold = None
+if use_absolute:
+    absolute_threshold = st.number_input("Seuil absolu (densité par 100k)", value=1.0, min_value=0.0, step=0.1)
+
+# Contrôle Top-N
+top_n = st.number_input("Afficher Top N départements les plus faibles", min_value=1, max_value=50, value=10)
+
+# Filtre département (mise en évidence)
+dept_choices = sorted(gdf_dept['nom'].dropna().unique().tolist()) if 'nom' in gdf_dept.columns else []
+selected_dept_for_highlight = st.selectbox("Mettre en évidence un département", options=['(aucun)'] + dept_choices, index=0)
+
+
 # ------------------------------------------------------
 # 7. Carte à bulles
 # ------------------------------------------------------
@@ -193,6 +213,25 @@ tooltip = {"text": "Département {properties.code} – {properties.nom}\nDensit�
 deck = pdk.Deck(layers=[layer], initial_view_state=view_state, tooltip=tooltip, map_style="mapbox://styles/mapbox/light-v9")
 st.pydeck_chart(deck)
 
+# Si l'utilisateur a choisi un département, on met en évidence sa bordure
+if selected_dept_for_highlight and selected_dept_for_highlight != '(aucun)':
+    try:
+        gdf_h = gdf_merge[gdf_merge['nom'] == selected_dept_for_highlight]
+        if not gdf_h.empty:
+            layer2 = pdk.Layer(
+                "GeoJsonLayer",
+                data=gdf_h.__geo_interface__,
+                stroked=True,
+                filled=False,
+                get_line_color=[0, 0, 0, 255],
+                line_width_min_pixels=4,
+            )
+            deck2 = pdk.Deck(layers=[layer, layer2], initial_view_state=view_state, tooltip=tooltip, map_style="mapbox://styles/mapbox/light-v9")
+            st.pydeck_chart(deck2)
+    except Exception:
+        # Ne pas planter l'app si la mise en évidence échoue
+        pass
+
 # Petite légende
 st.markdown(
     """
@@ -200,6 +239,19 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+# Afficher une barre de couleur numérique (colorbar) indiquant l'échelle
+try:
+    cmap = plt.get_cmap('RdBu_r')
+    norm = plt.Normalize(vmin=dens_min, vmax=dens_max)
+    fig, ax = plt.subplots(figsize=(5, 0.4))
+    fig.subplots_adjust(bottom=0.5)
+    cb1 = plt.colorbar(plt.cm.ScalarMappable(norm=norm, cmap=cmap), cax=ax, orientation='horizontal')
+    cb1.set_label('Densité (pour 100k)')
+    st.pyplot(fig)
+except Exception:
+    # Si matplotlib non disponible ou erreur, on ignore
+    pass
 
 # -------------------------------
 # Identifier et afficher zones sans / peu de spécialite
@@ -220,7 +272,11 @@ if not dens_values.empty:
 else:
     low_threshold = 0.0
 
-low_mask = gdf_all["densite"].notna() & (gdf_all["densite"] <= low_threshold)
+# Si l'utilisateur demande un seuil absolu utiliser celui-ci
+if use_absolute and absolute_threshold is not None:
+    low_mask = gdf_all["densite"].notna() & (gdf_all["densite"] <= float(absolute_threshold))
+else:
+    low_mask = gdf_all["densite"].notna() & (gdf_all["densite"] <= low_threshold)
 low = gdf_all[low_mask]
 
 st.write(f"Départements sans données : {len(missing)}")
@@ -234,6 +290,35 @@ if not low.empty:
     st.dataframe(low[["code", "nom", "densite"]].rename(columns={"code": "Code", "nom": "Département", "densite": "Densité"}))
 else:
     st.write("Aucun département n'est en-dessous du seuil choisi.")
+
+# Top-N départements les plus faibles (par densité moyenne)
+st.markdown("---")
+st.subheader(f"Top {top_n} départements les plus faibles (densité moyenne)")
+df_topn = df_densite.copy().sort_values('densite', ascending=True).head(int(top_n))
+df_topn['dept_name'] = df_topn['dept_name'].fillna(df_topn['dept_code_clean'])
+st.bar_chart(df_topn.set_index('dept_name')['densite'])
+st.dataframe(df_topn.rename(columns={'dept_name': 'Département', 'densite': 'Densité'})[['Département', 'Densité']])
+
+# Téléchargement des résumés (s'ils existent)
+st.markdown("---")
+st.subheader("Téléchargements")
+summary_paths = {
+    'Résumé low par département': 'src/rpps_stream/summary_low_by_dept.csv',
+    'Résumé low par spécialité': 'src/rpps_stream/summary_low_by_specialty.csv',
+    'Résumé missing par département': 'src/rpps_stream/summary_missing_by_dept.csv',
+    'Résumé missing par spécialité': 'src/rpps_stream/summary_missing_by_specialty.csv',
+}
+for label, p in summary_paths.items():
+    try:
+        with open(p, 'rb') as f:
+            data = f.read()
+        st.download_button(label, data, file_name=p.split('/')[-1], mime='text/csv')
+    except FileNotFoundError:
+        st.write(f"{label}: fichier introuvable ({p})")
+
+# Téléchargement du tableau affiché
+csv_display = df_display[['Département', 'Densité']].to_csv(index=False).encode('utf-8')
+st.download_button('Télécharger le tableau affiché (CSV)', csv_display, file_name='densite_par_departement.csv', mime='text/csv')
 
 # (La carte choroplèthe ci-dessus remplace les cartes à bulles et les couches séparées.)
 

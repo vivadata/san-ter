@@ -17,11 +17,29 @@ st.write("Vue simple construite à partir de `dim_geo_departement.csv` et `fact_
 # -----------------------------
 # Chargement des données
 # -----------------------------
-DIM_PATH = "dim_geo_departement.csv"
-FACT_PATH = "fact_dep_specialite_patho.csv"
+# Résolution robuste des chemins des fichiers de données.
+# L'app cherchera ces fichiers dans plusieurs répertoires candidats.
+CANDIDATE_DIRS = [
+    "notebooks",
+    "src/rpps_stream",
+    "data",
+    ".",
+]
+
+def find_file(filename: str):
+    for d in CANDIDATE_DIRS:
+        p = os.path.join(d, filename)
+        if os.path.exists(p):
+            return p
+    return None
+
+DIM_PATH = find_file('dim_geo_departement.csv') or 'notebooks/dim_geo_departement.csv'
+FACT_PATH = find_file('fact_dep_specialite_patho.csv') or 'notebooks/fact_dep_specialite_patho.csv'
 
 @st.cache_data
 def load_csv_safe(path):
+    if not path:
+        return None
     if not os.path.exists(path):
         return None
     return pd.read_csv(path)
