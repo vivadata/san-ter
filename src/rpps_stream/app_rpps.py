@@ -140,10 +140,9 @@ st.bar_chart(
 # ------------------------------------------------------
 # 7. Carte à bulles
 # ------------------------------------------------------
-st.subheader("Carte à bulles – Densité par département")
+st.subheader("Carte — densité par département (rouge = faible, bleu = élevé)")
 
-# Jointure avec les départements
-# gdf_dept['code'] : code INSEE du département (01, 2A, 75, 971…)
+# Jointure avec les départements (pour obtenir géométrie + nom)
 gdf_merge = gdf_dept.merge(
     df_densite,
     left_on="code",
@@ -151,53 +150,56 @@ gdf_merge = gdf_dept.merge(
     how="left",
 )
 
-# On ne garde que les départements pour lesquels on a une densité
-gdf_bubbles = gdf_merge.dropna(subset=["densite"]).copy()
+# Préparer une couleur par département : rouge (faible) → bleu (élevé)
+dens_min = float(gdf_merge['densite'].min(skipna=True)) if gdf_merge['densite'].notna().any() else 0.0
+dens_max = float(gdf_merge['densite'].max(skipna=True)) if gdf_merge['densite'].notna().any() else 1.0
 
-# Calcul des centroides pour positionner les bulles
-gdf_bubbles["lon"] = gdf_bubbles.geometry.centroid.x
-gdf_bubbles["lat"] = gdf_bubbles.geometry.centroid.y
+def dens_to_color(v, vmin=dens_min, vmax=dens_max):
+    # NaN -> gris
+    try:
+        if pd.isna(v):
+            return [200, 200, 200, 120]
+    except Exception:
+        return [200, 200, 200, 120]
+    if vmax <= vmin:
+        t = 0.5
+    else:
+        t = (float(v) - vmin) / (vmax - vmin)
+        t = max(0.0, min(1.0, t))
+    r = int(255 * (1 - t))
+    g = int(30 * (1 - abs(0.5 - t) * 2))
+    b = int(255 * t)
+    return [r, g, b, 180]
 
-# Échelle du rayon des bulles (à ajuster si besoin)
-max_densite = gdf_bubbles["densite"].max()
-if max_densite and max_densite > 0:
-    scale = 50000 / max_densite
-else:
-    scale = 1000
+gdf_merge['fill_color'] = gdf_merge['densite'].apply(dens_to_color)
 
-gdf_bubbles["radius"] = gdf_bubbles["densite"] * scale
+# Convertir en GeoJSON via __geo_interface__ pour pydeck
+geojson = gdf_merge.__geo_interface__
 
-# Préparer les données pour pydeck
-bubble_data = gdf_bubbles[["nom", "code", "densite", "lat", "lon", "radius"]]
-
-view_state = pdk.ViewState(
-    latitude=46.5,
-    longitude=2.5,
-    zoom=4.5,
-)
+view_state = pdk.ViewState(latitude=46.5, longitude=2.5, zoom=4.5)
 
 layer = pdk.Layer(
-    "ScatterplotLayer",
-    data=bubble_data,
-    get_position='[lon, lat]',
-    get_radius="radius",
-    get_fill_color="[200, 30, 30, 160]",  # rouge transparent
+    "GeoJsonLayer",
+    data=geojson,
+    stroked=False,
+    filled=True,
+    get_fill_color='properties.fill_color',
     pickable=True,
     auto_highlight=True,
 )
 
-tooltip = {
-    "text": "Département {code} – {nom}\nDensité : {densite} médecins / 100 000 hab."
-}
+tooltip = {"text": "Département {properties.code} – {properties.nom}\nDensité: {properties.densite}"}
 
-deck = pdk.Deck(
-    layers=[layer],
-    initial_view_state=view_state,
-    tooltip=tooltip,
-    map_style="mapbox://styles/mapbox/light-v9",
-)
-
+deck = pdk.Deck(layers=[layer], initial_view_state=view_state, tooltip=tooltip, map_style="mapbox://styles/mapbox/light-v9")
 st.pydeck_chart(deck)
+
+# Petite légende
+st.markdown(
+    """
+    **Légende**: <span style='color:#ff0000'>⬤</span> faible densité — <span style='color:#0000ff'>⬤</span> forte densité — <span style='color:#a0a0a0'>⬤</span> pas de donnée
+    """,
+    unsafe_allow_html=True,
+)
 
 # -------------------------------
 # Identifier et afficher zones sans / peu de spécialite
@@ -233,61 +235,5 @@ if not low.empty:
 else:
     st.write("Aucun département n'est en-dessous du seuil choisi.")
 
-# Carte dédiée : ajouter couches pour manquants (gris) et faibles (orange) et bulles existantes (rouge)
-layers = []
-
-# Bulles existantes (déjà définies)
-layer_bubbles = pdk.Layer(
-    "ScatterplotLayer",
-    data=gdf_bubbles,
-    get_position='[lon, lat]',
-    get_radius='radius',
-    get_fill_color='[200, 30, 30, 160]',
-    pickable=True,
-    auto_highlight=True,
-)
-layers.append(layer_bubbles)
-
-if not low.empty:
-    low = low.copy()
-    low["radius"] = low["densite"].fillna(0) * scale
-    layer_low = pdk.Layer(
-        "ScatterplotLayer",
-        data=low,
-        get_position='[lon, lat]',
-        get_radius='radius',
-        get_fill_color='[255, 165, 0, 200]',  # orange
-        pickable=True,
-        auto_highlight=True,
-    )
-    layers.append(layer_low)
-
-if not missing.empty:
-    miss = missing.copy()
-    # placer un petit cercle fixe pour les manquants
-    miss["lon"] = miss.geometry.centroid.x
-    miss["lat"] = miss.geometry.centroid.y
-    miss["radius"] = 30000
-    layer_missing = pdk.Layer(
-        "ScatterplotLayer",
-        data=miss,
-        get_position='[lon, lat]',
-        get_radius='radius',
-        get_fill_color='[120, 120, 120, 140]',  # gris
-        pickable=True,
-        auto_highlight=True,
-    )
-    layers.append(layer_missing)
-
-if layers:
-    deck2 = pdk.Deck(
-        layers=layers,
-        initial_view_state=view_state,
-        tooltip={"text": "Dépt {code} – {nom}\nDensité: {densite}"},
-        map_style="mapbox://styles/mapbox/light-v9",
-    )
-    st.subheader("Carte — départements mis en évidence")
-    st.pydeck_chart(deck2)
-else:
-    st.write("Aucune donnée géographique disponible pour dessiner la carte")
+# (La carte choroplèthe ci-dessus remplace les cartes à bulles et les couches séparées.)
 
