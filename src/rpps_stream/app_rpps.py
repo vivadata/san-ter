@@ -19,7 +19,7 @@ def load_rpps(path: str = "src/rpps_stream/rpps_long_clean.csv") -> pd.DataFrame
 
 
 @st.cache_data
-def load_departements(path: str = "../dev2/departements.geojson") -> gpd.GeoDataFrame:
+def load_departements(path: str = "dev2/departements.geojson") -> gpd.GeoDataFrame:
     gdf = gpd.read_file(path)
     # on s’assure que le code est bien une chaîne (01, 2A, 971…)
     gdf["code"] = gdf["code"].astype(str)
