@@ -27,8 +27,8 @@
 27,01-Médecine générale,"87,48",526,27
 28,01-Médecine générale,"87,31",378,28
 29,01-Médecine générale,"178,25",1654,29
-2A,01-Médecine générale,"154,18",256,2A
-2B,01-Médecine générale,"152,78",283,2B
+02A,01-Médecine générale,"154,18",256,02A
+02B,01-Médecine générale,"152,78",283,02B
 30,01-Médecine générale,"142,41",1088,30
 31,01-Médecine générale,"165,01",2403,31
 32,01-Médecine générale,"138,07",266,32
@@ -129,8 +129,8 @@ Total général,01-Médecine générale,"14459,16",99939,Total général
 27,02-Chirurgie,"9,81",59,27
 28,02-Chirurgie,"12,01",52,28
 29,02-Chirurgie,"18,75",174,29
-2A,02-Chirurgie,"22,28",37,2A
-2B,02-Chirurgie,"17,28",32,2B
+02A,02-Chirurgie,"22,28",37,02A
+02B,02-Chirurgie,"17,28",32,02B
 30,02-Chirurgie,"18,32",140,30
 31,02-Chirurgie,"23,48",342,31
 32,02-Chirurgie,"19,72",38,32
@@ -231,8 +231,8 @@ Total général,02-Chirurgie,"1826,94",13954,Total général
 27,03-Ophtalmologie,"4,16",25,27
 28,03-Ophtalmologie,"6,93",30,28
 29,03-Ophtalmologie,"8,08",75,29
-2A,03-Ophtalmologie,"9,64",16,2A
-2B,03-Ophtalmologie,"9,72",18,2B
+02A,03-Ophtalmologie,"9,64",16,02A
+02B,03-Ophtalmologie,"9,72",18,02B
 30,03-Ophtalmologie,"8,25",63,30
 31,03-Ophtalmologie,"9,61",140,31
 32,03-Ophtalmologie,"8,82",17,32
@@ -333,8 +333,8 @@ Total général,03-Ophtalmologie,"739,01",5793,Total général
 27,04-Oto-rhino-laryngologie,"2,49",15,27
 28,04-Oto-rhino-laryngologie,"2,77",12,28
 29,04-Oto-rhino-laryngologie,"3,99",37,29
-2A,04-Oto-rhino-laryngologie,"6,02",10,2A
-2B,04-Oto-rhino-laryngologie,"2,7",5,2B
+02A,04-Oto-rhino-laryngologie,"6,02",10,02A
+02B,04-Oto-rhino-laryngologie,"2,7",5,02B
 30,04-Oto-rhino-laryngologie,"3,66",28,30
 31,04-Oto-rhino-laryngologie,"5,56",81,31
 32,04-Oto-rhino-laryngologie,"1,56",3,32
@@ -406,7 +406,6 @@ Total général,03-Ophtalmologie,"739,01",5793,Total général
 973,04-Oto-rhino-laryngologie,"1,04",3,973
 974,04-Oto-rhino-laryngologie,"4,08",36,974
 976,04-Oto-rhino-laryngologie,2,6,976
-Total général,04-Oto-rhino-laryngologie,"369,82",2996,Total général
 1,05-Anesthésie-Réanimation,"8,34",56,01
 2,05-Anesthésie-Réanimation,"13,7",72,02
 3,05-Anesthésie-Réanimation,"13,74",46,03
@@ -435,8 +434,8 @@ Total général,04-Oto-rhino-laryngologie,"369,82",2996,Total général
 27,05-Anesthésie-Réanimation,"5,65",34,27
 28,05-Anesthésie-Réanimation,"7,16",31,28
 29,05-Anesthésie-Réanimation,"16,7",155,29
-2A,05-Anesthésie-Réanimation,"18,67",31,2A
-2B,05-Anesthésie-Réanimation,"12,42",23,2B
+02A,05-Anesthésie-Réanimation,"18,67",31,02A
+02B,05-Anesthésie-Réanimation,"12,42",23,02B
 30,05-Anesthésie-Réanimation,"20,03",153,30
 31,05-Anesthésie-Réanimation,"25,61",373,31
 32,05-Anesthésie-Réanimation,"10,9",21,32
@@ -537,8 +536,8 @@ Total général,05-Anesthésie-Réanimation,"1542,43",12523,Total général
 27,06-Biologie médicale,"1,5",9,27
 28,06-Biologie médicale,"3,46",15,28
 29,06-Biologie médicale,"5,93",55,29
-2A,06-Biologie médicale,"6,62",11,2A
-2B,06-Biologie médicale,"1,62",3,2B
+02A,06-Biologie médicale,"6,62",11,02A
+02B,06-Biologie médicale,"1,62",3,02B
 30,06-Biologie médicale,"3,93",30,30
 31,06-Biologie médicale,"4,53",66,31
 32,06-Biologie médicale,"1,04",2,32
@@ -639,8 +638,8 @@ Total général,06-Biologie médicale,"377,97",3127,Total général
 27,07-Cardiologie,"4,66",28,27
 28,07-Cardiologie,"8,78",38,28
 29,07-Cardiologie,"8,84",82,29
-2A,07-Cardiologie,"6,62",11,2A
-2B,07-Cardiologie,"11,88",22,2B
+02A,07-Cardiologie,"6,62",11,02A
+02B,07-Cardiologie,"11,88",22,02B
 30,07-Cardiologie,"9,82",75,30
 31,07-Cardiologie,"15,11",220,31
 32,07-Cardiologie,"3,63",7,32
@@ -741,8 +740,8 @@ Total général,07-Cardiologie,"915,47",7335,Total général
 27,08-Dermatologie,"1,66",10,27
 28,08-Dermatologie,"1,85",8,28
 29,08-Dermatologie,"5,71",53,29
-2A,08-Dermatologie,"4,82",8,2A
-2B,08-Dermatologie,"2,7",5,2B
+02A,08-Dermatologie,"4,82",8,02A
+02B,08-Dermatologie,"2,7",5,02B
 30,08-Dermatologie,"4,84",37,30
 31,08-Dermatologie,"8,24",120,31
 32,08-Dermatologie,"2,08",4,32
@@ -843,8 +842,8 @@ Total général,08-Dermatologie,"432,63",3751,Total général
 27,09-Gastro-entérologie,"2,49",15,27
 28,09-Gastro-entérologie,"3,7",16,28
 29,09-Gastro-entérologie,"7,11",66,29
-2A,09-Gastro-entérologie,"6,62",11,2A
-2B,09-Gastro-entérologie,"5,4",10,2B
+02A,09-Gastro-entérologie,"6,62",11,02A
+02B,09-Gastro-entérologie,"5,4",10,02B
 30,09-Gastro-entérologie,"5,5",42,30
 31,09-Gastro-entérologie,"6,18",90,31
 32,09-Gastro-entérologie,"1,56",3,32
@@ -945,8 +944,8 @@ Total général,09-Gastro-entérologie,"482,52",3844,Total général
 27,10-Gynécologie,"4,99",30,27
 28,10-Gynécologie,"7,85",34,28
 29,10-Gynécologie,"9,16",85,29
-2A,10-Gynécologie,"11,44",19,2A
-2B,10-Gynécologie,"10,26",19,2B
+02A,10-Gynécologie,"11,44",19,02A
+02B,10-Gynécologie,"10,26",19,02B
 30,10-Gynécologie,"9,69",74,30
 31,10-Gynécologie,"14,42",210,31
 32,10-Gynécologie,"7,79",15,32
@@ -1047,8 +1046,8 @@ Total général,10-Gynécologie,"953,33",7748,Total général
 27,11-Pédiatrie,"2,99",18,27
 28,11-Pédiatrie,"6,01",26,28
 29,11-Pédiatrie,"12,72",118,29
-2A,11-Pédiatrie,"9,64",16,2A
-2B,11-Pédiatrie,"7,56",14,2B
+02A,11-Pédiatrie,"9,64",16,02A
+02B,11-Pédiatrie,"7,56",14,02B
 30,11-Pédiatrie,"9,29",71,30
 31,11-Pédiatrie,"17,65",257,31
 32,11-Pédiatrie,"6,23",12,32
@@ -1149,8 +1148,8 @@ Total général,11-Pédiatrie,"1028,9",8995,Total général
 27,12-Pneumologie,"2,16",13,27
 28,12-Pneumologie,"3,46",15,28
 29,12-Pneumologie,"6,14",57,29
-2A,12-Pneumologie,"4,22",7,2A
-2B,12-Pneumologie,"4,32",8,2B
+02A,12-Pneumologie,"4,22",7,02A
+02B,12-Pneumologie,"4,32",8,02B
 30,12-Pneumologie,"4,32",33,30
 31,12-Pneumologie,"5,77",84,31
 32,12-Pneumologie,"1,04",2,32
@@ -1251,8 +1250,8 @@ Total général,12-Pneumologie,"411,37",3200,Total général
 27,13-Psychiatrie et neuropsychiatrie,"11,48",69,27
 28,13-Psychiatrie et neuropsychiatrie,"9,7",42,28
 29,13-Psychiatrie et neuropsychiatrie,"20,05",186,29
-2A,13-Psychiatrie et neuropsychiatrie,"20,48",34,2A
-2B,13-Psychiatrie et neuropsychiatrie,"21,05",39,2B
+02A,13-Psychiatrie et neuropsychiatrie,"20,48",34,02A
+02B,13-Psychiatrie et neuropsychiatrie,"21,05",39,02B
 30,13-Psychiatrie et neuropsychiatrie,"19,37",148,30
 31,13-Psychiatrie et neuropsychiatrie,"28,02",408,31
 32,13-Psychiatrie et neuropsychiatrie,"13,5",26,32
@@ -1353,8 +1352,8 @@ Total général,13-Psychiatrie et neuropsychiatrie,"1865,12",15515,Total génér
 27,14-Plateaux techniques,"10,31",62,27
 28,14-Plateaux techniques,"13,86",60,28
 29,14-Plateaux techniques,"16,06",149,29
-2A,14-Plateaux techniques,"22,28",37,2A
-2B,14-Plateaux techniques,"12,96",24,2B
+02A,14-Plateaux techniques,"22,28",37,02A
+02B,14-Plateaux techniques,"12,96",24,02B
 30,14-Plateaux techniques,"19,37",148,30
 31,14-Plateaux techniques,"23,21",338,31
 32,14-Plateaux techniques,"7,79",15,32
@@ -1455,8 +1454,8 @@ Total général,14-Plateaux techniques,"1555,78",12547,Total général
 27,15-Autre spécialité,"17,3",104,27
 28,15-Autre spécialité,"20,79",90,28
 29,15-Autre spécialité,"41,71",387,29
-2A,15-Autre spécialité,"38,54",64,2A
-2B,15-Autre spécialité,"22,13",41,2B
+02A,15-Autre spécialité,"38,54",64,02A
+02B,15-Autre spécialité,"22,13",41,02B
 30,15-Autre spécialité,"37,17",284,30
 31,15-Autre spécialité,"52,46",764,31
 32,15-Autre spécialité,"26,47",51,32
