@@ -1,0 +1,2262 @@
+ZONE,ZONE_0,departement,FAMILLE_PATHOLOGIE,ind_freq_sum
+01 - Ain,01,Ain,Autres motifs de soins,67123.0
+01 - Ain,01,Ain,Cancers / Tumeurs,20984.0
+01 - Ain,01,Ain,Cardiovasculaire,27081.0
+01 - Ain,01,Ain,Digestif & hépatique,34670.0
+01 - Ain,01,Ain,Endocrino – Métabolisme,4837.0
+01 - Ain,01,Ain,Grossesse & accouchement,19626.0
+01 - Ain,01,Ain,Génito-urinaire,15131.0
+01 - Ain,01,Ain,Infectieux & parasitaires,15724.0
+01 - Ain,01,Ain,Lésions traumatiques et empoisonnements,20760.0
+01 - Ain,01,Ain,Malformations congénitales,1405.0
+01 - Ain,01,Ain,Neurologie & système nerveux,7660.0
+01 - Ain,01,Ain,ORL & audition,1619.0
+01 - Ain,01,Ain,Ophtalmologie,18955.0
+01 - Ain,01,Ain,Ostéo-articulaire – Rhumato,24048.0
+01 - Ain,01,Ain,Peau & tissus sous-cutanés,3068.0
+01 - Ain,01,Ain,Psychiatrie – Santé mentale,4009.0
+01 - Ain,01,Ain,Périnatalité,938.0
+01 - Ain,01,Ain,Respiratoire,12496.0
+01 - Ain,01,Ain,Sang & immunité,2856.0
+01 - Guadeloupe,01,Guadeloupe,Autres motifs de soins,53692.0
+01 - Guadeloupe,01,Guadeloupe,Cancers / Tumeurs,12016.0
+01 - Guadeloupe,01,Guadeloupe,Cardiovasculaire,13029.0
+01 - Guadeloupe,01,Guadeloupe,Digestif & hépatique,17296.0
+01 - Guadeloupe,01,Guadeloupe,Endocrino – Métabolisme,5957.0
+01 - Guadeloupe,01,Guadeloupe,Grossesse & accouchement,16800.0
+01 - Guadeloupe,01,Guadeloupe,Génito-urinaire,9066.0
+01 - Guadeloupe,01,Guadeloupe,Infectieux & parasitaires,8807.0
+01 - Guadeloupe,01,Guadeloupe,Lésions traumatiques et empoisonnements,11045.0
+01 - Guadeloupe,01,Guadeloupe,Malformations congénitales,634.0
+01 - Guadeloupe,01,Guadeloupe,Neurologie & système nerveux,3968.0
+01 - Guadeloupe,01,Guadeloupe,ORL & audition,337.0
+01 - Guadeloupe,01,Guadeloupe,Ophtalmologie,13392.0
+01 - Guadeloupe,01,Guadeloupe,Ostéo-articulaire – Rhumato,9514.0
+01 - Guadeloupe,01,Guadeloupe,Peau & tissus sous-cutanés,2662.0
+01 - Guadeloupe,01,Guadeloupe,Psychiatrie – Santé mentale,2451.0
+01 - Guadeloupe,01,Guadeloupe,Périnatalité,803.0
+01 - Guadeloupe,01,Guadeloupe,Respiratoire,5794.0
+01 - Guadeloupe,01,Guadeloupe,Sang & immunité,3718.0
+02 - Aisne,02,Aisne,Autres motifs de soins,63607.0
+02 - Aisne,02,Aisne,Cancers / Tumeurs,18934.0
+02 - Aisne,02,Aisne,Cardiovasculaire,26286.0
+02 - Aisne,02,Aisne,Digestif & hépatique,35167.0
+02 - Aisne,02,Aisne,Endocrino – Métabolisme,6590.0
+02 - Aisne,02,Aisne,Grossesse & accouchement,16894.0
+02 - Aisne,02,Aisne,Génito-urinaire,14860.0
+02 - Aisne,02,Aisne,Infectieux & parasitaires,15112.0
+02 - Aisne,02,Aisne,Lésions traumatiques et empoisonnements,17937.0
+02 - Aisne,02,Aisne,Malformations congénitales,1273.0
+02 - Aisne,02,Aisne,Neurologie & système nerveux,7775.0
+02 - Aisne,02,Aisne,ORL & audition,1094.0
+02 - Aisne,02,Aisne,Ophtalmologie,15532.0
+02 - Aisne,02,Aisne,Ostéo-articulaire – Rhumato,20004.0
+02 - Aisne,02,Aisne,Peau & tissus sous-cutanés,3350.0
+02 - Aisne,02,Aisne,Psychiatrie – Santé mentale,5150.0
+02 - Aisne,02,Aisne,Périnatalité,1331.0
+02 - Aisne,02,Aisne,Respiratoire,12570.0
+02 - Aisne,02,Aisne,Sang & immunité,3804.0
+02 - Martinique,02,Martinique,Autres motifs de soins,31890.0
+02 - Martinique,02,Martinique,Cancers / Tumeurs,10756.0
+02 - Martinique,02,Martinique,Cardiovasculaire,11689.0
+02 - Martinique,02,Martinique,Digestif & hépatique,12337.0
+02 - Martinique,02,Martinique,Endocrino – Métabolisme,4169.0
+02 - Martinique,02,Martinique,Grossesse & accouchement,11552.0
+02 - Martinique,02,Martinique,Génito-urinaire,6795.0
+02 - Martinique,02,Martinique,Infectieux & parasitaires,7924.0
+02 - Martinique,02,Martinique,Lésions traumatiques et empoisonnements,9039.0
+02 - Martinique,02,Martinique,Malformations congénitales,442.0
+02 - Martinique,02,Martinique,Neurologie & système nerveux,3643.0
+02 - Martinique,02,Martinique,ORL & audition,308.0
+02 - Martinique,02,Martinique,Ophtalmologie,8902.0
+02 - Martinique,02,Martinique,Ostéo-articulaire – Rhumato,6376.0
+02 - Martinique,02,Martinique,Peau & tissus sous-cutanés,1749.0
+02 - Martinique,02,Martinique,Psychiatrie – Santé mentale,1726.0
+02 - Martinique,02,Martinique,Périnatalité,486.0
+02 - Martinique,02,Martinique,Respiratoire,5544.0
+02 - Martinique,02,Martinique,Sang & immunité,2943.0
+03 - Allier,03,Allier,Autres motifs de soins,44179.0
+03 - Allier,03,Allier,Cancers / Tumeurs,14620.0
+03 - Allier,03,Allier,Cardiovasculaire,20474.0
+03 - Allier,03,Allier,Digestif & hépatique,19474.0
+03 - Allier,03,Allier,Endocrino – Métabolisme,2776.0
+03 - Allier,03,Allier,Grossesse & accouchement,8288.0
+03 - Allier,03,Allier,Génito-urinaire,11039.0
+03 - Allier,03,Allier,Infectieux & parasitaires,10963.0
+03 - Allier,03,Allier,Lésions traumatiques et empoisonnements,12966.0
+03 - Allier,03,Allier,Malformations congénitales,710.0
+03 - Allier,03,Allier,Neurologie & système nerveux,4987.0
+03 - Allier,03,Allier,ORL & audition,754.0
+03 - Allier,03,Allier,Ophtalmologie,14914.0
+03 - Allier,03,Allier,Ostéo-articulaire – Rhumato,12596.0
+03 - Allier,03,Allier,Peau & tissus sous-cutanés,2027.0
+03 - Allier,03,Allier,Psychiatrie – Santé mentale,4061.0
+03 - Allier,03,Allier,Périnatalité,653.0
+03 - Allier,03,Allier,Respiratoire,6046.0
+03 - Allier,03,Allier,Sang & immunité,1558.0
+03 - Guyane,03,Guyane,Autres motifs de soins,13825.0
+03 - Guyane,03,Guyane,Cancers / Tumeurs,2918.0
+03 - Guyane,03,Guyane,Cardiovasculaire,4404.0
+03 - Guyane,03,Guyane,Digestif & hépatique,7708.0
+03 - Guyane,03,Guyane,Endocrino – Métabolisme,3600.0
+03 - Guyane,03,Guyane,Grossesse & accouchement,22006.0
+03 - Guyane,03,Guyane,Génito-urinaire,4329.0
+03 - Guyane,03,Guyane,Infectieux & parasitaires,4735.0
+03 - Guyane,03,Guyane,Lésions traumatiques et empoisonnements,7061.0
+03 - Guyane,03,Guyane,Malformations congénitales,729.0
+03 - Guyane,03,Guyane,Neurologie & système nerveux,1825.0
+03 - Guyane,03,Guyane,ORL & audition,196.0
+03 - Guyane,03,Guyane,Ophtalmologie,3361.0
+03 - Guyane,03,Guyane,Ostéo-articulaire – Rhumato,2888.0
+03 - Guyane,03,Guyane,Peau & tissus sous-cutanés,1370.0
+03 - Guyane,03,Guyane,Psychiatrie – Santé mentale,756.0
+03 - Guyane,03,Guyane,Périnatalité,1855.0
+03 - Guyane,03,Guyane,Respiratoire,4077.0
+03 - Guyane,03,Guyane,Sang & immunité,2304.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Autres motifs de soins,21645.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Cancers / Tumeurs,6985.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Cardiovasculaire,9034.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Digestif & hépatique,11339.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Endocrino – Métabolisme,1872.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Grossesse & accouchement,4578.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Génito-urinaire,4640.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Infectieux & parasitaires,4945.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Lésions traumatiques et empoisonnements,7178.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Malformations congénitales,392.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Neurologie & système nerveux,1907.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,ORL & audition,240.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Ophtalmologie,7433.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Ostéo-articulaire – Rhumato,7158.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Peau & tissus sous-cutanés,866.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Psychiatrie – Santé mentale,1101.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Périnatalité,253.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Respiratoire,3467.0
+04 - Alpes-de-Haute-Provence,04,Alpes de Haute Provence,Sang & immunité,1108.0
+04 - La Réunion,04,La Réunion,Autres motifs de soins,91379.0
+04 - La Réunion,04,La Réunion,Cancers / Tumeurs,20011.0
+04 - La Réunion,04,La Réunion,Cardiovasculaire,30969.0
+04 - La Réunion,04,La Réunion,Digestif & hépatique,31279.0
+04 - La Réunion,04,La Réunion,Endocrino – Métabolisme,7282.0
+04 - La Réunion,04,La Réunion,Grossesse & accouchement,43086.0
+04 - La Réunion,04,La Réunion,Génito-urinaire,17622.0
+04 - La Réunion,04,La Réunion,Infectieux & parasitaires,17124.0
+04 - La Réunion,04,La Réunion,Lésions traumatiques et empoisonnements,22021.0
+04 - La Réunion,04,La Réunion,Malformations congénitales,1930.0
+04 - La Réunion,04,La Réunion,Neurologie & système nerveux,6397.0
+04 - La Réunion,04,La Réunion,ORL & audition,1612.0
+04 - La Réunion,04,La Réunion,Ophtalmologie,25833.0
+04 - La Réunion,04,La Réunion,Ostéo-articulaire – Rhumato,17992.0
+04 - La Réunion,04,La Réunion,Peau & tissus sous-cutanés,4629.0
+04 - La Réunion,04,La Réunion,Psychiatrie – Santé mentale,10954.0
+04 - La Réunion,04,La Réunion,Périnatalité,4960.0
+04 - La Réunion,04,La Réunion,Respiratoire,18912.0
+04 - La Réunion,04,La Réunion,Sang & immunité,3928.0
+05 - Hautes-Alpes,05,Hautes Alpes,Autres motifs de soins,16417.0
+05 - Hautes-Alpes,05,Hautes Alpes,Cancers / Tumeurs,5423.0
+05 - Hautes-Alpes,05,Hautes Alpes,Cardiovasculaire,6827.0
+05 - Hautes-Alpes,05,Hautes Alpes,Digestif & hépatique,9840.0
+05 - Hautes-Alpes,05,Hautes Alpes,Endocrino – Métabolisme,964.0
+05 - Hautes-Alpes,05,Hautes Alpes,Grossesse & accouchement,3314.0
+05 - Hautes-Alpes,05,Hautes Alpes,Génito-urinaire,4040.0
+05 - Hautes-Alpes,05,Hautes Alpes,Infectieux & parasitaires,4467.0
+05 - Hautes-Alpes,05,Hautes Alpes,Lésions traumatiques et empoisonnements,7066.0
+05 - Hautes-Alpes,05,Hautes Alpes,Malformations congénitales,265.0
+05 - Hautes-Alpes,05,Hautes Alpes,Neurologie & système nerveux,1863.0
+05 - Hautes-Alpes,05,Hautes Alpes,ORL & audition,347.0
+05 - Hautes-Alpes,05,Hautes Alpes,Ophtalmologie,5941.0
+05 - Hautes-Alpes,05,Hautes Alpes,Ostéo-articulaire – Rhumato,6470.0
+05 - Hautes-Alpes,05,Hautes Alpes,Peau & tissus sous-cutanés,890.0
+05 - Hautes-Alpes,05,Hautes Alpes,Psychiatrie – Santé mentale,1084.0
+05 - Hautes-Alpes,05,Hautes Alpes,Périnatalité,273.0
+05 - Hautes-Alpes,05,Hautes Alpes,Respiratoire,3142.0
+05 - Hautes-Alpes,05,Hautes Alpes,Sang & immunité,642.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Autres motifs de soins,125888.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Cancers / Tumeurs,51745.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Cardiovasculaire,50631.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Digestif & hépatique,90690.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Endocrino – Métabolisme,8960.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Grossesse & accouchement,32604.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Génito-urinaire,33081.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Infectieux & parasitaires,37665.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Lésions traumatiques et empoisonnements,48668.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Malformations congénitales,3222.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Neurologie & système nerveux,11535.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,ORL & audition,2036.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Ophtalmologie,44324.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Ostéo-articulaire – Rhumato,44218.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Peau & tissus sous-cutanés,8393.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Psychiatrie – Santé mentale,8702.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Périnatalité,1982.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Respiratoire,23311.0
+06 - Alpes-Maritimes,06,Alpes Maritimes,Sang & immunité,6535.0
+06 - Mayotte,06,Mayotte,Autres motifs de soins,6663.0
+06 - Mayotte,06,Mayotte,Cancers / Tumeurs,1549.0
+06 - Mayotte,06,Mayotte,Cardiovasculaire,2214.0
+06 - Mayotte,06,Mayotte,Digestif & hépatique,2234.0
+06 - Mayotte,06,Mayotte,Endocrino – Métabolisme,892.0
+06 - Mayotte,06,Mayotte,Grossesse & accouchement,27344.0
+06 - Mayotte,06,Mayotte,Génito-urinaire,1743.0
+06 - Mayotte,06,Mayotte,Infectieux & parasitaires,2488.0
+06 - Mayotte,06,Mayotte,Lésions traumatiques et empoisonnements,3446.0
+06 - Mayotte,06,Mayotte,Malformations congénitales,723.0
+06 - Mayotte,06,Mayotte,Neurologie & système nerveux,885.0
+06 - Mayotte,06,Mayotte,ORL & audition,163.0
+06 - Mayotte,06,Mayotte,Ophtalmologie,648.0
+06 - Mayotte,06,Mayotte,Ostéo-articulaire – Rhumato,1122.0
+06 - Mayotte,06,Mayotte,Peau & tissus sous-cutanés,2339.0
+06 - Mayotte,06,Mayotte,Psychiatrie – Santé mentale,464.0
+06 - Mayotte,06,Mayotte,Périnatalité,1400.0
+06 - Mayotte,06,Mayotte,Respiratoire,4202.0
+06 - Mayotte,06,Mayotte,Sang & immunité,1281.0
+07 - Ardèche,07,Ardèche,Autres motifs de soins,43179.0
+07 - Ardèche,07,Ardèche,Cancers / Tumeurs,14418.0
+07 - Ardèche,07,Ardèche,Cardiovasculaire,16913.0
+07 - Ardèche,07,Ardèche,Digestif & hépatique,20268.0
+07 - Ardèche,07,Ardèche,Endocrino – Métabolisme,2971.0
+07 - Ardèche,07,Ardèche,Grossesse & accouchement,8584.0
+07 - Ardèche,07,Ardèche,Génito-urinaire,9148.0
+07 - Ardèche,07,Ardèche,Infectieux & parasitaires,10664.0
+07 - Ardèche,07,Ardèche,Lésions traumatiques et empoisonnements,13443.0
+07 - Ardèche,07,Ardèche,Malformations congénitales,610.0
+07 - Ardèche,07,Ardèche,Neurologie & système nerveux,4138.0
+07 - Ardèche,07,Ardèche,ORL & audition,706.0
+07 - Ardèche,07,Ardèche,Ophtalmologie,13635.0
+07 - Ardèche,07,Ardèche,Ostéo-articulaire – Rhumato,13362.0
+07 - Ardèche,07,Ardèche,Peau & tissus sous-cutanés,1623.0
+07 - Ardèche,07,Ardèche,Psychiatrie – Santé mentale,3005.0
+07 - Ardèche,07,Ardèche,Périnatalité,622.0
+07 - Ardèche,07,Ardèche,Respiratoire,6774.0
+07 - Ardèche,07,Ardèche,Sang & immunité,1873.0
+08 - Ardennes,08,Ardennes,Autres motifs de soins,31705.0
+08 - Ardennes,08,Ardennes,Cancers / Tumeurs,8444.0
+08 - Ardennes,08,Ardennes,Cardiovasculaire,13893.0
+08 - Ardennes,08,Ardennes,Digestif & hépatique,16556.0
+08 - Ardennes,08,Ardennes,Endocrino – Métabolisme,3299.0
+08 - Ardennes,08,Ardennes,Grossesse & accouchement,7970.0
+08 - Ardennes,08,Ardennes,Génito-urinaire,7422.0
+08 - Ardennes,08,Ardennes,Infectieux & parasitaires,6754.0
+08 - Ardennes,08,Ardennes,Lésions traumatiques et empoisonnements,9136.0
+08 - Ardennes,08,Ardennes,Malformations congénitales,603.0
+08 - Ardennes,08,Ardennes,Neurologie & système nerveux,4809.0
+08 - Ardennes,08,Ardennes,ORL & audition,555.0
+08 - Ardennes,08,Ardennes,Ophtalmologie,7749.0
+08 - Ardennes,08,Ardennes,Ostéo-articulaire – Rhumato,10782.0
+08 - Ardennes,08,Ardennes,Peau & tissus sous-cutanés,1895.0
+08 - Ardennes,08,Ardennes,Psychiatrie – Santé mentale,3168.0
+08 - Ardennes,08,Ardennes,Périnatalité,646.0
+08 - Ardennes,08,Ardennes,Respiratoire,6386.0
+08 - Ardennes,08,Ardennes,Sang & immunité,1873.0
+09 - Ariège,09,Ariège,Autres motifs de soins,21574.0
+09 - Ariège,09,Ariège,Cancers / Tumeurs,6152.0
+09 - Ariège,09,Ariège,Cardiovasculaire,9669.0
+09 - Ariège,09,Ariège,Digestif & hépatique,8949.0
+09 - Ariège,09,Ariège,Endocrino – Métabolisme,1169.0
+09 - Ariège,09,Ariège,Grossesse & accouchement,3988.0
+09 - Ariège,09,Ariège,Génito-urinaire,3909.0
+09 - Ariège,09,Ariège,Infectieux & parasitaires,4401.0
+09 - Ariège,09,Ariège,Lésions traumatiques et empoisonnements,6036.0
+09 - Ariège,09,Ariège,Malformations congénitales,353.0
+09 - Ariège,09,Ariège,Neurologie & système nerveux,1996.0
+09 - Ariège,09,Ariège,ORL & audition,361.0
+09 - Ariège,09,Ariège,Ophtalmologie,5915.0
+09 - Ariège,09,Ariège,Ostéo-articulaire – Rhumato,5882.0
+09 - Ariège,09,Ariège,Peau & tissus sous-cutanés,950.0
+09 - Ariège,09,Ariège,Psychiatrie – Santé mentale,1099.0
+09 - Ariège,09,Ariège,Périnatalité,292.0
+09 - Ariège,09,Ariège,Respiratoire,2691.0
+09 - Ariège,09,Ariège,Sang & immunité,1012.0
+10 - Aube,10,Aube,Autres motifs de soins,37278.0
+10 - Aube,10,Aube,Cancers / Tumeurs,10491.0
+10 - Aube,10,Aube,Cardiovasculaire,11949.0
+10 - Aube,10,Aube,Digestif & hépatique,16449.0
+10 - Aube,10,Aube,Endocrino – Métabolisme,2576.0
+10 - Aube,10,Aube,Grossesse & accouchement,9396.0
+10 - Aube,10,Aube,Génito-urinaire,8258.0
+10 - Aube,10,Aube,Infectieux & parasitaires,7629.0
+10 - Aube,10,Aube,Lésions traumatiques et empoisonnements,9034.0
+10 - Aube,10,Aube,Malformations congénitales,673.0
+10 - Aube,10,Aube,Neurologie & système nerveux,4070.0
+10 - Aube,10,Aube,ORL & audition,651.0
+10 - Aube,10,Aube,Ophtalmologie,11247.0
+10 - Aube,10,Aube,Ostéo-articulaire – Rhumato,10624.0
+10 - Aube,10,Aube,Peau & tissus sous-cutanés,1418.0
+10 - Aube,10,Aube,Psychiatrie – Santé mentale,1026.0
+10 - Aube,10,Aube,Périnatalité,1199.0
+10 - Aube,10,Aube,Respiratoire,5304.0
+10 - Aube,10,Aube,Sang & immunité,1570.0
+11 - Aude,11,Aude,Autres motifs de soins,51440.0
+11 - Aude,11,Aude,Cancers / Tumeurs,13474.0
+11 - Aude,11,Aude,Cardiovasculaire,22092.0
+11 - Aude,11,Aude,Digestif & hépatique,27753.0
+11 - Aude,11,Aude,Endocrino – Métabolisme,4473.0
+11 - Aude,11,Aude,Grossesse & accouchement,11438.0
+11 - Aude,11,Aude,Génito-urinaire,10633.0
+11 - Aude,11,Aude,Infectieux & parasitaires,10409.0
+11 - Aude,11,Aude,Lésions traumatiques et empoisonnements,14171.0
+11 - Aude,11,Aude,Malformations congénitales,840.0
+11 - Aude,11,Aude,Neurologie & système nerveux,5295.0
+11 - Aude,11,Aude,ORL & audition,1055.0
+11 - Aude,11,Aude,Ophtalmologie,15478.0
+11 - Aude,11,Aude,Ostéo-articulaire – Rhumato,18088.0
+11 - Aude,11,Aude,Peau & tissus sous-cutanés,2158.0
+11 - Aude,11,Aude,Psychiatrie – Santé mentale,4018.0
+11 - Aude,11,Aude,Périnatalité,883.0
+11 - Aude,11,Aude,Respiratoire,7743.0
+11 - Aude,11,Aude,Sang & immunité,2469.0
+11 - Ile de France,11,Ile de France,Autres motifs de soins,1302145.0
+11 - Ile de France,11,Ile de France,Cancers / Tumeurs,384637.0
+11 - Ile de France,11,Ile de France,Cardiovasculaire,418487.0
+11 - Ile de France,11,Ile de France,Digestif & hépatique,572393.0
+11 - Ile de France,11,Ile de France,Endocrino – Métabolisme,111669.0
+11 - Ile de France,11,Ile de France,Grossesse & accouchement,472208.0
+11 - Ile de France,11,Ile de France,Génito-urinaire,284266.0
+11 - Ile de France,11,Ile de France,Infectieux & parasitaires,291893.0
+11 - Ile de France,11,Ile de France,Lésions traumatiques et empoisonnements,321803.0
+11 - Ile de France,11,Ile de France,Malformations congénitales,28890.0
+11 - Ile de France,11,Ile de France,Neurologie & système nerveux,106005.0
+11 - Ile de France,11,Ile de France,ORL & audition,20306.0
+11 - Ile de France,11,Ile de France,Ophtalmologie,331412.0
+11 - Ile de France,11,Ile de France,Ostéo-articulaire – Rhumato,326768.0
+11 - Ile de France,11,Ile de France,Peau & tissus sous-cutanés,76920.0
+11 - Ile de France,11,Ile de France,Psychiatrie – Santé mentale,97334.0
+11 - Ile de France,11,Ile de France,Périnatalité,40105.0
+11 - Ile de France,11,Ile de France,Respiratoire,225806.0
+11 - Ile de France,11,Ile de France,Sang & immunité,73033.0
+12 - Aveyron,12,Aveyron,Autres motifs de soins,35120.0
+12 - Aveyron,12,Aveyron,Cancers / Tumeurs,10129.0
+12 - Aveyron,12,Aveyron,Cardiovasculaire,16299.0
+12 - Aveyron,12,Aveyron,Digestif & hépatique,13636.0
+12 - Aveyron,12,Aveyron,Endocrino – Métabolisme,1648.0
+12 - Aveyron,12,Aveyron,Grossesse & accouchement,6940.0
+12 - Aveyron,12,Aveyron,Génito-urinaire,6239.0
+12 - Aveyron,12,Aveyron,Infectieux & parasitaires,6995.0
+12 - Aveyron,12,Aveyron,Lésions traumatiques et empoisonnements,10624.0
+12 - Aveyron,12,Aveyron,Malformations congénitales,522.0
+12 - Aveyron,12,Aveyron,Neurologie & système nerveux,3410.0
+12 - Aveyron,12,Aveyron,ORL & audition,542.0
+12 - Aveyron,12,Aveyron,Ophtalmologie,11800.0
+12 - Aveyron,12,Aveyron,Ostéo-articulaire – Rhumato,10996.0
+12 - Aveyron,12,Aveyron,Peau & tissus sous-cutanés,1260.0
+12 - Aveyron,12,Aveyron,Psychiatrie – Santé mentale,1610.0
+12 - Aveyron,12,Aveyron,Périnatalité,380.0
+12 - Aveyron,12,Aveyron,Respiratoire,4733.0
+12 - Aveyron,12,Aveyron,Sang & immunité,1381.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Autres motifs de soins,275952.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Cancers / Tumeurs,79926.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Cardiovasculaire,92638.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Digestif & hépatique,156497.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Endocrino – Métabolisme,20732.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Grossesse & accouchement,75330.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Génito-urinaire,61162.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Infectieux & parasitaires,59956.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Lésions traumatiques et empoisonnements,82472.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Malformations congénitales,5661.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Neurologie & système nerveux,26299.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,ORL & audition,4965.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Ophtalmologie,74395.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Ostéo-articulaire – Rhumato,79970.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Peau & tissus sous-cutanés,12474.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Psychiatrie – Santé mentale,19175.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Périnatalité,6850.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Respiratoire,46418.0
+13 - Bouches-du-Rhône,13,Bouches du Rhône,Sang & immunité,12607.0
+14 - Calvados,14,Calvados,Autres motifs de soins,88882.0
+14 - Calvados,14,Calvados,Cancers / Tumeurs,24870.0
+14 - Calvados,14,Calvados,Cardiovasculaire,37204.0
+14 - Calvados,14,Calvados,Digestif & hépatique,34429.0
+14 - Calvados,14,Calvados,Endocrino – Métabolisme,5353.0
+14 - Calvados,14,Calvados,Grossesse & accouchement,18950.0
+14 - Calvados,14,Calvados,Génito-urinaire,17225.0
+14 - Calvados,14,Calvados,Infectieux & parasitaires,19390.0
+14 - Calvados,14,Calvados,Lésions traumatiques et empoisonnements,26488.0
+14 - Calvados,14,Calvados,Malformations congénitales,1521.0
+14 - Calvados,14,Calvados,Neurologie & système nerveux,9999.0
+14 - Calvados,14,Calvados,ORL & audition,2024.0
+14 - Calvados,14,Calvados,Ophtalmologie,25746.0
+14 - Calvados,14,Calvados,Ostéo-articulaire – Rhumato,25326.0
+14 - Calvados,14,Calvados,Peau & tissus sous-cutanés,3471.0
+14 - Calvados,14,Calvados,Psychiatrie – Santé mentale,11107.0
+14 - Calvados,14,Calvados,Périnatalité,1355.0
+14 - Calvados,14,Calvados,Respiratoire,15141.0
+14 - Calvados,14,Calvados,Sang & immunité,3409.0
+15 - Cantal,15,Cantal,Autres motifs de soins,20808.0
+15 - Cantal,15,Cantal,Cancers / Tumeurs,5447.0
+15 - Cantal,15,Cantal,Cardiovasculaire,8861.0
+15 - Cantal,15,Cantal,Digestif & hépatique,8817.0
+15 - Cantal,15,Cantal,Endocrino – Métabolisme,1015.0
+15 - Cantal,15,Cantal,Grossesse & accouchement,3330.0
+15 - Cantal,15,Cantal,Génito-urinaire,3555.0
+15 - Cantal,15,Cantal,Infectieux & parasitaires,4596.0
+15 - Cantal,15,Cantal,Lésions traumatiques et empoisonnements,5696.0
+15 - Cantal,15,Cantal,Malformations congénitales,319.0
+15 - Cantal,15,Cantal,Neurologie & système nerveux,2527.0
+15 - Cantal,15,Cantal,ORL & audition,328.0
+15 - Cantal,15,Cantal,Ophtalmologie,5461.0
+15 - Cantal,15,Cantal,Ostéo-articulaire – Rhumato,5620.0
+15 - Cantal,15,Cantal,Peau & tissus sous-cutanés,717.0
+15 - Cantal,15,Cantal,Psychiatrie – Santé mentale,1342.0
+15 - Cantal,15,Cantal,Périnatalité,332.0
+15 - Cantal,15,Cantal,Respiratoire,3019.0
+15 - Cantal,15,Cantal,Sang & immunité,894.0
+16 - Charente,16,Charente,Autres motifs de soins,43095.0
+16 - Charente,16,Charente,Cancers / Tumeurs,12839.0
+16 - Charente,16,Charente,Cardiovasculaire,17346.0
+16 - Charente,16,Charente,Digestif & hépatique,17073.0
+16 - Charente,16,Charente,Endocrino – Métabolisme,2507.0
+16 - Charente,16,Charente,Grossesse & accouchement,9636.0
+16 - Charente,16,Charente,Génito-urinaire,8052.0
+16 - Charente,16,Charente,Infectieux & parasitaires,9121.0
+16 - Charente,16,Charente,Lésions traumatiques et empoisonnements,12948.0
+16 - Charente,16,Charente,Malformations congénitales,649.0
+16 - Charente,16,Charente,Neurologie & système nerveux,3696.0
+16 - Charente,16,Charente,ORL & audition,586.0
+16 - Charente,16,Charente,Ophtalmologie,15861.0
+16 - Charente,16,Charente,Ostéo-articulaire – Rhumato,13522.0
+16 - Charente,16,Charente,Peau & tissus sous-cutanés,1718.0
+16 - Charente,16,Charente,Psychiatrie – Santé mentale,2335.0
+16 - Charente,16,Charente,Périnatalité,721.0
+16 - Charente,16,Charente,Respiratoire,5582.0
+16 - Charente,16,Charente,Sang & immunité,1506.0
+17 - Charente-Maritime,17,Charente Maritime,Autres motifs de soins,71546.0
+17 - Charente-Maritime,17,Charente Maritime,Cancers / Tumeurs,25017.0
+17 - Charente-Maritime,17,Charente Maritime,Cardiovasculaire,32601.0
+17 - Charente-Maritime,17,Charente Maritime,Digestif & hépatique,39185.0
+17 - Charente-Maritime,17,Charente Maritime,Endocrino – Métabolisme,4969.0
+17 - Charente-Maritime,17,Charente Maritime,Grossesse & accouchement,15950.0
+17 - Charente-Maritime,17,Charente Maritime,Génito-urinaire,14900.0
+17 - Charente-Maritime,17,Charente Maritime,Infectieux & parasitaires,18042.0
+17 - Charente-Maritime,17,Charente Maritime,Lésions traumatiques et empoisonnements,23380.0
+17 - Charente-Maritime,17,Charente Maritime,Malformations congénitales,1363.0
+17 - Charente-Maritime,17,Charente Maritime,Neurologie & système nerveux,7826.0
+17 - Charente-Maritime,17,Charente Maritime,ORL & audition,1375.0
+17 - Charente-Maritime,17,Charente Maritime,Ophtalmologie,27635.0
+17 - Charente-Maritime,17,Charente Maritime,Ostéo-articulaire – Rhumato,25792.0
+17 - Charente-Maritime,17,Charente Maritime,Peau & tissus sous-cutanés,3402.0
+17 - Charente-Maritime,17,Charente Maritime,Psychiatrie – Santé mentale,4368.0
+17 - Charente-Maritime,17,Charente Maritime,Périnatalité,1563.0
+17 - Charente-Maritime,17,Charente Maritime,Respiratoire,11716.0
+17 - Charente-Maritime,17,Charente Maritime,Sang & immunité,3723.0
+18 - Cher,18,Cher,Autres motifs de soins,30573.0
+18 - Cher,18,Cher,Cancers / Tumeurs,10522.0
+18 - Cher,18,Cher,Cardiovasculaire,13628.0
+18 - Cher,18,Cher,Digestif & hépatique,16063.0
+18 - Cher,18,Cher,Endocrino – Métabolisme,2408.0
+18 - Cher,18,Cher,Grossesse & accouchement,8072.0
+18 - Cher,18,Cher,Génito-urinaire,6928.0
+18 - Cher,18,Cher,Infectieux & parasitaires,8193.0
+18 - Cher,18,Cher,Lésions traumatiques et empoisonnements,9797.0
+18 - Cher,18,Cher,Malformations congénitales,563.0
+18 - Cher,18,Cher,Neurologie & système nerveux,3802.0
+18 - Cher,18,Cher,ORL & audition,796.0
+18 - Cher,18,Cher,Ophtalmologie,13410.0
+18 - Cher,18,Cher,Ostéo-articulaire – Rhumato,10722.0
+18 - Cher,18,Cher,Peau & tissus sous-cutanés,1381.0
+18 - Cher,18,Cher,Psychiatrie – Santé mentale,1589.0
+18 - Cher,18,Cher,Périnatalité,581.0
+18 - Cher,18,Cher,Respiratoire,5476.0
+18 - Cher,18,Cher,Sang & immunité,1783.0
+19 - Corrèze,19,Corrèze,Autres motifs de soins,28520.0
+19 - Corrèze,19,Corrèze,Cancers / Tumeurs,10149.0
+19 - Corrèze,19,Corrèze,Cardiovasculaire,11495.0
+19 - Corrèze,19,Corrèze,Digestif & hépatique,13724.0
+19 - Corrèze,19,Corrèze,Endocrino – Métabolisme,2255.0
+19 - Corrèze,19,Corrèze,Grossesse & accouchement,6092.0
+19 - Corrèze,19,Corrèze,Génito-urinaire,5747.0
+19 - Corrèze,19,Corrèze,Infectieux & parasitaires,7264.0
+19 - Corrèze,19,Corrèze,Lésions traumatiques et empoisonnements,9002.0
+19 - Corrèze,19,Corrèze,Malformations congénitales,475.0
+19 - Corrèze,19,Corrèze,Neurologie & système nerveux,3796.0
+19 - Corrèze,19,Corrèze,ORL & audition,487.0
+19 - Corrèze,19,Corrèze,Ophtalmologie,8597.0
+19 - Corrèze,19,Corrèze,Ostéo-articulaire – Rhumato,9364.0
+19 - Corrèze,19,Corrèze,Peau & tissus sous-cutanés,1207.0
+19 - Corrèze,19,Corrèze,Psychiatrie – Santé mentale,1969.0
+19 - Corrèze,19,Corrèze,Périnatalité,296.0
+19 - Corrèze,19,Corrèze,Respiratoire,4430.0
+19 - Corrèze,19,Corrèze,Sang & immunité,1530.0
+21 - Côte-d'Or,21,Côte d'Or,Autres motifs de soins,67951.0
+21 - Côte-d'Or,21,Côte d'Or,Cancers / Tumeurs,19856.0
+21 - Côte-d'Or,21,Côte d'Or,Cardiovasculaire,22300.0
+21 - Côte-d'Or,21,Côte d'Or,Digestif & hépatique,29391.0
+21 - Côte-d'Or,21,Côte d'Or,Endocrino – Métabolisme,4830.0
+21 - Côte-d'Or,21,Côte d'Or,Grossesse & accouchement,14986.0
+21 - Côte-d'Or,21,Côte d'Or,Génito-urinaire,11841.0
+21 - Côte-d'Or,21,Côte d'Or,Infectieux & parasitaires,14601.0
+21 - Côte-d'Or,21,Côte d'Or,Lésions traumatiques et empoisonnements,20647.0
+21 - Côte-d'Or,21,Côte d'Or,Malformations congénitales,1390.0
+21 - Côte-d'Or,21,Côte d'Or,Neurologie & système nerveux,6871.0
+21 - Côte-d'Or,21,Côte d'Or,ORL & audition,1264.0
+21 - Côte-d'Or,21,Côte d'Or,Ophtalmologie,18642.0
+21 - Côte-d'Or,21,Côte d'Or,Ostéo-articulaire – Rhumato,19972.0
+21 - Côte-d'Or,21,Côte d'Or,Peau & tissus sous-cutanés,4051.0
+21 - Côte-d'Or,21,Côte d'Or,Psychiatrie – Santé mentale,4251.0
+21 - Côte-d'Or,21,Côte d'Or,Périnatalité,1416.0
+21 - Côte-d'Or,21,Côte d'Or,Respiratoire,10168.0
+21 - Côte-d'Or,21,Côte d'Or,Sang & immunité,2594.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Autres motifs de soins,68562.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Cancers / Tumeurs,24836.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Cardiovasculaire,31398.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Digestif & hépatique,28869.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Endocrino – Métabolisme,5904.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Grossesse & accouchement,15798.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Génito-urinaire,12612.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Infectieux & parasitaires,18281.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Lésions traumatiques et empoisonnements,28180.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Malformations congénitales,1135.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Neurologie & système nerveux,8228.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,ORL & audition,2123.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Ophtalmologie,23103.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Ostéo-articulaire – Rhumato,22026.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Peau & tissus sous-cutanés,4012.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Psychiatrie – Santé mentale,9440.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Périnatalité,1060.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Respiratoire,12493.0
+22 - Côtes-d'Armor,22,Côtes d'Armor,Sang & immunité,3032.0
+23 - Creuse,23,Creuse,Autres motifs de soins,14969.0
+23 - Creuse,23,Creuse,Cancers / Tumeurs,4836.0
+23 - Creuse,23,Creuse,Cardiovasculaire,7024.0
+23 - Creuse,23,Creuse,Digestif & hépatique,6265.0
+23 - Creuse,23,Creuse,Endocrino – Métabolisme,1102.0
+23 - Creuse,23,Creuse,Grossesse & accouchement,2592.0
+23 - Creuse,23,Creuse,Génito-urinaire,3005.0
+23 - Creuse,23,Creuse,Infectieux & parasitaires,3562.0
+23 - Creuse,23,Creuse,Lésions traumatiques et empoisonnements,4437.0
+23 - Creuse,23,Creuse,Malformations congénitales,225.0
+23 - Creuse,23,Creuse,Neurologie & système nerveux,1657.0
+23 - Creuse,23,Creuse,ORL & audition,205.0
+23 - Creuse,23,Creuse,Ophtalmologie,4832.0
+23 - Creuse,23,Creuse,Ostéo-articulaire – Rhumato,4612.0
+23 - Creuse,23,Creuse,Peau & tissus sous-cutanés,513.0
+23 - Creuse,23,Creuse,Psychiatrie – Santé mentale,2938.0
+23 - Creuse,23,Creuse,Périnatalité,330.0
+23 - Creuse,23,Creuse,Respiratoire,2499.0
+23 - Creuse,23,Creuse,Sang & immunité,785.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Autres motifs de soins,254232.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Cancers / Tumeurs,91557.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Cardiovasculaire,114231.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Digestif & hépatique,130518.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Endocrino – Métabolisme,18974.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Grossesse & accouchement,75122.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Génito-urinaire,59762.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Infectieux & parasitaires,66356.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Lésions traumatiques et empoisonnements,84537.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Malformations congénitales,5994.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Neurologie & système nerveux,31118.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,ORL & audition,6265.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Ophtalmologie,94998.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Ostéo-articulaire – Rhumato,87416.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Peau & tissus sous-cutanés,12330.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Psychiatrie – Santé mentale,13693.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Périnatalité,4842.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Respiratoire,46438.0
+24 - Centre-Val de Loire,24,Centre Val de Loire,Sang & immunité,14530.0
+24 - Dordogne,24,Dordogne,Autres motifs de soins,53626.0
+24 - Dordogne,24,Dordogne,Cancers / Tumeurs,17426.0
+24 - Dordogne,24,Dordogne,Cardiovasculaire,22601.0
+24 - Dordogne,24,Dordogne,Digestif & hépatique,26017.0
+24 - Dordogne,24,Dordogne,Endocrino – Métabolisme,3865.0
+24 - Dordogne,24,Dordogne,Grossesse & accouchement,9828.0
+24 - Dordogne,24,Dordogne,Génito-urinaire,10605.0
+24 - Dordogne,24,Dordogne,Infectieux & parasitaires,12444.0
+24 - Dordogne,24,Dordogne,Lésions traumatiques et empoisonnements,17084.0
+24 - Dordogne,24,Dordogne,Malformations congénitales,692.0
+24 - Dordogne,24,Dordogne,Neurologie & système nerveux,5856.0
+24 - Dordogne,24,Dordogne,ORL & audition,732.0
+24 - Dordogne,24,Dordogne,Ophtalmologie,18486.0
+24 - Dordogne,24,Dordogne,Ostéo-articulaire – Rhumato,19750.0
+24 - Dordogne,24,Dordogne,Peau & tissus sous-cutanés,2197.0
+24 - Dordogne,24,Dordogne,Psychiatrie – Santé mentale,3227.0
+24 - Dordogne,24,Dordogne,Périnatalité,543.0
+24 - Dordogne,24,Dordogne,Respiratoire,7001.0
+24 - Dordogne,24,Dordogne,Sang & immunité,2326.0
+25 - Doubs,25,Doubs,Autres motifs de soins,60129.0
+25 - Doubs,25,Doubs,Cancers / Tumeurs,18563.0
+25 - Doubs,25,Doubs,Cardiovasculaire,22268.0
+25 - Doubs,25,Doubs,Digestif & hépatique,23097.0
+25 - Doubs,25,Doubs,Endocrino – Métabolisme,3351.0
+25 - Doubs,25,Doubs,Grossesse & accouchement,15978.0
+25 - Doubs,25,Doubs,Génito-urinaire,11537.0
+25 - Doubs,25,Doubs,Infectieux & parasitaires,13569.0
+25 - Doubs,25,Doubs,Lésions traumatiques et empoisonnements,15234.0
+25 - Doubs,25,Doubs,Malformations congénitales,1120.0
+25 - Doubs,25,Doubs,Neurologie & système nerveux,5637.0
+25 - Doubs,25,Doubs,ORL & audition,1015.0
+25 - Doubs,25,Doubs,Ophtalmologie,16499.0
+25 - Doubs,25,Doubs,Ostéo-articulaire – Rhumato,17398.0
+25 - Doubs,25,Doubs,Peau & tissus sous-cutanés,2102.0
+25 - Doubs,25,Doubs,Psychiatrie – Santé mentale,5550.0
+25 - Doubs,25,Doubs,Périnatalité,1670.0
+25 - Doubs,25,Doubs,Respiratoire,9553.0
+25 - Doubs,25,Doubs,Sang & immunité,2274.0
+26 - Drôme,26,Drôme,Autres motifs de soins,57894.0
+26 - Drôme,26,Drôme,Cancers / Tumeurs,20058.0
+26 - Drôme,26,Drôme,Cardiovasculaire,21164.0
+26 - Drôme,26,Drôme,Digestif & hépatique,27747.0
+26 - Drôme,26,Drôme,Endocrino – Métabolisme,4322.0
+26 - Drôme,26,Drôme,Grossesse & accouchement,15780.0
+26 - Drôme,26,Drôme,Génito-urinaire,12571.0
+26 - Drôme,26,Drôme,Infectieux & parasitaires,14836.0
+26 - Drôme,26,Drôme,Lésions traumatiques et empoisonnements,19447.0
+26 - Drôme,26,Drôme,Malformations congénitales,997.0
+26 - Drôme,26,Drôme,Neurologie & système nerveux,5990.0
+26 - Drôme,26,Drôme,ORL & audition,1177.0
+26 - Drôme,26,Drôme,Ophtalmologie,18790.0
+26 - Drôme,26,Drôme,Ostéo-articulaire – Rhumato,18402.0
+26 - Drôme,26,Drôme,Peau & tissus sous-cutanés,2303.0
+26 - Drôme,26,Drôme,Psychiatrie – Santé mentale,3264.0
+26 - Drôme,26,Drôme,Périnatalité,1277.0
+26 - Drôme,26,Drôme,Respiratoire,10103.0
+26 - Drôme,26,Drôme,Sang & immunité,2367.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Autres motifs de soins,346128.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Cancers / Tumeurs,109358.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Cardiovasculaire,137503.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Digestif & hépatique,146034.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Endocrino – Métabolisme,24370.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Grossesse & accouchement,77082.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Génito-urinaire,67587.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Infectieux & parasitaires,81508.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Lésions traumatiques et empoisonnements,97516.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Malformations congénitales,5735.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Neurologie & système nerveux,37186.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,ORL & audition,5933.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Ophtalmologie,98596.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Ostéo-articulaire – Rhumato,109866.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Peau & tissus sous-cutanés,16835.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Psychiatrie – Santé mentale,27471.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Périnatalité,7566.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Respiratoire,54416.0
+27 - Bourgogne-Franche-Comté,27,Bourgogne Franche Comté,Sang & immunité,15510.0
+27 - Eure,27,Eure,Autres motifs de soins,73621.0
+27 - Eure,27,Eure,Cancers / Tumeurs,19886.0
+27 - Eure,27,Eure,Cardiovasculaire,26326.0
+27 - Eure,27,Eure,Digestif & hépatique,30946.0
+27 - Eure,27,Eure,Endocrino – Métabolisme,5856.0
+27 - Eure,27,Eure,Grossesse & accouchement,20096.0
+27 - Eure,27,Eure,Génito-urinaire,14015.0
+27 - Eure,27,Eure,Infectieux & parasitaires,15419.0
+27 - Eure,27,Eure,Lésions traumatiques et empoisonnements,19137.0
+27 - Eure,27,Eure,Malformations congénitales,1277.0
+27 - Eure,27,Eure,Neurologie & système nerveux,7581.0
+27 - Eure,27,Eure,ORL & audition,2052.0
+27 - Eure,27,Eure,Ophtalmologie,19080.0
+27 - Eure,27,Eure,Ostéo-articulaire – Rhumato,22274.0
+27 - Eure,27,Eure,Peau & tissus sous-cutanés,3275.0
+27 - Eure,27,Eure,Psychiatrie – Santé mentale,3579.0
+27 - Eure,27,Eure,Périnatalité,1178.0
+27 - Eure,27,Eure,Respiratoire,12737.0
+27 - Eure,27,Eure,Sang & immunité,3312.0
+28 - Eure-et-Loir,28,Eure et Loir,Autres motifs de soins,45627.0
+28 - Eure-et-Loir,28,Eure et Loir,Cancers / Tumeurs,14267.0
+28 - Eure-et-Loir,28,Eure et Loir,Cardiovasculaire,20635.0
+28 - Eure-et-Loir,28,Eure et Loir,Digestif & hépatique,22397.0
+28 - Eure-et-Loir,28,Eure et Loir,Endocrino – Métabolisme,4111.0
+28 - Eure-et-Loir,28,Eure et Loir,Grossesse & accouchement,13644.0
+28 - Eure-et-Loir,28,Eure et Loir,Génito-urinaire,11081.0
+28 - Eure-et-Loir,28,Eure et Loir,Infectieux & parasitaires,10756.0
+28 - Eure-et-Loir,28,Eure et Loir,Lésions traumatiques et empoisonnements,13291.0
+28 - Eure-et-Loir,28,Eure et Loir,Malformations congénitales,1198.0
+28 - Eure-et-Loir,28,Eure et Loir,Neurologie & système nerveux,5082.0
+28 - Eure-et-Loir,28,Eure et Loir,ORL & audition,929.0
+28 - Eure-et-Loir,28,Eure et Loir,Ophtalmologie,16261.0
+28 - Eure-et-Loir,28,Eure et Loir,Ostéo-articulaire – Rhumato,14696.0
+28 - Eure-et-Loir,28,Eure et Loir,Peau & tissus sous-cutanés,2286.0
+28 - Eure-et-Loir,28,Eure et Loir,Psychiatrie – Santé mentale,3096.0
+28 - Eure-et-Loir,28,Eure et Loir,Périnatalité,1269.0
+28 - Eure-et-Loir,28,Eure et Loir,Respiratoire,8995.0
+28 - Eure-et-Loir,28,Eure et Loir,Sang & immunité,2529.0
+28 - Normandie,28,Normandie,Autres motifs de soins,435380.0
+28 - Normandie,28,Normandie,Cancers / Tumeurs,114815.0
+28 - Normandie,28,Normandie,Cardiovasculaire,165254.0
+28 - Normandie,28,Normandie,Digestif & hépatique,168952.0
+28 - Normandie,28,Normandie,Endocrino – Métabolisme,31514.0
+28 - Normandie,28,Normandie,Grossesse & accouchement,101364.0
+28 - Normandie,28,Normandie,Génito-urinaire,80059.0
+28 - Normandie,28,Normandie,Infectieux & parasitaires,90517.0
+28 - Normandie,28,Normandie,Lésions traumatiques et empoisonnements,118110.0
+28 - Normandie,28,Normandie,Malformations congénitales,7536.0
+28 - Normandie,28,Normandie,Neurologie & système nerveux,44964.0
+28 - Normandie,28,Normandie,ORL & audition,11282.0
+28 - Normandie,28,Normandie,Ophtalmologie,115551.0
+28 - Normandie,28,Normandie,Ostéo-articulaire – Rhumato,123282.0
+28 - Normandie,28,Normandie,Peau & tissus sous-cutanés,17614.0
+28 - Normandie,28,Normandie,Psychiatrie – Santé mentale,36529.0
+28 - Normandie,28,Normandie,Périnatalité,6540.0
+28 - Normandie,28,Normandie,Respiratoire,75406.0
+28 - Normandie,28,Normandie,Sang & immunité,17690.0
+29 - Finistère,29,Finistère,Autres motifs de soins,116872.0
+29 - Finistère,29,Finistère,Cancers / Tumeurs,40618.0
+29 - Finistère,29,Finistère,Cardiovasculaire,44375.0
+29 - Finistère,29,Finistère,Digestif & hépatique,48435.0
+29 - Finistère,29,Finistère,Endocrino – Métabolisme,7685.0
+29 - Finistère,29,Finistère,Grossesse & accouchement,23586.0
+29 - Finistère,29,Finistère,Génito-urinaire,19278.0
+29 - Finistère,29,Finistère,Infectieux & parasitaires,29330.0
+29 - Finistère,29,Finistère,Lésions traumatiques et empoisonnements,41285.0
+29 - Finistère,29,Finistère,Malformations congénitales,1968.0
+29 - Finistère,29,Finistère,Neurologie & système nerveux,13254.0
+29 - Finistère,29,Finistère,ORL & audition,2859.0
+29 - Finistère,29,Finistère,Ophtalmologie,33169.0
+29 - Finistère,29,Finistère,Ostéo-articulaire – Rhumato,32240.0
+29 - Finistère,29,Finistère,Peau & tissus sous-cutanés,5300.0
+29 - Finistère,29,Finistère,Psychiatrie – Santé mentale,9105.0
+29 - Finistère,29,Finistère,Périnatalité,1589.0
+29 - Finistère,29,Finistère,Respiratoire,21409.0
+29 - Finistère,29,Finistère,Sang & immunité,4169.0
+2A - Corse-du-Sud,2A,Corse du Sud,Autres motifs de soins,17603.0
+2A - Corse-du-Sud,2A,Corse du Sud,Cancers / Tumeurs,7112.0
+2A - Corse-du-Sud,2A,Corse du Sud,Cardiovasculaire,8101.0
+2A - Corse-du-Sud,2A,Corse du Sud,Digestif & hépatique,11707.0
+2A - Corse-du-Sud,2A,Corse du Sud,Endocrino – Métabolisme,894.0
+2A - Corse-du-Sud,2A,Corse du Sud,Grossesse & accouchement,4126.0
+2A - Corse-du-Sud,2A,Corse du Sud,Génito-urinaire,6095.0
+2A - Corse-du-Sud,2A,Corse du Sud,Infectieux & parasitaires,5273.0
+2A - Corse-du-Sud,2A,Corse du Sud,Lésions traumatiques et empoisonnements,4837.0
+2A - Corse-du-Sud,2A,Corse du Sud,Malformations congénitales,306.0
+2A - Corse-du-Sud,2A,Corse du Sud,Neurologie & système nerveux,1473.0
+2A - Corse-du-Sud,2A,Corse du Sud,ORL & audition,273.0
+2A - Corse-du-Sud,2A,Corse du Sud,Ophtalmologie,5727.0
+2A - Corse-du-Sud,2A,Corse du Sud,Ostéo-articulaire – Rhumato,4960.0
+2A - Corse-du-Sud,2A,Corse du Sud,Peau & tissus sous-cutanés,912.0
+2A - Corse-du-Sud,2A,Corse du Sud,Psychiatrie – Santé mentale,795.0
+2A - Corse-du-Sud,2A,Corse du Sud,Périnatalité,212.0
+2A - Corse-du-Sud,2A,Corse du Sud,Respiratoire,2466.0
+2A - Corse-du-Sud,2A,Corse du Sud,Sang & immunité,910.0
+2B - Haute-Corse,2B,Haute Corse,Autres motifs de soins,19492.0
+2B - Haute-Corse,2B,Haute Corse,Cancers / Tumeurs,7201.0
+2B - Haute-Corse,2B,Haute Corse,Cardiovasculaire,7896.0
+2B - Haute-Corse,2B,Haute Corse,Digestif & hépatique,13325.0
+2B - Haute-Corse,2B,Haute Corse,Endocrino – Métabolisme,988.0
+2B - Haute-Corse,2B,Haute Corse,Grossesse & accouchement,4266.0
+2B - Haute-Corse,2B,Haute Corse,Génito-urinaire,4322.0
+2B - Haute-Corse,2B,Haute Corse,Infectieux & parasitaires,5271.0
+2B - Haute-Corse,2B,Haute Corse,Lésions traumatiques et empoisonnements,5919.0
+2B - Haute-Corse,2B,Haute Corse,Malformations congénitales,355.0
+2B - Haute-Corse,2B,Haute Corse,Neurologie & système nerveux,1433.0
+2B - Haute-Corse,2B,Haute Corse,ORL & audition,236.0
+2B - Haute-Corse,2B,Haute Corse,Ophtalmologie,5969.0
+2B - Haute-Corse,2B,Haute Corse,Ostéo-articulaire – Rhumato,6352.0
+2B - Haute-Corse,2B,Haute Corse,Peau & tissus sous-cutanés,1333.0
+2B - Haute-Corse,2B,Haute Corse,Psychiatrie – Santé mentale,491.0
+2B - Haute-Corse,2B,Haute Corse,Périnatalité,232.0
+2B - Haute-Corse,2B,Haute Corse,Respiratoire,2591.0
+2B - Haute-Corse,2B,Haute Corse,Sang & immunité,1098.0
+30 - Gard,30,Gard,Autres motifs de soins,109821.0
+30 - Gard,30,Gard,Cancers / Tumeurs,30458.0
+30 - Gard,30,Gard,Cardiovasculaire,34745.0
+30 - Gard,30,Gard,Digestif & hépatique,49252.0
+30 - Gard,30,Gard,Endocrino – Métabolisme,6859.0
+30 - Gard,30,Gard,Grossesse & accouchement,22670.0
+30 - Gard,30,Gard,Génito-urinaire,18425.0
+30 - Gard,30,Gard,Infectieux & parasitaires,21617.0
+30 - Gard,30,Gard,Lésions traumatiques et empoisonnements,27345.0
+30 - Gard,30,Gard,Malformations congénitales,1823.0
+30 - Gard,30,Gard,Neurologie & système nerveux,8047.0
+30 - Gard,30,Gard,ORL & audition,1350.0
+30 - Gard,30,Gard,Ophtalmologie,28724.0
+30 - Gard,30,Gard,Ostéo-articulaire – Rhumato,32032.0
+30 - Gard,30,Gard,Peau & tissus sous-cutanés,3695.0
+30 - Gard,30,Gard,Psychiatrie – Santé mentale,5446.0
+30 - Gard,30,Gard,Périnatalité,1491.0
+30 - Gard,30,Gard,Respiratoire,12721.0
+30 - Gard,30,Gard,Sang & immunité,3763.0
+31 - Haute-Garonne,31,Haute Garonne,Autres motifs de soins,177957.0
+31 - Haute-Garonne,31,Haute Garonne,Cancers / Tumeurs,49547.0
+31 - Haute-Garonne,31,Haute Garonne,Cardiovasculaire,56676.0
+31 - Haute-Garonne,31,Haute Garonne,Digestif & hépatique,75936.0
+31 - Haute-Garonne,31,Haute Garonne,Endocrino – Métabolisme,10121.0
+31 - Haute-Garonne,31,Haute Garonne,Grossesse & accouchement,45988.0
+31 - Haute-Garonne,31,Haute Garonne,Génito-urinaire,34594.0
+31 - Haute-Garonne,31,Haute Garonne,Infectieux & parasitaires,34969.0
+31 - Haute-Garonne,31,Haute Garonne,Lésions traumatiques et empoisonnements,47328.0
+31 - Haute-Garonne,31,Haute Garonne,Malformations congénitales,3777.0
+31 - Haute-Garonne,31,Haute Garonne,Neurologie & système nerveux,14620.0
+31 - Haute-Garonne,31,Haute Garonne,ORL & audition,5357.0
+31 - Haute-Garonne,31,Haute Garonne,Ophtalmologie,41800.0
+31 - Haute-Garonne,31,Haute Garonne,Ostéo-articulaire – Rhumato,48538.0
+31 - Haute-Garonne,31,Haute Garonne,Peau & tissus sous-cutanés,10226.0
+31 - Haute-Garonne,31,Haute Garonne,Psychiatrie – Santé mentale,12592.0
+31 - Haute-Garonne,31,Haute Garonne,Périnatalité,2351.0
+31 - Haute-Garonne,31,Haute Garonne,Respiratoire,28012.0
+31 - Haute-Garonne,31,Haute Garonne,Sang & immunité,6358.0
+32 - Gers,32,Gers,Autres motifs de soins,25781.0
+32 - Gers,32,Gers,Cancers / Tumeurs,8306.0
+32 - Gers,32,Gers,Cardiovasculaire,11458.0
+32 - Gers,32,Gers,Digestif & hépatique,11240.0
+32 - Gers,32,Gers,Endocrino – Métabolisme,1988.0
+32 - Gers,32,Gers,Grossesse & accouchement,4192.0
+32 - Gers,32,Gers,Génito-urinaire,6414.0
+32 - Gers,32,Gers,Infectieux & parasitaires,5934.0
+32 - Gers,32,Gers,Lésions traumatiques et empoisonnements,8128.0
+32 - Gers,32,Gers,Malformations congénitales,463.0
+32 - Gers,32,Gers,Neurologie & système nerveux,2605.0
+32 - Gers,32,Gers,ORL & audition,406.0
+32 - Gers,32,Gers,Ophtalmologie,7580.0
+32 - Gers,32,Gers,Ostéo-articulaire – Rhumato,8888.0
+32 - Gers,32,Gers,Peau & tissus sous-cutanés,1307.0
+32 - Gers,32,Gers,Psychiatrie – Santé mentale,1363.0
+32 - Gers,32,Gers,Périnatalité,336.0
+32 - Gers,32,Gers,Respiratoire,3719.0
+32 - Gers,32,Gers,Sang & immunité,1294.0
+32 - Hauts-de-France,32,Hauts de France,Autres motifs de soins,807942.0
+32 - Hauts-de-France,32,Hauts de France,Cancers / Tumeurs,190172.0
+32 - Hauts-de-France,32,Hauts de France,Cardiovasculaire,265820.0
+32 - Hauts-de-France,32,Hauts de France,Digestif & hépatique,370117.0
+32 - Hauts-de-France,32,Hauts de France,Endocrino – Métabolisme,59464.0
+32 - Hauts-de-France,32,Hauts de France,Grossesse & accouchement,202062.0
+32 - Hauts-de-France,32,Hauts de France,Génito-urinaire,155422.0
+32 - Hauts-de-France,32,Hauts de France,Infectieux & parasitaires,154789.0
+32 - Hauts-de-France,32,Hauts de France,Lésions traumatiques et empoisonnements,232050.0
+32 - Hauts-de-France,32,Hauts de France,Malformations congénitales,15782.0
+32 - Hauts-de-France,32,Hauts de France,Neurologie & système nerveux,77711.0
+32 - Hauts-de-France,32,Hauts de France,ORL & audition,15566.0
+32 - Hauts-de-France,32,Hauts de France,Ophtalmologie,177960.0
+32 - Hauts-de-France,32,Hauts de France,Ostéo-articulaire – Rhumato,213952.0
+32 - Hauts-de-France,32,Hauts de France,Peau & tissus sous-cutanés,42119.0
+32 - Hauts-de-France,32,Hauts de France,Psychiatrie – Santé mentale,90037.0
+32 - Hauts-de-France,32,Hauts de France,Périnatalité,14891.0
+32 - Hauts-de-France,32,Hauts de France,Respiratoire,147927.0
+32 - Hauts-de-France,32,Hauts de France,Sang & immunité,32880.0
+33 - Gironde,33,Gironde,Autres motifs de soins,222253.0
+33 - Gironde,33,Gironde,Cancers / Tumeurs,59628.0
+33 - Gironde,33,Gironde,Cardiovasculaire,64757.0
+33 - Gironde,33,Gironde,Digestif & hépatique,104519.0
+33 - Gironde,33,Gironde,Endocrino – Métabolisme,14306.0
+33 - Gironde,33,Gironde,Grossesse & accouchement,51626.0
+33 - Gironde,33,Gironde,Génito-urinaire,44641.0
+33 - Gironde,33,Gironde,Infectieux & parasitaires,43058.0
+33 - Gironde,33,Gironde,Lésions traumatiques et empoisonnements,72226.0
+33 - Gironde,33,Gironde,Malformations congénitales,4973.0
+33 - Gironde,33,Gironde,Neurologie & système nerveux,20535.0
+33 - Gironde,33,Gironde,ORL & audition,2752.0
+33 - Gironde,33,Gironde,Ophtalmologie,56136.0
+33 - Gironde,33,Gironde,Ostéo-articulaire – Rhumato,62944.0
+33 - Gironde,33,Gironde,Peau & tissus sous-cutanés,9587.0
+33 - Gironde,33,Gironde,Psychiatrie – Santé mentale,9486.0
+33 - Gironde,33,Gironde,Périnatalité,2381.0
+33 - Gironde,33,Gironde,Respiratoire,34685.0
+33 - Gironde,33,Gironde,Sang & immunité,9285.0
+34 - Hérault,34,Hérault,Autres motifs de soins,158631.0
+34 - Hérault,34,Hérault,Cancers / Tumeurs,48619.0
+34 - Hérault,34,Hérault,Cardiovasculaire,49112.0
+34 - Hérault,34,Hérault,Digestif & hépatique,83338.0
+34 - Hérault,34,Hérault,Endocrino – Métabolisme,8638.0
+34 - Hérault,34,Hérault,Grossesse & accouchement,39268.0
+34 - Hérault,34,Hérault,Génito-urinaire,31090.0
+34 - Hérault,34,Hérault,Infectieux & parasitaires,36686.0
+34 - Hérault,34,Hérault,Lésions traumatiques et empoisonnements,41715.0
+34 - Hérault,34,Hérault,Malformations congénitales,3119.0
+34 - Hérault,34,Hérault,Neurologie & système nerveux,12779.0
+34 - Hérault,34,Hérault,ORL & audition,3300.0
+34 - Hérault,34,Hérault,Ophtalmologie,46559.0
+34 - Hérault,34,Hérault,Ostéo-articulaire – Rhumato,54116.0
+34 - Hérault,34,Hérault,Peau & tissus sous-cutanés,6314.0
+34 - Hérault,34,Hérault,Psychiatrie – Santé mentale,10608.0
+34 - Hérault,34,Hérault,Périnatalité,2889.0
+34 - Hérault,34,Hérault,Respiratoire,23386.0
+34 - Hérault,34,Hérault,Sang & immunité,6518.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Autres motifs de soins,119849.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Cancers / Tumeurs,33088.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Cardiovasculaire,35275.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Digestif & hépatique,36390.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Endocrino – Métabolisme,6919.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Grossesse & accouchement,31890.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Génito-urinaire,20354.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Infectieux & parasitaires,24355.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Lésions traumatiques et empoisonnements,38853.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Malformations congénitales,2278.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Neurologie & système nerveux,11397.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,ORL & audition,2883.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Ophtalmologie,36601.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Ostéo-articulaire – Rhumato,33926.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Peau & tissus sous-cutanés,6121.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Psychiatrie – Santé mentale,20007.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Périnatalité,2707.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Respiratoire,18943.0
+35 - Ille-et-Vilaine,35,Ille et Vilaine,Sang & immunité,4170.0
+36 - Indre,36,Indre,Autres motifs de soins,22706.0
+36 - Indre,36,Indre,Cancers / Tumeurs,9389.0
+36 - Indre,36,Indre,Cardiovasculaire,11534.0
+36 - Indre,36,Indre,Digestif & hépatique,12777.0
+36 - Indre,36,Indre,Endocrino – Métabolisme,1592.0
+36 - Indre,36,Indre,Grossesse & accouchement,5488.0
+36 - Indre,36,Indre,Génito-urinaire,4547.0
+36 - Indre,36,Indre,Infectieux & parasitaires,6627.0
+36 - Indre,36,Indre,Lésions traumatiques et empoisonnements,6633.0
+36 - Indre,36,Indre,Malformations congénitales,340.0
+36 - Indre,36,Indre,Neurologie & système nerveux,2450.0
+36 - Indre,36,Indre,ORL & audition,288.0
+36 - Indre,36,Indre,Ophtalmologie,9004.0
+36 - Indre,36,Indre,Ostéo-articulaire – Rhumato,8006.0
+36 - Indre,36,Indre,Peau & tissus sous-cutanés,864.0
+36 - Indre,36,Indre,Psychiatrie – Santé mentale,1009.0
+36 - Indre,36,Indre,Périnatalité,401.0
+36 - Indre,36,Indre,Respiratoire,3568.0
+36 - Indre,36,Indre,Sang & immunité,1322.0
+37 - Indre-et-Loire,37,Indre et Loire,Autres motifs de soins,65229.0
+37 - Indre-et-Loire,37,Indre et Loire,Cancers / Tumeurs,22509.0
+37 - Indre-et-Loire,37,Indre et Loire,Cardiovasculaire,25754.0
+37 - Indre-et-Loire,37,Indre et Loire,Digestif & hépatique,32790.0
+37 - Indre-et-Loire,37,Indre et Loire,Endocrino – Métabolisme,4157.0
+37 - Indre-et-Loire,37,Indre et Loire,Grossesse & accouchement,16962.0
+37 - Indre-et-Loire,37,Indre et Loire,Génito-urinaire,13983.0
+37 - Indre-et-Loire,37,Indre et Loire,Infectieux & parasitaires,15769.0
+37 - Indre-et-Loire,37,Indre et Loire,Lésions traumatiques et empoisonnements,22511.0
+37 - Indre-et-Loire,37,Indre et Loire,Malformations congénitales,1621.0
+37 - Indre-et-Loire,37,Indre et Loire,Neurologie & système nerveux,8215.0
+37 - Indre-et-Loire,37,Indre et Loire,ORL & audition,1985.0
+37 - Indre-et-Loire,37,Indre et Loire,Ophtalmologie,19914.0
+37 - Indre-et-Loire,37,Indre et Loire,Ostéo-articulaire – Rhumato,19256.0
+37 - Indre-et-Loire,37,Indre et Loire,Peau & tissus sous-cutanés,2427.0
+37 - Indre-et-Loire,37,Indre et Loire,Psychiatrie – Santé mentale,3915.0
+37 - Indre-et-Loire,37,Indre et Loire,Périnatalité,631.0
+37 - Indre-et-Loire,37,Indre et Loire,Respiratoire,10902.0
+37 - Indre-et-Loire,37,Indre et Loire,Sang & immunité,3328.0
+38 - Isère,38,Isère,Autres motifs de soins,134784.0
+38 - Isère,38,Isère,Cancers / Tumeurs,44328.0
+38 - Isère,38,Isère,Cardiovasculaire,48889.0
+38 - Isère,38,Isère,Digestif & hépatique,71782.0
+38 - Isère,38,Isère,Endocrino – Métabolisme,10474.0
+38 - Isère,38,Isère,Grossesse & accouchement,40608.0
+38 - Isère,38,Isère,Génito-urinaire,29389.0
+38 - Isère,38,Isère,Infectieux & parasitaires,31704.0
+38 - Isère,38,Isère,Lésions traumatiques et empoisonnements,43196.0
+38 - Isère,38,Isère,Malformations congénitales,3056.0
+38 - Isère,38,Isère,Neurologie & système nerveux,16134.0
+38 - Isère,38,Isère,ORL & audition,3982.0
+38 - Isère,38,Isère,Ophtalmologie,45704.0
+38 - Isère,38,Isère,Ostéo-articulaire – Rhumato,48598.0
+38 - Isère,38,Isère,Peau & tissus sous-cutanés,6330.0
+38 - Isère,38,Isère,Psychiatrie – Santé mentale,8889.0
+38 - Isère,38,Isère,Périnatalité,1903.0
+38 - Isère,38,Isère,Respiratoire,20450.0
+38 - Isère,38,Isère,Sang & immunité,4834.0
+39 - Jura,39,Jura,Autres motifs de soins,26443.0
+39 - Jura,39,Jura,Cancers / Tumeurs,9762.0
+39 - Jura,39,Jura,Cardiovasculaire,13572.0
+39 - Jura,39,Jura,Digestif & hépatique,12284.0
+39 - Jura,39,Jura,Endocrino – Métabolisme,2061.0
+39 - Jura,39,Jura,Grossesse & accouchement,6530.0
+39 - Jura,39,Jura,Génito-urinaire,5788.0
+39 - Jura,39,Jura,Infectieux & parasitaires,7481.0
+39 - Jura,39,Jura,Lésions traumatiques et empoisonnements,9340.0
+39 - Jura,39,Jura,Malformations congénitales,581.0
+39 - Jura,39,Jura,Neurologie & système nerveux,3576.0
+39 - Jura,39,Jura,ORL & audition,507.0
+39 - Jura,39,Jura,Ophtalmologie,8728.0
+39 - Jura,39,Jura,Ostéo-articulaire – Rhumato,10074.0
+39 - Jura,39,Jura,Peau & tissus sous-cutanés,1174.0
+39 - Jura,39,Jura,Psychiatrie – Santé mentale,2551.0
+39 - Jura,39,Jura,Périnatalité,551.0
+39 - Jura,39,Jura,Respiratoire,5419.0
+39 - Jura,39,Jura,Sang & immunité,1316.0
+40 - Landes,40,Landes,Autres motifs de soins,48476.0
+40 - Landes,40,Landes,Cancers / Tumeurs,18473.0
+40 - Landes,40,Landes,Cardiovasculaire,21871.0
+40 - Landes,40,Landes,Digestif & hépatique,25844.0
+40 - Landes,40,Landes,Endocrino – Métabolisme,4098.0
+40 - Landes,40,Landes,Grossesse & accouchement,11136.0
+40 - Landes,40,Landes,Génito-urinaire,11658.0
+40 - Landes,40,Landes,Infectieux & parasitaires,12941.0
+40 - Landes,40,Landes,Lésions traumatiques et empoisonnements,17413.0
+40 - Landes,40,Landes,Malformations congénitales,1017.0
+40 - Landes,40,Landes,Neurologie & système nerveux,6014.0
+40 - Landes,40,Landes,ORL & audition,790.0
+40 - Landes,40,Landes,Ophtalmologie,19519.0
+40 - Landes,40,Landes,Ostéo-articulaire – Rhumato,20300.0
+40 - Landes,40,Landes,Peau & tissus sous-cutanés,2635.0
+40 - Landes,40,Landes,Psychiatrie – Santé mentale,3061.0
+40 - Landes,40,Landes,Périnatalité,1200.0
+40 - Landes,40,Landes,Respiratoire,8006.0
+40 - Landes,40,Landes,Sang & immunité,2050.0
+41 - Loir-et-Cher,41,Loir et Cher,Autres motifs de soins,30652.0
+41 - Loir-et-Cher,41,Loir et Cher,Cancers / Tumeurs,10811.0
+41 - Loir-et-Cher,41,Loir et Cher,Cardiovasculaire,14105.0
+41 - Loir-et-Cher,41,Loir et Cher,Digestif & hépatique,15678.0
+41 - Loir-et-Cher,41,Loir et Cher,Endocrino – Métabolisme,2552.0
+41 - Loir-et-Cher,41,Loir et Cher,Grossesse & accouchement,8724.0
+41 - Loir-et-Cher,41,Loir et Cher,Génito-urinaire,8897.0
+41 - Loir-et-Cher,41,Loir et Cher,Infectieux & parasitaires,7803.0
+41 - Loir-et-Cher,41,Loir et Cher,Lésions traumatiques et empoisonnements,9724.0
+41 - Loir-et-Cher,41,Loir et Cher,Malformations congénitales,662.0
+41 - Loir-et-Cher,41,Loir et Cher,Neurologie & système nerveux,4061.0
+41 - Loir-et-Cher,41,Loir et Cher,ORL & audition,640.0
+41 - Loir-et-Cher,41,Loir et Cher,Ophtalmologie,14190.0
+41 - Loir-et-Cher,41,Loir et Cher,Ostéo-articulaire – Rhumato,11382.0
+41 - Loir-et-Cher,41,Loir et Cher,Peau & tissus sous-cutanés,1312.0
+41 - Loir-et-Cher,41,Loir et Cher,Psychiatrie – Santé mentale,1615.0
+41 - Loir-et-Cher,41,Loir et Cher,Périnatalité,593.0
+41 - Loir-et-Cher,41,Loir et Cher,Respiratoire,5771.0
+41 - Loir-et-Cher,41,Loir et Cher,Sang & immunité,1869.0
+42 - Loire,42,Loire,Autres motifs de soins,104617.0
+42 - Loire,42,Loire,Cancers / Tumeurs,32410.0
+42 - Loire,42,Loire,Cardiovasculaire,33598.0
+42 - Loire,42,Loire,Digestif & hépatique,46956.0
+42 - Loire,42,Loire,Endocrino – Métabolisme,8815.0
+42 - Loire,42,Loire,Grossesse & accouchement,24196.0
+42 - Loire,42,Loire,Génito-urinaire,23010.0
+42 - Loire,42,Loire,Infectieux & parasitaires,23973.0
+42 - Loire,42,Loire,Lésions traumatiques et empoisonnements,29588.0
+42 - Loire,42,Loire,Malformations congénitales,2028.0
+42 - Loire,42,Loire,Neurologie & système nerveux,10991.0
+42 - Loire,42,Loire,ORL & audition,2151.0
+42 - Loire,42,Loire,Ophtalmologie,25728.0
+42 - Loire,42,Loire,Ostéo-articulaire – Rhumato,30890.0
+42 - Loire,42,Loire,Peau & tissus sous-cutanés,4691.0
+42 - Loire,42,Loire,Psychiatrie – Santé mentale,8352.0
+42 - Loire,42,Loire,Périnatalité,1626.0
+42 - Loire,42,Loire,Respiratoire,16381.0
+42 - Loire,42,Loire,Sang & immunité,4224.0
+43 - Haute-Loire,43,Haute Loire,Autres motifs de soins,34460.0
+43 - Haute-Loire,43,Haute Loire,Cancers / Tumeurs,10792.0
+43 - Haute-Loire,43,Haute Loire,Cardiovasculaire,12331.0
+43 - Haute-Loire,43,Haute Loire,Digestif & hépatique,13785.0
+43 - Haute-Loire,43,Haute Loire,Endocrino – Métabolisme,2626.0
+43 - Haute-Loire,43,Haute Loire,Grossesse & accouchement,5648.0
+43 - Haute-Loire,43,Haute Loire,Génito-urinaire,7136.0
+43 - Haute-Loire,43,Haute Loire,Infectieux & parasitaires,7875.0
+43 - Haute-Loire,43,Haute Loire,Lésions traumatiques et empoisonnements,11262.0
+43 - Haute-Loire,43,Haute Loire,Malformations congénitales,476.0
+43 - Haute-Loire,43,Haute Loire,Neurologie & système nerveux,3223.0
+43 - Haute-Loire,43,Haute Loire,ORL & audition,658.0
+43 - Haute-Loire,43,Haute Loire,Ophtalmologie,8323.0
+43 - Haute-Loire,43,Haute Loire,Ostéo-articulaire – Rhumato,10166.0
+43 - Haute-Loire,43,Haute Loire,Peau & tissus sous-cutanés,1237.0
+43 - Haute-Loire,43,Haute Loire,Psychiatrie – Santé mentale,1989.0
+43 - Haute-Loire,43,Haute Loire,Périnatalité,471.0
+43 - Haute-Loire,43,Haute Loire,Respiratoire,5280.0
+43 - Haute-Loire,43,Haute Loire,Sang & immunité,1132.0
+44 - Grand Est,44,Grand Est,Autres motifs de soins,708375.0
+44 - Grand Est,44,Grand Est,Cancers / Tumeurs,197106.0
+44 - Grand Est,44,Grand Est,Cardiovasculaire,284978.0
+44 - Grand Est,44,Grand Est,Digestif & hépatique,294474.0
+44 - Grand Est,44,Grand Est,Endocrino – Métabolisme,56741.0
+44 - Grand Est,44,Grand Est,Grossesse & accouchement,172728.0
+44 - Grand Est,44,Grand Est,Génito-urinaire,140809.0
+44 - Grand Est,44,Grand Est,Infectieux & parasitaires,147938.0
+44 - Grand Est,44,Grand Est,Lésions traumatiques et empoisonnements,187963.0
+44 - Grand Est,44,Grand Est,Malformations congénitales,11816.0
+44 - Grand Est,44,Grand Est,Neurologie & système nerveux,75361.0
+44 - Grand Est,44,Grand Est,ORL & audition,9143.0
+44 - Grand Est,44,Grand Est,Ophtalmologie,178043.0
+44 - Grand Est,44,Grand Est,Ostéo-articulaire – Rhumato,221458.0
+44 - Grand Est,44,Grand Est,Peau & tissus sous-cutanés,26187.0
+44 - Grand Est,44,Grand Est,Psychiatrie – Santé mentale,56876.0
+44 - Grand Est,44,Grand Est,Périnatalité,13170.0
+44 - Grand Est,44,Grand Est,Respiratoire,110110.0
+44 - Grand Est,44,Grand Est,Sang & immunité,30757.0
+44 - Loire-Atlantique,44,Loire Atlantique,Autres motifs de soins,164391.0
+44 - Loire-Atlantique,44,Loire Atlantique,Cancers / Tumeurs,60754.0
+44 - Loire-Atlantique,44,Loire Atlantique,Cardiovasculaire,52940.0
+44 - Loire-Atlantique,44,Loire Atlantique,Digestif & hépatique,78538.0
+44 - Loire-Atlantique,44,Loire Atlantique,Endocrino – Métabolisme,8966.0
+44 - Loire-Atlantique,44,Loire Atlantique,Grossesse & accouchement,47646.0
+44 - Loire-Atlantique,44,Loire Atlantique,Génito-urinaire,31842.0
+44 - Loire-Atlantique,44,Loire Atlantique,Infectieux & parasitaires,40829.0
+44 - Loire-Atlantique,44,Loire Atlantique,Lésions traumatiques et empoisonnements,56435.0
+44 - Loire-Atlantique,44,Loire Atlantique,Malformations congénitales,3491.0
+44 - Loire-Atlantique,44,Loire Atlantique,Neurologie & système nerveux,15407.0
+44 - Loire-Atlantique,44,Loire Atlantique,ORL & audition,5743.0
+44 - Loire-Atlantique,44,Loire Atlantique,Ophtalmologie,51267.0
+44 - Loire-Atlantique,44,Loire Atlantique,Ostéo-articulaire – Rhumato,52504.0
+44 - Loire-Atlantique,44,Loire Atlantique,Peau & tissus sous-cutanés,10565.0
+44 - Loire-Atlantique,44,Loire Atlantique,Psychiatrie – Santé mentale,17320.0
+44 - Loire-Atlantique,44,Loire Atlantique,Périnatalité,3091.0
+44 - Loire-Atlantique,44,Loire Atlantique,Respiratoire,24390.0
+44 - Loire-Atlantique,44,Loire Atlantique,Sang & immunité,5778.0
+45 - Loiret,45,Loiret,Autres motifs de soins,59445.0
+45 - Loiret,45,Loiret,Cancers / Tumeurs,24059.0
+45 - Loiret,45,Loiret,Cardiovasculaire,28575.0
+45 - Loiret,45,Loiret,Digestif & hépatique,30813.0
+45 - Loiret,45,Loiret,Endocrino – Métabolisme,4154.0
+45 - Loiret,45,Loiret,Grossesse & accouchement,22232.0
+45 - Loiret,45,Loiret,Génito-urinaire,14326.0
+45 - Loiret,45,Loiret,Infectieux & parasitaires,17207.0
+45 - Loiret,45,Loiret,Lésions traumatiques et empoisonnements,22581.0
+45 - Loiret,45,Loiret,Malformations congénitales,1610.0
+45 - Loiret,45,Loiret,Neurologie & système nerveux,7508.0
+45 - Loiret,45,Loiret,ORL & audition,1627.0
+45 - Loiret,45,Loiret,Ophtalmologie,22219.0
+45 - Loiret,45,Loiret,Ostéo-articulaire – Rhumato,23354.0
+45 - Loiret,45,Loiret,Peau & tissus sous-cutanés,4060.0
+45 - Loiret,45,Loiret,Psychiatrie – Santé mentale,2469.0
+45 - Loiret,45,Loiret,Périnatalité,1367.0
+45 - Loiret,45,Loiret,Respiratoire,11726.0
+45 - Loiret,45,Loiret,Sang & immunité,3699.0
+46 - Lot,46,Lot,Autres motifs de soins,19991.0
+46 - Lot,46,Lot,Cancers / Tumeurs,7320.0
+46 - Lot,46,Lot,Cardiovasculaire,9557.0
+46 - Lot,46,Lot,Digestif & hépatique,10445.0
+46 - Lot,46,Lot,Endocrino – Métabolisme,1226.0
+46 - Lot,46,Lot,Grossesse & accouchement,4030.0
+46 - Lot,46,Lot,Génito-urinaire,4002.0
+46 - Lot,46,Lot,Infectieux & parasitaires,5281.0
+46 - Lot,46,Lot,Lésions traumatiques et empoisonnements,6830.0
+46 - Lot,46,Lot,Malformations congénitales,301.0
+46 - Lot,46,Lot,Neurologie & système nerveux,2655.0
+46 - Lot,46,Lot,ORL & audition,301.0
+46 - Lot,46,Lot,Ophtalmologie,8919.0
+46 - Lot,46,Lot,Ostéo-articulaire – Rhumato,7398.0
+46 - Lot,46,Lot,Peau & tissus sous-cutanés,792.0
+46 - Lot,46,Lot,Psychiatrie – Santé mentale,1039.0
+46 - Lot,46,Lot,Périnatalité,199.0
+46 - Lot,46,Lot,Respiratoire,3286.0
+46 - Lot,46,Lot,Sang & immunité,912.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Autres motifs de soins,42128.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Cancers / Tumeurs,13566.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Cardiovasculaire,19700.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Digestif & hépatique,19903.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Endocrino – Métabolisme,3528.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Grossesse & accouchement,9428.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Génito-urinaire,8342.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Infectieux & parasitaires,9791.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Lésions traumatiques et empoisonnements,13487.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Malformations congénitales,720.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Neurologie & système nerveux,4116.0
+47 - Lot-et-Garonne,47,Lot et Garonne,ORL & audition,714.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Ophtalmologie,14892.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Ostéo-articulaire – Rhumato,14426.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Peau & tissus sous-cutanés,2224.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Psychiatrie – Santé mentale,1605.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Périnatalité,580.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Respiratoire,7161.0
+47 - Lot-et-Garonne,47,Lot et Garonne,Sang & immunité,2049.0
+48 - Lozère,48,Lozère,Autres motifs de soins,9340.0
+48 - Lozère,48,Lozère,Cancers / Tumeurs,3046.0
+48 - Lozère,48,Lozère,Cardiovasculaire,3953.0
+48 - Lozère,48,Lozère,Digestif & hépatique,4509.0
+48 - Lozère,48,Lozère,Endocrino – Métabolisme,547.0
+48 - Lozère,48,Lozère,Grossesse & accouchement,1922.0
+48 - Lozère,48,Lozère,Génito-urinaire,1749.0
+48 - Lozère,48,Lozère,Infectieux & parasitaires,2333.0
+48 - Lozère,48,Lozère,Lésions traumatiques et empoisonnements,3078.0
+48 - Lozère,48,Lozère,Malformations congénitales,139.0
+48 - Lozère,48,Lozère,Neurologie & système nerveux,1040.0
+48 - Lozère,48,Lozère,ORL & audition,230.0
+48 - Lozère,48,Lozère,Ophtalmologie,3034.0
+48 - Lozère,48,Lozère,Ostéo-articulaire – Rhumato,3904.0
+48 - Lozère,48,Lozère,Peau & tissus sous-cutanés,404.0
+48 - Lozère,48,Lozère,Psychiatrie – Santé mentale,657.0
+48 - Lozère,48,Lozère,Périnatalité,119.0
+48 - Lozère,48,Lozère,Respiratoire,1620.0
+48 - Lozère,48,Lozère,Sang & immunité,630.0
+49 - Maine-et-Loire,49,Maine et Loire,Autres motifs de soins,86922.0
+49 - Maine-et-Loire,49,Maine et Loire,Cancers / Tumeurs,31434.0
+49 - Maine-et-Loire,49,Maine et Loire,Cardiovasculaire,33285.0
+49 - Maine-et-Loire,49,Maine et Loire,Digestif & hépatique,40957.0
+49 - Maine-et-Loire,49,Maine et Loire,Endocrino – Métabolisme,5951.0
+49 - Maine-et-Loire,49,Maine et Loire,Grossesse & accouchement,23952.0
+49 - Maine-et-Loire,49,Maine et Loire,Génito-urinaire,19713.0
+49 - Maine-et-Loire,49,Maine et Loire,Infectieux & parasitaires,21987.0
+49 - Maine-et-Loire,49,Maine et Loire,Lésions traumatiques et empoisonnements,27463.0
+49 - Maine-et-Loire,49,Maine et Loire,Malformations congénitales,2009.0
+49 - Maine-et-Loire,49,Maine et Loire,Neurologie & système nerveux,9087.0
+49 - Maine-et-Loire,49,Maine et Loire,ORL & audition,2738.0
+49 - Maine-et-Loire,49,Maine et Loire,Ophtalmologie,29560.0
+49 - Maine-et-Loire,49,Maine et Loire,Ostéo-articulaire – Rhumato,29528.0
+49 - Maine-et-Loire,49,Maine et Loire,Peau & tissus sous-cutanés,3736.0
+49 - Maine-et-Loire,49,Maine et Loire,Psychiatrie – Santé mentale,7099.0
+49 - Maine-et-Loire,49,Maine et Loire,Périnatalité,1593.0
+49 - Maine-et-Loire,49,Maine et Loire,Respiratoire,13644.0
+49 - Maine-et-Loire,49,Maine et Loire,Sang & immunité,3517.0
+50 - Manche,50,Manche,Autres motifs de soins,55571.0
+50 - Manche,50,Manche,Cancers / Tumeurs,17432.0
+50 - Manche,50,Manche,Cardiovasculaire,28141.0
+50 - Manche,50,Manche,Digestif & hépatique,24118.0
+50 - Manche,50,Manche,Endocrino – Métabolisme,4410.0
+50 - Manche,50,Manche,Grossesse & accouchement,13360.0
+50 - Manche,50,Manche,Génito-urinaire,11348.0
+50 - Manche,50,Manche,Infectieux & parasitaires,14337.0
+50 - Manche,50,Manche,Lésions traumatiques et empoisonnements,19524.0
+50 - Manche,50,Manche,Malformations congénitales,1024.0
+50 - Manche,50,Manche,Neurologie & système nerveux,6456.0
+50 - Manche,50,Manche,ORL & audition,1359.0
+50 - Manche,50,Manche,Ophtalmologie,18740.0
+50 - Manche,50,Manche,Ostéo-articulaire – Rhumato,19238.0
+50 - Manche,50,Manche,Peau & tissus sous-cutanés,2770.0
+50 - Manche,50,Manche,Psychiatrie – Santé mentale,6371.0
+50 - Manche,50,Manche,Périnatalité,1109.0
+50 - Manche,50,Manche,Respiratoire,11805.0
+50 - Manche,50,Manche,Sang & immunité,2394.0
+51 - Marne,51,Marne,Autres motifs de soins,64082.0
+51 - Marne,51,Marne,Cancers / Tumeurs,22245.0
+51 - Marne,51,Marne,Cardiovasculaire,25863.0
+51 - Marne,51,Marne,Digestif & hépatique,30640.0
+51 - Marne,51,Marne,Endocrino – Métabolisme,7499.0
+51 - Marne,51,Marne,Grossesse & accouchement,18012.0
+51 - Marne,51,Marne,Génito-urinaire,14504.0
+51 - Marne,51,Marne,Infectieux & parasitaires,15520.0
+51 - Marne,51,Marne,Lésions traumatiques et empoisonnements,17025.0
+51 - Marne,51,Marne,Malformations congénitales,1129.0
+51 - Marne,51,Marne,Neurologie & système nerveux,7826.0
+51 - Marne,51,Marne,ORL & audition,861.0
+51 - Marne,51,Marne,Ophtalmologie,18389.0
+51 - Marne,51,Marne,Ostéo-articulaire – Rhumato,21042.0
+51 - Marne,51,Marne,Peau & tissus sous-cutanés,2786.0
+51 - Marne,51,Marne,Psychiatrie – Santé mentale,4686.0
+51 - Marne,51,Marne,Périnatalité,1346.0
+51 - Marne,51,Marne,Respiratoire,11276.0
+51 - Marne,51,Marne,Sang & immunité,3123.0
+52 - Haute-Marne,52,Haute Marne,Autres motifs de soins,24936.0
+52 - Haute-Marne,52,Haute Marne,Cancers / Tumeurs,6424.0
+52 - Haute-Marne,52,Haute Marne,Cardiovasculaire,12460.0
+52 - Haute-Marne,52,Haute Marne,Digestif & hépatique,8997.0
+52 - Haute-Marne,52,Haute Marne,Endocrino – Métabolisme,2243.0
+52 - Haute-Marne,52,Haute Marne,Grossesse & accouchement,4820.0
+52 - Haute-Marne,52,Haute Marne,Génito-urinaire,4407.0
+52 - Haute-Marne,52,Haute Marne,Infectieux & parasitaires,5270.0
+52 - Haute-Marne,52,Haute Marne,Lésions traumatiques et empoisonnements,6409.0
+52 - Haute-Marne,52,Haute Marne,Malformations congénitales,329.0
+52 - Haute-Marne,52,Haute Marne,Neurologie & système nerveux,2733.0
+52 - Haute-Marne,52,Haute Marne,ORL & audition,292.0
+52 - Haute-Marne,52,Haute Marne,Ophtalmologie,6265.0
+52 - Haute-Marne,52,Haute Marne,Ostéo-articulaire – Rhumato,8466.0
+52 - Haute-Marne,52,Haute Marne,Peau & tissus sous-cutanés,805.0
+52 - Haute-Marne,52,Haute Marne,Psychiatrie – Santé mentale,1526.0
+52 - Haute-Marne,52,Haute Marne,Périnatalité,426.0
+52 - Haute-Marne,52,Haute Marne,Respiratoire,4489.0
+52 - Haute-Marne,52,Haute Marne,Sang & immunité,964.0
+52 - Pays de la Loire,52,Pays de la Loire,Autres motifs de soins,436618.0
+52 - Pays de la Loire,52,Pays de la Loire,Cancers / Tumeurs,154053.0
+52 - Pays de la Loire,52,Pays de la Loire,Cardiovasculaire,156057.0
+52 - Pays de la Loire,52,Pays de la Loire,Digestif & hépatique,199561.0
+52 - Pays de la Loire,52,Pays de la Loire,Endocrino – Métabolisme,26368.0
+52 - Pays de la Loire,52,Pays de la Loire,Grossesse & accouchement,116532.0
+52 - Pays de la Loire,52,Pays de la Loire,Génito-urinaire,88756.0
+52 - Pays de la Loire,52,Pays de la Loire,Infectieux & parasitaires,107125.0
+52 - Pays de la Loire,52,Pays de la Loire,Lésions traumatiques et empoisonnements,148179.0
+52 - Pays de la Loire,52,Pays de la Loire,Malformations congénitales,8988.0
+52 - Pays de la Loire,52,Pays de la Loire,Neurologie & système nerveux,46106.0
+52 - Pays de la Loire,52,Pays de la Loire,ORL & audition,12817.0
+52 - Pays de la Loire,52,Pays de la Loire,Ophtalmologie,137522.0
+52 - Pays de la Loire,52,Pays de la Loire,Ostéo-articulaire – Rhumato,146340.0
+52 - Pays de la Loire,52,Pays de la Loire,Peau & tissus sous-cutanés,23782.0
+52 - Pays de la Loire,52,Pays de la Loire,Psychiatrie – Santé mentale,41208.0
+52 - Pays de la Loire,52,Pays de la Loire,Périnatalité,7536.0
+52 - Pays de la Loire,52,Pays de la Loire,Respiratoire,65711.0
+52 - Pays de la Loire,52,Pays de la Loire,Sang & immunité,16508.0
+53 - Bretagne,53,Bretagne,Autres motifs de soins,384626.0
+53 - Bretagne,53,Bretagne,Cancers / Tumeurs,129705.0
+53 - Bretagne,53,Bretagne,Cardiovasculaire,147922.0
+53 - Bretagne,53,Bretagne,Digestif & hépatique,150163.0
+53 - Bretagne,53,Bretagne,Endocrino – Métabolisme,26585.0
+53 - Bretagne,53,Bretagne,Grossesse & accouchement,92088.0
+53 - Bretagne,53,Bretagne,Génito-urinaire,68066.0
+53 - Bretagne,53,Bretagne,Infectieux & parasitaires,94100.0
+53 - Bretagne,53,Bretagne,Lésions traumatiques et empoisonnements,139361.0
+53 - Bretagne,53,Bretagne,Malformations congénitales,6854.0
+53 - Bretagne,53,Bretagne,Neurologie & système nerveux,43111.0
+53 - Bretagne,53,Bretagne,ORL & audition,10483.0
+53 - Bretagne,53,Bretagne,Ophtalmologie,124305.0
+53 - Bretagne,53,Bretagne,Ostéo-articulaire – Rhumato,114184.0
+53 - Bretagne,53,Bretagne,Peau & tissus sous-cutanés,20058.0
+53 - Bretagne,53,Bretagne,Psychiatrie – Santé mentale,47493.0
+53 - Bretagne,53,Bretagne,Périnatalité,7019.0
+53 - Bretagne,53,Bretagne,Respiratoire,66816.0
+53 - Bretagne,53,Bretagne,Sang & immunité,14770.0
+53 - Mayenne,53,Mayenne,Autres motifs de soins,32042.0
+53 - Mayenne,53,Mayenne,Cancers / Tumeurs,11226.0
+53 - Mayenne,53,Mayenne,Cardiovasculaire,15051.0
+53 - Mayenne,53,Mayenne,Digestif & hépatique,13445.0
+53 - Mayenne,53,Mayenne,Endocrino – Métabolisme,2417.0
+53 - Mayenne,53,Mayenne,Grossesse & accouchement,8640.0
+53 - Mayenne,53,Mayenne,Génito-urinaire,7252.0
+53 - Mayenne,53,Mayenne,Infectieux & parasitaires,7954.0
+53 - Mayenne,53,Mayenne,Lésions traumatiques et empoisonnements,10109.0
+53 - Mayenne,53,Mayenne,Malformations congénitales,695.0
+53 - Mayenne,53,Mayenne,Neurologie & système nerveux,3854.0
+53 - Mayenne,53,Mayenne,ORL & audition,911.0
+53 - Mayenne,53,Mayenne,Ophtalmologie,9781.0
+53 - Mayenne,53,Mayenne,Ostéo-articulaire – Rhumato,10864.0
+53 - Mayenne,53,Mayenne,Peau & tissus sous-cutanés,1187.0
+53 - Mayenne,53,Mayenne,Psychiatrie – Santé mentale,3615.0
+53 - Mayenne,53,Mayenne,Périnatalité,667.0
+53 - Mayenne,53,Mayenne,Respiratoire,4672.0
+53 - Mayenne,53,Mayenne,Sang & immunité,1349.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Autres motifs de soins,109915.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Cancers / Tumeurs,23768.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Cardiovasculaire,39268.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Digestif & hépatique,36062.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Endocrino – Métabolisme,6341.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Grossesse & accouchement,25236.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Génito-urinaire,18660.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Infectieux & parasitaires,18440.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Lésions traumatiques et empoisonnements,26700.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Malformations congénitales,1437.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Neurologie & système nerveux,8780.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,ORL & audition,1101.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Ophtalmologie,21742.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Ostéo-articulaire – Rhumato,31422.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Peau & tissus sous-cutanés,3650.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Psychiatrie – Santé mentale,12517.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Périnatalité,2022.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Respiratoire,15275.0
+54 - Meurthe-et-Moselle,54,Meurthe et Moselle,Sang & immunité,3834.0
+55 - Meuse,55,Meuse,Autres motifs de soins,26245.0
+55 - Meuse,55,Meuse,Cancers / Tumeurs,9431.0
+55 - Meuse,55,Meuse,Cardiovasculaire,12141.0
+55 - Meuse,55,Meuse,Digestif & hépatique,10381.0
+55 - Meuse,55,Meuse,Endocrino – Métabolisme,2389.0
+55 - Meuse,55,Meuse,Grossesse & accouchement,5340.0
+55 - Meuse,55,Meuse,Génito-urinaire,4647.0
+55 - Meuse,55,Meuse,Infectieux & parasitaires,6626.0
+55 - Meuse,55,Meuse,Lésions traumatiques et empoisonnements,6595.0
+55 - Meuse,55,Meuse,Malformations congénitales,306.0
+55 - Meuse,55,Meuse,Neurologie & système nerveux,2672.0
+55 - Meuse,55,Meuse,ORL & audition,280.0
+55 - Meuse,55,Meuse,Ophtalmologie,5725.0
+55 - Meuse,55,Meuse,Ostéo-articulaire – Rhumato,9110.0
+55 - Meuse,55,Meuse,Peau & tissus sous-cutanés,841.0
+55 - Meuse,55,Meuse,Psychiatrie – Santé mentale,2151.0
+55 - Meuse,55,Meuse,Périnatalité,402.0
+55 - Meuse,55,Meuse,Respiratoire,3473.0
+55 - Meuse,55,Meuse,Sang & immunité,971.0
+56 - Morbihan,56,Morbihan,Autres motifs de soins,79343.0
+56 - Morbihan,56,Morbihan,Cancers / Tumeurs,31163.0
+56 - Morbihan,56,Morbihan,Cardiovasculaire,36874.0
+56 - Morbihan,56,Morbihan,Digestif & hépatique,36469.0
+56 - Morbihan,56,Morbihan,Endocrino – Métabolisme,6077.0
+56 - Morbihan,56,Morbihan,Grossesse & accouchement,20814.0
+56 - Morbihan,56,Morbihan,Génito-urinaire,15822.0
+56 - Morbihan,56,Morbihan,Infectieux & parasitaires,22134.0
+56 - Morbihan,56,Morbihan,Lésions traumatiques et empoisonnements,31043.0
+56 - Morbihan,56,Morbihan,Malformations congénitales,1473.0
+56 - Morbihan,56,Morbihan,Neurologie & système nerveux,10232.0
+56 - Morbihan,56,Morbihan,ORL & audition,2618.0
+56 - Morbihan,56,Morbihan,Ophtalmologie,31432.0
+56 - Morbihan,56,Morbihan,Ostéo-articulaire – Rhumato,25992.0
+56 - Morbihan,56,Morbihan,Peau & tissus sous-cutanés,4625.0
+56 - Morbihan,56,Morbihan,Psychiatrie – Santé mentale,8941.0
+56 - Morbihan,56,Morbihan,Périnatalité,1663.0
+56 - Morbihan,56,Morbihan,Respiratoire,13971.0
+56 - Morbihan,56,Morbihan,Sang & immunité,3399.0
+57 - Moselle,57,Moselle,Autres motifs de soins,140484.0
+57 - Moselle,57,Moselle,Cancers / Tumeurs,33903.0
+57 - Moselle,57,Moselle,Cardiovasculaire,52337.0
+57 - Moselle,57,Moselle,Digestif & hépatique,49096.0
+57 - Moselle,57,Moselle,Endocrino – Métabolisme,10153.0
+57 - Moselle,57,Moselle,Grossesse & accouchement,31494.0
+57 - Moselle,57,Moselle,Génito-urinaire,27611.0
+57 - Moselle,57,Moselle,Infectieux & parasitaires,26655.0
+57 - Moselle,57,Moselle,Lésions traumatiques et empoisonnements,32904.0
+57 - Moselle,57,Moselle,Malformations congénitales,2298.0
+57 - Moselle,57,Moselle,Neurologie & système nerveux,12584.0
+57 - Moselle,57,Moselle,ORL & audition,1525.0
+57 - Moselle,57,Moselle,Ophtalmologie,33976.0
+57 - Moselle,57,Moselle,Ostéo-articulaire – Rhumato,39246.0
+57 - Moselle,57,Moselle,Peau & tissus sous-cutanés,4681.0
+57 - Moselle,57,Moselle,Psychiatrie – Santé mentale,9443.0
+57 - Moselle,57,Moselle,Périnatalité,2306.0
+57 - Moselle,57,Moselle,Respiratoire,20957.0
+57 - Moselle,57,Moselle,Sang & immunité,6330.0
+58 - Nièvre,58,Nièvre,Autres motifs de soins,25732.0
+58 - Nièvre,58,Nièvre,Cancers / Tumeurs,9538.0
+58 - Nièvre,58,Nièvre,Cardiovasculaire,10938.0
+58 - Nièvre,58,Nièvre,Digestif & hépatique,12836.0
+58 - Nièvre,58,Nièvre,Endocrino – Métabolisme,2153.0
+58 - Nièvre,58,Nièvre,Grossesse & accouchement,4608.0
+58 - Nièvre,58,Nièvre,Génito-urinaire,4823.0
+58 - Nièvre,58,Nièvre,Infectieux & parasitaires,6916.0
+58 - Nièvre,58,Nièvre,Lésions traumatiques et empoisonnements,7721.0
+58 - Nièvre,58,Nièvre,Malformations congénitales,297.0
+58 - Nièvre,58,Nièvre,Neurologie & système nerveux,3127.0
+58 - Nièvre,58,Nièvre,ORL & audition,353.0
+58 - Nièvre,58,Nièvre,Ophtalmologie,9103.0
+58 - Nièvre,58,Nièvre,Ostéo-articulaire – Rhumato,7650.0
+58 - Nièvre,58,Nièvre,Peau & tissus sous-cutanés,1239.0
+58 - Nièvre,58,Nièvre,Psychiatrie – Santé mentale,2157.0
+58 - Nièvre,58,Nièvre,Périnatalité,448.0
+58 - Nièvre,58,Nièvre,Respiratoire,4048.0
+58 - Nièvre,58,Nièvre,Sang & immunité,1561.0
+59 - Nord,59,Nord,Autres motifs de soins,383500.0
+59 - Nord,59,Nord,Cancers / Tumeurs,78724.0
+59 - Nord,59,Nord,Cardiovasculaire,114076.0
+59 - Nord,59,Nord,Digestif & hépatique,166299.0
+59 - Nord,59,Nord,Endocrino – Métabolisme,25682.0
+59 - Nord,59,Nord,Grossesse & accouchement,91910.0
+59 - Nord,59,Nord,Génito-urinaire,68598.0
+59 - Nord,59,Nord,Infectieux & parasitaires,64945.0
+59 - Nord,59,Nord,Lésions traumatiques et empoisonnements,110774.0
+59 - Nord,59,Nord,Malformations congénitales,7577.0
+59 - Nord,59,Nord,Neurologie & système nerveux,33620.0
+59 - Nord,59,Nord,ORL & audition,7745.0
+59 - Nord,59,Nord,Ophtalmologie,73786.0
+59 - Nord,59,Nord,Ostéo-articulaire – Rhumato,94044.0
+59 - Nord,59,Nord,Peau & tissus sous-cutanés,20914.0
+59 - Nord,59,Nord,Psychiatrie – Santé mentale,45098.0
+59 - Nord,59,Nord,Périnatalité,7079.0
+59 - Nord,59,Nord,Respiratoire,69814.0
+59 - Nord,59,Nord,Sang & immunité,13262.0
+60 - Oise,60,Oise,Autres motifs de soins,90853.0
+60 - Oise,60,Oise,Cancers / Tumeurs,24864.0
+60 - Oise,60,Oise,Cardiovasculaire,32268.0
+60 - Oise,60,Oise,Digestif & hépatique,44886.0
+60 - Oise,60,Oise,Endocrino – Métabolisme,6854.0
+60 - Oise,60,Oise,Grossesse & accouchement,27956.0
+60 - Oise,60,Oise,Génito-urinaire,20787.0
+60 - Oise,60,Oise,Infectieux & parasitaires,20005.0
+60 - Oise,60,Oise,Lésions traumatiques et empoisonnements,24601.0
+60 - Oise,60,Oise,Malformations congénitales,1831.0
+60 - Oise,60,Oise,Neurologie & système nerveux,9016.0
+60 - Oise,60,Oise,ORL & audition,1602.0
+60 - Oise,60,Oise,Ophtalmologie,24123.0
+60 - Oise,60,Oise,Ostéo-articulaire – Rhumato,25110.0
+60 - Oise,60,Oise,Peau & tissus sous-cutanés,4774.0
+60 - Oise,60,Oise,Psychiatrie – Santé mentale,4607.0
+60 - Oise,60,Oise,Périnatalité,1821.0
+60 - Oise,60,Oise,Respiratoire,16963.0
+60 - Oise,60,Oise,Sang & immunité,4801.0
+61 - Orne,61,Orne,Autres motifs de soins,38199.0
+61 - Orne,61,Orne,Cancers / Tumeurs,9268.0
+61 - Orne,61,Orne,Cardiovasculaire,16963.0
+61 - Orne,61,Orne,Digestif & hépatique,14120.0
+61 - Orne,61,Orne,Endocrino – Métabolisme,2190.0
+61 - Orne,61,Orne,Grossesse & accouchement,8016.0
+61 - Orne,61,Orne,Génito-urinaire,7704.0
+61 - Orne,61,Orne,Infectieux & parasitaires,7942.0
+61 - Orne,61,Orne,Lésions traumatiques et empoisonnements,11621.0
+61 - Orne,61,Orne,Malformations congénitales,616.0
+61 - Orne,61,Orne,Neurologie & système nerveux,3867.0
+61 - Orne,61,Orne,ORL & audition,777.0
+61 - Orne,61,Orne,Ophtalmologie,11108.0
+61 - Orne,61,Orne,Ostéo-articulaire – Rhumato,11704.0
+61 - Orne,61,Orne,Peau & tissus sous-cutanés,1489.0
+61 - Orne,61,Orne,Psychiatrie – Santé mentale,4662.0
+61 - Orne,61,Orne,Périnatalité,561.0
+61 - Orne,61,Orne,Respiratoire,7614.0
+61 - Orne,61,Orne,Sang & immunité,1332.0
+62 - Pas-de-Calais,62,Pas de Calais,Autres motifs de soins,201376.0
+62 - Pas-de-Calais,62,Pas de Calais,Cancers / Tumeurs,47075.0
+62 - Pas-de-Calais,62,Pas de Calais,Cardiovasculaire,68518.0
+62 - Pas-de-Calais,62,Pas de Calais,Digestif & hépatique,89926.0
+62 - Pas-de-Calais,62,Pas de Calais,Endocrino – Métabolisme,15263.0
+62 - Pas-de-Calais,62,Pas de Calais,Grossesse & accouchement,47554.0
+62 - Pas-de-Calais,62,Pas de Calais,Génito-urinaire,38571.0
+62 - Pas-de-Calais,62,Pas de Calais,Infectieux & parasitaires,38732.0
+62 - Pas-de-Calais,62,Pas de Calais,Lésions traumatiques et empoisonnements,58741.0
+62 - Pas-de-Calais,62,Pas de Calais,Malformations congénitales,4021.0
+62 - Pas-de-Calais,62,Pas de Calais,Neurologie & système nerveux,19207.0
+62 - Pas-de-Calais,62,Pas de Calais,ORL & audition,4135.0
+62 - Pas-de-Calais,62,Pas de Calais,Ophtalmologie,46606.0
+62 - Pas-de-Calais,62,Pas de Calais,Ostéo-articulaire – Rhumato,54740.0
+62 - Pas-de-Calais,62,Pas de Calais,Peau & tissus sous-cutanés,9863.0
+62 - Pas-de-Calais,62,Pas de Calais,Psychiatrie – Santé mentale,29608.0
+62 - Pas-de-Calais,62,Pas de Calais,Périnatalité,3213.0
+62 - Pas-de-Calais,62,Pas de Calais,Respiratoire,37403.0
+62 - Pas-de-Calais,62,Pas de Calais,Sang & immunité,8013.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Autres motifs de soins,69232.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Cancers / Tumeurs,25265.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Cardiovasculaire,31103.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Digestif & hépatique,41591.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Endocrino – Métabolisme,5159.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Grossesse & accouchement,17926.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Génito-urinaire,15771.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Infectieux & parasitaires,18329.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Lésions traumatiques et empoisonnements,26115.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Malformations congénitales,1407.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Neurologie & système nerveux,8679.0
+63 - Puy-de-Dôme,63,Puy de Dôme,ORL & audition,1742.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Ophtalmologie,22962.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Ostéo-articulaire – Rhumato,21518.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Peau & tissus sous-cutanés,3270.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Psychiatrie – Santé mentale,6521.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Périnatalité,900.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Respiratoire,11092.0
+63 - Puy-de-Dôme,63,Puy de Dôme,Sang & immunité,3510.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Autres motifs de soins,93347.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Cancers / Tumeurs,26365.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Cardiovasculaire,36269.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Digestif & hépatique,40085.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Endocrino – Métabolisme,6583.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Grossesse & accouchement,16756.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Génito-urinaire,19675.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Infectieux & parasitaires,19604.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Lésions traumatiques et empoisonnements,30257.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Malformations congénitales,1410.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Neurologie & système nerveux,9821.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,ORL & audition,1508.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Ophtalmologie,26406.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Ostéo-articulaire – Rhumato,29920.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Peau & tissus sous-cutanés,3816.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Psychiatrie – Santé mentale,6591.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Périnatalité,718.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Respiratoire,15080.0
+64 - Pyrénées-Atlantiques,64,Pyrénées Atlantiques,Sang & immunité,3465.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Autres motifs de soins,30222.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Cancers / Tumeurs,9408.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Cardiovasculaire,14215.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Digestif & hépatique,12156.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Endocrino – Métabolisme,1863.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Grossesse & accouchement,5084.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Génito-urinaire,5598.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Infectieux & parasitaires,6899.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Lésions traumatiques et empoisonnements,8854.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Malformations congénitales,404.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Neurologie & système nerveux,2668.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,ORL & audition,408.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Ophtalmologie,9324.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Ostéo-articulaire – Rhumato,9874.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Peau & tissus sous-cutanés,1386.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Psychiatrie – Santé mentale,1513.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Périnatalité,209.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Respiratoire,4739.0
+65 - Hautes-Pyrénées,65,Hautes Pyrénées,Sang & immunité,1260.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Autres motifs de soins,55382.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Cancers / Tumeurs,18733.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Cardiovasculaire,21103.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Digestif & hépatique,30858.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Endocrino – Métabolisme,5431.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Grossesse & accouchement,14716.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Génito-urinaire,10710.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Infectieux & parasitaires,13024.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Lésions traumatiques et empoisonnements,17723.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Malformations congénitales,1055.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Neurologie & système nerveux,4628.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,ORL & audition,656.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Ophtalmologie,24132.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Ostéo-articulaire – Rhumato,19006.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Peau & tissus sous-cutanés,3723.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Psychiatrie – Santé mentale,3390.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Périnatalité,749.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Respiratoire,8049.0
+66 - Pyrénées-Orientales,66,Pyrénées Orientales,Sang & immunité,2711.0
+67 - Bas-Rhin,67,Bas Rhin,Autres motifs de soins,139966.0
+67 - Bas-Rhin,67,Bas Rhin,Cancers / Tumeurs,43419.0
+67 - Bas-Rhin,67,Bas Rhin,Cardiovasculaire,53517.0
+67 - Bas-Rhin,67,Bas Rhin,Digestif & hépatique,73275.0
+67 - Bas-Rhin,67,Bas Rhin,Endocrino – Métabolisme,10284.0
+67 - Bas-Rhin,67,Bas Rhin,Grossesse & accouchement,36236.0
+67 - Bas-Rhin,67,Bas Rhin,Génito-urinaire,28598.0
+67 - Bas-Rhin,67,Bas Rhin,Infectieux & parasitaires,31372.0
+67 - Bas-Rhin,67,Bas Rhin,Lésions traumatiques et empoisonnements,43700.0
+67 - Bas-Rhin,67,Bas Rhin,Malformations congénitales,2633.0
+67 - Bas-Rhin,67,Bas Rhin,Neurologie & système nerveux,17306.0
+67 - Bas-Rhin,67,Bas Rhin,ORL & audition,2074.0
+67 - Bas-Rhin,67,Bas Rhin,Ophtalmologie,37141.0
+67 - Bas-Rhin,67,Bas Rhin,Ostéo-articulaire – Rhumato,46704.0
+67 - Bas-Rhin,67,Bas Rhin,Peau & tissus sous-cutanés,5653.0
+67 - Bas-Rhin,67,Bas Rhin,Psychiatrie – Santé mentale,10665.0
+67 - Bas-Rhin,67,Bas Rhin,Périnatalité,2128.0
+67 - Bas-Rhin,67,Bas Rhin,Respiratoire,21886.0
+67 - Bas-Rhin,67,Bas Rhin,Sang & immunité,6418.0
+68 - Haut-Rhin,68,Haut Rhin,Autres motifs de soins,81264.0
+68 - Haut-Rhin,68,Haut Rhin,Cancers / Tumeurs,25246.0
+68 - Haut-Rhin,68,Haut Rhin,Cardiovasculaire,40092.0
+68 - Haut-Rhin,68,Haut Rhin,Digestif & hépatique,35490.0
+68 - Haut-Rhin,68,Haut Rhin,Endocrino – Métabolisme,8716.0
+68 - Haut-Rhin,68,Haut Rhin,Grossesse & accouchement,24694.0
+68 - Haut-Rhin,68,Haut Rhin,Génito-urinaire,17835.0
+68 - Haut-Rhin,68,Haut Rhin,Infectieux & parasitaires,19304.0
+68 - Haut-Rhin,68,Haut Rhin,Lésions traumatiques et empoisonnements,20702.0
+68 - Haut-Rhin,68,Haut Rhin,Malformations congénitales,1742.0
+68 - Haut-Rhin,68,Haut Rhin,Neurologie & système nerveux,9065.0
+68 - Haut-Rhin,68,Haut Rhin,ORL & audition,1186.0
+68 - Haut-Rhin,68,Haut Rhin,Ophtalmologie,23256.0
+68 - Haut-Rhin,68,Haut Rhin,Ostéo-articulaire – Rhumato,26146.0
+68 - Haut-Rhin,68,Haut Rhin,Peau & tissus sous-cutanés,2745.0
+68 - Haut-Rhin,68,Haut Rhin,Psychiatrie – Santé mentale,7112.0
+68 - Haut-Rhin,68,Haut Rhin,Périnatalité,1455.0
+68 - Haut-Rhin,68,Haut Rhin,Respiratoire,13770.0
+68 - Haut-Rhin,68,Haut Rhin,Sang & immunité,3644.0
+69 - Rhône,69,Rhône,Autres motifs de soins,218971.0
+69 - Rhône,69,Rhône,Cancers / Tumeurs,64298.0
+69 - Rhône,69,Rhône,Cardiovasculaire,71555.0
+69 - Rhône,69,Rhône,Digestif & hépatique,104128.0
+69 - Rhône,69,Rhône,Endocrino – Métabolisme,19857.0
+69 - Rhône,69,Rhône,Grossesse & accouchement,66652.0
+69 - Rhône,69,Rhône,Génito-urinaire,45344.0
+69 - Rhône,69,Rhône,Infectieux & parasitaires,46531.0
+69 - Rhône,69,Rhône,Lésions traumatiques et empoisonnements,60921.0
+69 - Rhône,69,Rhône,Malformations congénitales,4673.0
+69 - Rhône,69,Rhône,Neurologie & système nerveux,20236.0
+69 - Rhône,69,Rhône,ORL & audition,4926.0
+69 - Rhône,69,Rhône,Ophtalmologie,55666.0
+69 - Rhône,69,Rhône,Ostéo-articulaire – Rhumato,60838.0
+69 - Rhône,69,Rhône,Peau & tissus sous-cutanés,10778.0
+69 - Rhône,69,Rhône,Psychiatrie – Santé mentale,16473.0
+69 - Rhône,69,Rhône,Périnatalité,3202.0
+69 - Rhône,69,Rhône,Respiratoire,34155.0
+69 - Rhône,69,Rhône,Sang & immunité,8058.0
+70 - Haute-Saône,70,Haute Saône,Autres motifs de soins,31483.0
+70 - Haute-Saône,70,Haute Saône,Cancers / Tumeurs,9189.0
+70 - Haute-Saône,70,Haute Saône,Cardiovasculaire,13388.0
+70 - Haute-Saône,70,Haute Saône,Digestif & hépatique,11715.0
+70 - Haute-Saône,70,Haute Saône,Endocrino – Métabolisme,2075.0
+70 - Haute-Saône,70,Haute Saône,Grossesse & accouchement,5538.0
+70 - Haute-Saône,70,Haute Saône,Génito-urinaire,5236.0
+70 - Haute-Saône,70,Haute Saône,Infectieux & parasitaires,6846.0
+70 - Haute-Saône,70,Haute Saône,Lésions traumatiques et empoisonnements,7643.0
+70 - Haute-Saône,70,Haute Saône,Malformations congénitales,412.0
+70 - Haute-Saône,70,Haute Saône,Neurologie & système nerveux,2956.0
+70 - Haute-Saône,70,Haute Saône,ORL & audition,476.0
+70 - Haute-Saône,70,Haute Saône,Ophtalmologie,8204.0
+70 - Haute-Saône,70,Haute Saône,Ostéo-articulaire – Rhumato,9674.0
+70 - Haute-Saône,70,Haute Saône,Peau & tissus sous-cutanés,943.0
+70 - Haute-Saône,70,Haute Saône,Psychiatrie – Santé mentale,1773.0
+70 - Haute-Saône,70,Haute Saône,Périnatalité,544.0
+70 - Haute-Saône,70,Haute Saône,Respiratoire,4351.0
+70 - Haute-Saône,70,Haute Saône,Sang & immunité,1208.0
+71 - Saône-et-Loire,71,Saône et Loire,Autres motifs de soins,81031.0
+71 - Saône-et-Loire,71,Saône et Loire,Cancers / Tumeurs,24791.0
+71 - Saône-et-Loire,71,Saône et Loire,Cardiovasculaire,31423.0
+71 - Saône-et-Loire,71,Saône et Loire,Digestif & hépatique,31068.0
+71 - Saône-et-Loire,71,Saône et Loire,Endocrino – Métabolisme,5457.0
+71 - Saône-et-Loire,71,Saône et Loire,Grossesse & accouchement,15628.0
+71 - Saône-et-Loire,71,Saône et Loire,Génito-urinaire,16229.0
+71 - Saône-et-Loire,71,Saône et Loire,Infectieux & parasitaires,19017.0
+71 - Saône-et-Loire,71,Saône et Loire,Lésions traumatiques et empoisonnements,22263.0
+71 - Saône-et-Loire,71,Saône et Loire,Malformations congénitales,1125.0
+71 - Saône-et-Loire,71,Saône et Loire,Neurologie & système nerveux,9041.0
+71 - Saône-et-Loire,71,Saône et Loire,ORL & audition,1609.0
+71 - Saône-et-Loire,71,Saône et Loire,Ophtalmologie,21179.0
+71 - Saône-et-Loire,71,Saône et Loire,Ostéo-articulaire – Rhumato,26178.0
+71 - Saône-et-Loire,71,Saône et Loire,Peau & tissus sous-cutanés,4395.0
+71 - Saône-et-Loire,71,Saône et Loire,Psychiatrie – Santé mentale,8097.0
+71 - Saône-et-Loire,71,Saône et Loire,Périnatalité,1145.0
+71 - Saône-et-Loire,71,Saône et Loire,Respiratoire,12143.0
+71 - Saône-et-Loire,71,Saône et Loire,Sang & immunité,3211.0
+72 - Sarthe,72,Sarthe,Autres motifs de soins,63308.0
+72 - Sarthe,72,Sarthe,Cancers / Tumeurs,20603.0
+72 - Sarthe,72,Sarthe,Cardiovasculaire,24134.0
+72 - Sarthe,72,Sarthe,Digestif & hépatique,26436.0
+72 - Sarthe,72,Sarthe,Endocrino – Métabolisme,3635.0
+72 - Sarthe,72,Sarthe,Grossesse & accouchement,17714.0
+72 - Sarthe,72,Sarthe,Génito-urinaire,13960.0
+72 - Sarthe,72,Sarthe,Infectieux & parasitaires,15494.0
+72 - Sarthe,72,Sarthe,Lésions traumatiques et empoisonnements,24922.0
+72 - Sarthe,72,Sarthe,Malformations congénitales,1319.0
+72 - Sarthe,72,Sarthe,Neurologie & système nerveux,7515.0
+72 - Sarthe,72,Sarthe,ORL & audition,1644.0
+72 - Sarthe,72,Sarthe,Ophtalmologie,19784.0
+72 - Sarthe,72,Sarthe,Ostéo-articulaire – Rhumato,25300.0
+72 - Sarthe,72,Sarthe,Peau & tissus sous-cutanés,3989.0
+72 - Sarthe,72,Sarthe,Psychiatrie – Santé mentale,7534.0
+72 - Sarthe,72,Sarthe,Périnatalité,1008.0
+72 - Sarthe,72,Sarthe,Respiratoire,9628.0
+72 - Sarthe,72,Sarthe,Sang & immunité,2974.0
+73 - Savoie,73,Savoie,Autres motifs de soins,41556.0
+73 - Savoie,73,Savoie,Cancers / Tumeurs,15825.0
+73 - Savoie,73,Savoie,Cardiovasculaire,17582.0
+73 - Savoie,73,Savoie,Digestif & hépatique,23936.0
+73 - Savoie,73,Savoie,Endocrino – Métabolisme,3769.0
+73 - Savoie,73,Savoie,Grossesse & accouchement,11452.0
+73 - Savoie,73,Savoie,Génito-urinaire,10892.0
+73 - Savoie,73,Savoie,Infectieux & parasitaires,11916.0
+73 - Savoie,73,Savoie,Lésions traumatiques et empoisonnements,18631.0
+73 - Savoie,73,Savoie,Malformations congénitales,952.0
+73 - Savoie,73,Savoie,Neurologie & système nerveux,5443.0
+73 - Savoie,73,Savoie,ORL & audition,975.0
+73 - Savoie,73,Savoie,Ophtalmologie,13697.0
+73 - Savoie,73,Savoie,Ostéo-articulaire – Rhumato,19056.0
+73 - Savoie,73,Savoie,Peau & tissus sous-cutanés,2042.0
+73 - Savoie,73,Savoie,Psychiatrie – Santé mentale,6197.0
+73 - Savoie,73,Savoie,Périnatalité,1141.0
+73 - Savoie,73,Savoie,Respiratoire,7792.0
+73 - Savoie,73,Savoie,Sang & immunité,2070.0
+74 - Haute-Savoie,74,Haute Savoie,Autres motifs de soins,70884.0
+74 - Haute-Savoie,74,Haute Savoie,Cancers / Tumeurs,23773.0
+74 - Haute-Savoie,74,Haute Savoie,Cardiovasculaire,27260.0
+74 - Haute-Savoie,74,Haute Savoie,Digestif & hépatique,36338.0
+74 - Haute-Savoie,74,Haute Savoie,Endocrino – Métabolisme,5246.0
+74 - Haute-Savoie,74,Haute Savoie,Grossesse & accouchement,26986.0
+74 - Haute-Savoie,74,Haute Savoie,Génito-urinaire,16893.0
+74 - Haute-Savoie,74,Haute Savoie,Infectieux & parasitaires,17677.0
+74 - Haute-Savoie,74,Haute Savoie,Lésions traumatiques et empoisonnements,27530.0
+74 - Haute-Savoie,74,Haute Savoie,Malformations congénitales,1913.0
+74 - Haute-Savoie,74,Haute Savoie,Neurologie & système nerveux,8149.0
+74 - Haute-Savoie,74,Haute Savoie,ORL & audition,1778.0
+74 - Haute-Savoie,74,Haute Savoie,Ophtalmologie,22218.0
+74 - Haute-Savoie,74,Haute Savoie,Ostéo-articulaire – Rhumato,31992.0
+74 - Haute-Savoie,74,Haute Savoie,Peau & tissus sous-cutanés,3547.0
+74 - Haute-Savoie,74,Haute Savoie,Psychiatrie – Santé mentale,6874.0
+74 - Haute-Savoie,74,Haute Savoie,Périnatalité,2120.0
+74 - Haute-Savoie,74,Haute Savoie,Respiratoire,14709.0
+74 - Haute-Savoie,74,Haute Savoie,Sang & immunité,2688.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Autres motifs de soins,766962.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Cancers / Tumeurs,231102.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Cardiovasculaire,285551.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Digestif & hépatique,352052.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Endocrino – Métabolisme,51491.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Grossesse & accouchement,164686.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Génito-urinaire,152366.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Infectieux & parasitaires,165745.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Lésions traumatiques et empoisonnements,238566.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Malformations congénitales,14107.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Neurologie & système nerveux,76461.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,ORL & audition,11864.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Ophtalmologie,234790.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Ostéo-articulaire – Rhumato,240954.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Peau & tissus sous-cutanés,32622.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Psychiatrie – Santé mentale,44913.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Périnatalité,10486.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Respiratoire,115810.0
+75 - Nouvelle-Aquitaine,75,Nouvelle Aquitaine,Sang & immunité,32463.0
+75 - Paris,75,Paris,Autres motifs de soins,257787.0
+75 - Paris,75,Paris,Cancers / Tumeurs,72866.0
+75 - Paris,75,Paris,Cardiovasculaire,78120.0
+75 - Paris,75,Paris,Digestif & hépatique,96878.0
+75 - Paris,75,Paris,Endocrino – Métabolisme,18283.0
+75 - Paris,75,Paris,Grossesse & accouchement,67586.0
+75 - Paris,75,Paris,Génito-urinaire,47045.0
+75 - Paris,75,Paris,Infectieux & parasitaires,53329.0
+75 - Paris,75,Paris,Lésions traumatiques et empoisonnements,60344.0
+75 - Paris,75,Paris,Malformations congénitales,4760.0
+75 - Paris,75,Paris,Neurologie & système nerveux,18677.0
+75 - Paris,75,Paris,ORL & audition,3362.0
+75 - Paris,75,Paris,Ophtalmologie,66232.0
+75 - Paris,75,Paris,Ostéo-articulaire – Rhumato,58636.0
+75 - Paris,75,Paris,Peau & tissus sous-cutanés,12452.0
+75 - Paris,75,Paris,Psychiatrie – Santé mentale,23976.0
+75 - Paris,75,Paris,Périnatalité,5710.0
+75 - Paris,75,Paris,Respiratoire,34782.0
+75 - Paris,75,Paris,Sang & immunité,11774.0
+76 - Occitanie,76,Occitanie,Autres motifs de soins,771900.0
+76 - Occitanie,76,Occitanie,Cancers / Tumeurs,229901.0
+76 - Occitanie,76,Occitanie,Cardiovasculaire,280946.0
+76 - Occitanie,76,Occitanie,Digestif & hépatique,366542.0
+76 - Occitanie,76,Occitanie,Endocrino – Métabolisme,48685.0
+76 - Occitanie,76,Occitanie,Grossesse & accouchement,178676.0
+76 - Occitanie,76,Occitanie,Génito-urinaire,150481.0
+76 - Occitanie,76,Occitanie,Infectieux & parasitaires,166279.0
+76 - Occitanie,76,Occitanie,Lésions traumatiques et empoisonnements,215481.0
+76 - Occitanie,76,Occitanie,Malformations congénitales,14426.0
+76 - Occitanie,76,Occitanie,Neurologie & système nerveux,67834.0
+76 - Occitanie,76,Occitanie,ORL & audition,15657.0
+76 - Occitanie,76,Occitanie,Ophtalmologie,229423.0
+76 - Occitanie,76,Occitanie,Ostéo-articulaire – Rhumato,244348.0
+76 - Occitanie,76,Occitanie,Peau & tissus sous-cutanés,36079.0
+76 - Occitanie,76,Occitanie,Psychiatrie – Santé mentale,47731.0
+76 - Occitanie,76,Occitanie,Périnatalité,10943.0
+76 - Occitanie,76,Occitanie,Respiratoire,112806.0
+76 - Occitanie,76,Occitanie,Sang & immunité,32065.0
+76 - Seine-Maritime,76,Seine Maritime,Autres motifs de soins,179107.0
+76 - Seine-Maritime,76,Seine Maritime,Cancers / Tumeurs,43359.0
+76 - Seine-Maritime,76,Seine Maritime,Cardiovasculaire,56620.0
+76 - Seine-Maritime,76,Seine Maritime,Digestif & hépatique,65339.0
+76 - Seine-Maritime,76,Seine Maritime,Endocrino – Métabolisme,13705.0
+76 - Seine-Maritime,76,Seine Maritime,Grossesse & accouchement,40942.0
+76 - Seine-Maritime,76,Seine Maritime,Génito-urinaire,29767.0
+76 - Seine-Maritime,76,Seine Maritime,Infectieux & parasitaires,33429.0
+76 - Seine-Maritime,76,Seine Maritime,Lésions traumatiques et empoisonnements,41340.0
+76 - Seine-Maritime,76,Seine Maritime,Malformations congénitales,3098.0
+76 - Seine-Maritime,76,Seine Maritime,Neurologie & système nerveux,17061.0
+76 - Seine-Maritime,76,Seine Maritime,ORL & audition,5070.0
+76 - Seine-Maritime,76,Seine Maritime,Ophtalmologie,40877.0
+76 - Seine-Maritime,76,Seine Maritime,Ostéo-articulaire – Rhumato,44740.0
+76 - Seine-Maritime,76,Seine Maritime,Peau & tissus sous-cutanés,6609.0
+76 - Seine-Maritime,76,Seine Maritime,Psychiatrie – Santé mentale,10810.0
+76 - Seine-Maritime,76,Seine Maritime,Périnatalité,2337.0
+76 - Seine-Maritime,76,Seine Maritime,Respiratoire,28109.0
+76 - Seine-Maritime,76,Seine Maritime,Sang & immunité,7243.0
+77 - Seine-et-Marne,77,Seine et Marne,Autres motifs de soins,131824.0
+77 - Seine-et-Marne,77,Seine et Marne,Cancers / Tumeurs,44131.0
+77 - Seine-et-Marne,77,Seine et Marne,Cardiovasculaire,50136.0
+77 - Seine-et-Marne,77,Seine et Marne,Digestif & hépatique,73309.0
+77 - Seine-et-Marne,77,Seine et Marne,Endocrino – Métabolisme,12952.0
+77 - Seine-et-Marne,77,Seine et Marne,Grossesse & accouchement,51628.0
+77 - Seine-et-Marne,77,Seine et Marne,Génito-urinaire,35883.0
+77 - Seine-et-Marne,77,Seine et Marne,Infectieux & parasitaires,34273.0
+77 - Seine-et-Marne,77,Seine et Marne,Lésions traumatiques et empoisonnements,39459.0
+77 - Seine-et-Marne,77,Seine et Marne,Malformations congénitales,3271.0
+77 - Seine-et-Marne,77,Seine et Marne,Neurologie & système nerveux,13687.0
+77 - Seine-et-Marne,77,Seine et Marne,ORL & audition,2740.0
+77 - Seine-et-Marne,77,Seine et Marne,Ophtalmologie,38606.0
+77 - Seine-et-Marne,77,Seine et Marne,Ostéo-articulaire – Rhumato,42570.0
+77 - Seine-et-Marne,77,Seine et Marne,Peau & tissus sous-cutanés,9181.0
+77 - Seine-et-Marne,77,Seine et Marne,Psychiatrie – Santé mentale,6899.0
+77 - Seine-et-Marne,77,Seine et Marne,Périnatalité,4038.0
+77 - Seine-et-Marne,77,Seine et Marne,Respiratoire,26335.0
+77 - Seine-et-Marne,77,Seine et Marne,Sang & immunité,8322.0
+78 - Yvelines,78,Yvelines,Autres motifs de soins,149246.0
+78 - Yvelines,78,Yvelines,Cancers / Tumeurs,51639.0
+78 - Yvelines,78,Yvelines,Cardiovasculaire,48147.0
+78 - Yvelines,78,Yvelines,Digestif & hépatique,71715.0
+78 - Yvelines,78,Yvelines,Endocrino – Métabolisme,11280.0
+78 - Yvelines,78,Yvelines,Grossesse & accouchement,47886.0
+78 - Yvelines,78,Yvelines,Génito-urinaire,31724.0
+78 - Yvelines,78,Yvelines,Infectieux & parasitaires,37470.0
+78 - Yvelines,78,Yvelines,Lésions traumatiques et empoisonnements,38465.0
+78 - Yvelines,78,Yvelines,Malformations congénitales,3594.0
+78 - Yvelines,78,Yvelines,Neurologie & système nerveux,13018.0
+78 - Yvelines,78,Yvelines,ORL & audition,2609.0
+78 - Yvelines,78,Yvelines,Ophtalmologie,41765.0
+78 - Yvelines,78,Yvelines,Ostéo-articulaire – Rhumato,42798.0
+78 - Yvelines,78,Yvelines,Peau & tissus sous-cutanés,9226.0
+78 - Yvelines,78,Yvelines,Psychiatrie – Santé mentale,6317.0
+78 - Yvelines,78,Yvelines,Périnatalité,4307.0
+78 - Yvelines,78,Yvelines,Respiratoire,26967.0
+78 - Yvelines,78,Yvelines,Sang & immunité,7366.0
+79 - Deux-Sèvres,79,Deux Sèvres,Autres motifs de soins,42684.0
+79 - Deux-Sèvres,79,Deux Sèvres,Cancers / Tumeurs,13494.0
+79 - Deux-Sèvres,79,Deux Sèvres,Cardiovasculaire,15892.0
+79 - Deux-Sèvres,79,Deux Sèvres,Digestif & hépatique,17406.0
+79 - Deux-Sèvres,79,Deux Sèvres,Endocrino – Métabolisme,2683.0
+79 - Deux-Sèvres,79,Deux Sèvres,Grossesse & accouchement,9546.0
+79 - Deux-Sèvres,79,Deux Sèvres,Génito-urinaire,7231.0
+79 - Deux-Sèvres,79,Deux Sèvres,Infectieux & parasitaires,9423.0
+79 - Deux-Sèvres,79,Deux Sèvres,Lésions traumatiques et empoisonnements,13075.0
+79 - Deux-Sèvres,79,Deux Sèvres,Malformations congénitales,697.0
+79 - Deux-Sèvres,79,Deux Sèvres,Neurologie & système nerveux,4407.0
+79 - Deux-Sèvres,79,Deux Sèvres,ORL & audition,690.0
+79 - Deux-Sèvres,79,Deux Sèvres,Ophtalmologie,14546.0
+79 - Deux-Sèvres,79,Deux Sèvres,Ostéo-articulaire – Rhumato,13016.0
+79 - Deux-Sèvres,79,Deux Sèvres,Peau & tissus sous-cutanés,1651.0
+79 - Deux-Sèvres,79,Deux Sèvres,Psychiatrie – Santé mentale,3564.0
+79 - Deux-Sèvres,79,Deux Sèvres,Périnatalité,900.0
+79 - Deux-Sèvres,79,Deux Sèvres,Respiratoire,6382.0
+79 - Deux-Sèvres,79,Deux Sèvres,Sang & immunité,1790.0
+80 - Somme,80,Somme,Autres motifs de soins,68606.0
+80 - Somme,80,Somme,Cancers / Tumeurs,20575.0
+80 - Somme,80,Somme,Cardiovasculaire,24672.0
+80 - Somme,80,Somme,Digestif & hépatique,33839.0
+80 - Somme,80,Somme,Endocrino – Métabolisme,5075.0
+80 - Somme,80,Somme,Grossesse & accouchement,17748.0
+80 - Somme,80,Somme,Génito-urinaire,12606.0
+80 - Somme,80,Somme,Infectieux & parasitaires,15995.0
+80 - Somme,80,Somme,Lésions traumatiques et empoisonnements,19997.0
+80 - Somme,80,Somme,Malformations congénitales,1080.0
+80 - Somme,80,Somme,Neurologie & système nerveux,8093.0
+80 - Somme,80,Somme,ORL & audition,990.0
+80 - Somme,80,Somme,Ophtalmologie,17913.0
+80 - Somme,80,Somme,Ostéo-articulaire – Rhumato,20054.0
+80 - Somme,80,Somme,Peau & tissus sous-cutanés,3218.0
+80 - Somme,80,Somme,Psychiatrie – Santé mentale,5574.0
+80 - Somme,80,Somme,Périnatalité,1447.0
+80 - Somme,80,Somme,Respiratoire,11177.0
+80 - Somme,80,Somme,Sang & immunité,3000.0
+81 - Tarn,81,Tarn,Autres motifs de soins,46907.0
+81 - Tarn,81,Tarn,Cancers / Tumeurs,15198.0
+81 - Tarn,81,Tarn,Cardiovasculaire,20204.0
+81 - Tarn,81,Tarn,Digestif & hépatique,23698.0
+81 - Tarn,81,Tarn,Endocrino – Métabolisme,2692.0
+81 - Tarn,81,Tarn,Grossesse & accouchement,10494.0
+81 - Tarn,81,Tarn,Génito-urinaire,10297.0
+81 - Tarn,81,Tarn,Infectieux & parasitaires,10987.0
+81 - Tarn,81,Tarn,Lésions traumatiques et empoisonnements,14935.0
+81 - Tarn,81,Tarn,Malformations congénitales,1016.0
+81 - Tarn,81,Tarn,Neurologie & système nerveux,4913.0
+81 - Tarn,81,Tarn,ORL & audition,891.0
+81 - Tarn,81,Tarn,Ophtalmologie,15228.0
+81 - Tarn,81,Tarn,Ostéo-articulaire – Rhumato,15556.0
+81 - Tarn,81,Tarn,Peau & tissus sous-cutanés,2468.0
+81 - Tarn,81,Tarn,Psychiatrie – Santé mentale,2044.0
+81 - Tarn,81,Tarn,Périnatalité,605.0
+81 - Tarn,81,Tarn,Respiratoire,7537.0
+81 - Tarn,81,Tarn,Sang & immunité,2239.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Autres motifs de soins,29734.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Cancers / Tumeurs,9511.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Cardiovasculaire,11863.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Digestif & hépatique,14772.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Endocrino – Métabolisme,2030.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Grossesse & accouchement,7946.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Génito-urinaire,6821.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Infectieux & parasitaires,6739.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Lésions traumatiques et empoisonnements,8714.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Malformations congénitales,613.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Neurologie & système nerveux,3176.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,ORL & audition,800.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Ophtalmologie,10930.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Ostéo-articulaire – Rhumato,10070.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Peau & tissus sous-cutanés,1396.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Psychiatrie – Santé mentale,2352.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Périnatalité,440.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Respiratoire,4570.0
+82 - Tarn-et-Garonne,82,Tarn et Garonne,Sang & immunité,1518.0
+83 - Var,83,Var,Autres motifs de soins,140318.0
+83 - Var,83,Var,Cancers / Tumeurs,53004.0
+83 - Var,83,Var,Cardiovasculaire,61458.0
+83 - Var,83,Var,Digestif & hépatique,83230.0
+83 - Var,83,Var,Endocrino – Métabolisme,9235.0
+83 - Var,83,Var,Grossesse & accouchement,33950.0
+83 - Var,83,Var,Génito-urinaire,33205.0
+83 - Var,83,Var,Infectieux & parasitaires,38217.0
+83 - Var,83,Var,Lésions traumatiques et empoisonnements,56479.0
+83 - Var,83,Var,Malformations congénitales,2487.0
+83 - Var,83,Var,Neurologie & système nerveux,13095.0
+83 - Var,83,Var,ORL & audition,1987.0
+83 - Var,83,Var,Ophtalmologie,47522.0
+83 - Var,83,Var,Ostéo-articulaire – Rhumato,48256.0
+83 - Var,83,Var,Peau & tissus sous-cutanés,9474.0
+83 - Var,83,Var,Psychiatrie – Santé mentale,6607.0
+83 - Var,83,Var,Périnatalité,2264.0
+83 - Var,83,Var,Respiratoire,23430.0
+83 - Var,83,Var,Sang & immunité,6000.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Autres motifs de soins,907687.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Cancers / Tumeurs,292218.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Cardiovasculaire,336812.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Digestif & hépatique,449492.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Endocrino – Métabolisme,71867.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Grossesse & accouchement,249076.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Génito-urinaire,199879.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Infectieux & parasitaires,214793.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Lésions traumatiques et empoisonnements,289555.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Malformations congénitales,18546.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Neurologie & système nerveux,98157.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,ORL & audition,20796.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Ophtalmologie,266053.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Ostéo-articulaire – Rhumato,297086.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Peau & tissus sous-cutanés,41633.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Psychiatrie – Santé mentale,70976.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Périnatalité,15185.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Respiratoire,148297.0
+84 - Auvergne-Rhône-Alpes,84,Auvergne Rhône Alpes,Sang & immunité,36064.0
+84 - Vaucluse,84,Vaucluse,Autres motifs de soins,71247.0
+84 - Vaucluse,84,Vaucluse,Cancers / Tumeurs,20956.0
+84 - Vaucluse,84,Vaucluse,Cardiovasculaire,28683.0
+84 - Vaucluse,84,Vaucluse,Digestif & hépatique,36579.0
+84 - Vaucluse,84,Vaucluse,Endocrino – Métabolisme,4030.0
+84 - Vaucluse,84,Vaucluse,Grossesse & accouchement,19708.0
+84 - Vaucluse,84,Vaucluse,Génito-urinaire,14033.0
+84 - Vaucluse,84,Vaucluse,Infectieux & parasitaires,15908.0
+84 - Vaucluse,84,Vaucluse,Lésions traumatiques et empoisonnements,22429.0
+84 - Vaucluse,84,Vaucluse,Malformations congénitales,1350.0
+84 - Vaucluse,84,Vaucluse,Neurologie & système nerveux,7054.0
+84 - Vaucluse,84,Vaucluse,ORL & audition,1427.0
+84 - Vaucluse,84,Vaucluse,Ophtalmologie,20584.0
+84 - Vaucluse,84,Vaucluse,Ostéo-articulaire – Rhumato,20780.0
+84 - Vaucluse,84,Vaucluse,Peau & tissus sous-cutanés,3238.0
+84 - Vaucluse,84,Vaucluse,Psychiatrie – Santé mentale,3005.0
+84 - Vaucluse,84,Vaucluse,Périnatalité,1136.0
+84 - Vaucluse,84,Vaucluse,Respiratoire,11310.0
+84 - Vaucluse,84,Vaucluse,Sang & immunité,2876.0
+85 - Vendée,85,Vendée,Autres motifs de soins,89955.0
+85 - Vendée,85,Vendée,Cancers / Tumeurs,30036.0
+85 - Vendée,85,Vendée,Cardiovasculaire,30647.0
+85 - Vendée,85,Vendée,Digestif & hépatique,40185.0
+85 - Vendée,85,Vendée,Endocrino – Métabolisme,5399.0
+85 - Vendée,85,Vendée,Grossesse & accouchement,18580.0
+85 - Vendée,85,Vendée,Génito-urinaire,15989.0
+85 - Vendée,85,Vendée,Infectieux & parasitaires,20861.0
+85 - Vendée,85,Vendée,Lésions traumatiques et empoisonnements,29250.0
+85 - Vendée,85,Vendée,Malformations congénitales,1474.0
+85 - Vendée,85,Vendée,Neurologie & système nerveux,10243.0
+85 - Vendée,85,Vendée,ORL & audition,1781.0
+85 - Vendée,85,Vendée,Ophtalmologie,27130.0
+85 - Vendée,85,Vendée,Ostéo-articulaire – Rhumato,28144.0
+85 - Vendée,85,Vendée,Peau & tissus sous-cutanés,4305.0
+85 - Vendée,85,Vendée,Psychiatrie – Santé mentale,5640.0
+85 - Vendée,85,Vendée,Périnatalité,1177.0
+85 - Vendée,85,Vendée,Respiratoire,13377.0
+85 - Vendée,85,Vendée,Sang & immunité,2890.0
+86 - Vienne,86,Vienne,Autres motifs de soins,61196.0
+86 - Vienne,86,Vienne,Cancers / Tumeurs,14994.0
+86 - Vienne,86,Vienne,Cardiovasculaire,18388.0
+86 - Vienne,86,Vienne,Digestif & hépatique,23168.0
+86 - Vienne,86,Vienne,Endocrino – Métabolisme,2705.0
+86 - Vienne,86,Vienne,Grossesse & accouchement,11432.0
+86 - Vienne,86,Vienne,Génito-urinaire,8980.0
+86 - Vienne,86,Vienne,Infectieux & parasitaires,10398.0
+86 - Vienne,86,Vienne,Lésions traumatiques et empoisonnements,13125.0
+86 - Vienne,86,Vienne,Malformations congénitales,1047.0
+86 - Vienne,86,Vienne,Neurologie & système nerveux,4721.0
+86 - Vienne,86,Vienne,ORL & audition,1131.0
+86 - Vienne,86,Vienne,Ophtalmologie,14308.0
+86 - Vienne,86,Vienne,Ostéo-articulaire – Rhumato,13152.0
+86 - Vienne,86,Vienne,Peau & tissus sous-cutanés,2127.0
+86 - Vienne,86,Vienne,Psychiatrie – Santé mentale,2817.0
+86 - Vienne,86,Vienne,Périnatalité,856.0
+86 - Vienne,86,Vienne,Respiratoire,7092.0
+86 - Vienne,86,Vienne,Sang & immunité,2109.0
+87 - Haute-Vienne,87,Haute Vienne,Autres motifs de soins,45122.0
+87 - Haute-Vienne,87,Haute Vienne,Cancers / Tumeurs,14315.0
+87 - Haute-Vienne,87,Haute Vienne,Cardiovasculaire,17607.0
+87 - Haute-Vienne,87,Haute Vienne,Digestif & hépatique,18863.0
+87 - Haute-Vienne,87,Haute Vienne,Endocrino – Métabolisme,2890.0
+87 - Haute-Vienne,87,Haute Vienne,Grossesse & accouchement,10664.0
+87 - Haute-Vienne,87,Haute Vienne,Génito-urinaire,9530.0
+87 - Haute-Vienne,87,Haute Vienne,Infectieux & parasitaires,10094.0
+87 - Haute-Vienne,87,Haute Vienne,Lésions traumatiques et empoisonnements,12132.0
+87 - Haute-Vienne,87,Haute Vienne,Malformations congénitales,839.0
+87 - Haute-Vienne,87,Haute Vienne,Neurologie & système nerveux,4016.0
+87 - Haute-Vienne,87,Haute Vienne,ORL & audition,894.0
+87 - Haute-Vienne,87,Haute Vienne,Ophtalmologie,13572.0
+87 - Haute-Vienne,87,Haute Vienne,Ostéo-articulaire – Rhumato,14156.0
+87 - Haute-Vienne,87,Haute Vienne,Peau & tissus sous-cutanés,1545.0
+87 - Haute-Vienne,87,Haute Vienne,Psychiatrie – Santé mentale,2952.0
+87 - Haute-Vienne,87,Haute Vienne,Périnatalité,398.0
+87 - Haute-Vienne,87,Haute Vienne,Respiratoire,6176.0
+87 - Haute-Vienne,87,Haute Vienne,Sang & immunité,1845.0
+88 - Vosges,88,Vosges,Autres motifs de soins,52500.0
+88 - Vosges,88,Vosges,Cancers / Tumeurs,13735.0
+88 - Vosges,88,Vosges,Cardiovasculaire,23457.0
+88 - Vosges,88,Vosges,Digestif & hépatique,17528.0
+88 - Vosges,88,Vosges,Endocrino – Métabolisme,3241.0
+88 - Vosges,88,Vosges,Grossesse & accouchement,9530.0
+88 - Vosges,88,Vosges,Génito-urinaire,8867.0
+88 - Vosges,88,Vosges,Infectieux & parasitaires,10363.0
+88 - Vosges,88,Vosges,Lésions traumatiques et empoisonnements,15758.0
+88 - Vosges,88,Vosges,Malformations congénitales,666.0
+88 - Vosges,88,Vosges,Neurologie & système nerveux,5514.0
+88 - Vosges,88,Vosges,ORL & audition,618.0
+88 - Vosges,88,Vosges,Ophtalmologie,12553.0
+88 - Vosges,88,Vosges,Ostéo-articulaire – Rhumato,17916.0
+88 - Vosges,88,Vosges,Peau & tissus sous-cutanés,1713.0
+88 - Vosges,88,Vosges,Psychiatrie – Santé mentale,4582.0
+88 - Vosges,88,Vosges,Périnatalité,1240.0
+88 - Vosges,88,Vosges,Respiratoire,7294.0
+88 - Vosges,88,Vosges,Sang & immunité,2030.0
+89 - Yonne,89,Yonne,Autres motifs de soins,39576.0
+89 - Yonne,89,Yonne,Cancers / Tumeurs,13254.0
+89 - Yonne,89,Yonne,Cardiovasculaire,17699.0
+89 - Yonne,89,Yonne,Digestif & hépatique,19044.0
+89 - Yonne,89,Yonne,Endocrino – Métabolisme,3192.0
+89 - Yonne,89,Yonne,Grossesse & accouchement,9046.0
+89 - Yonne,89,Yonne,Génito-urinaire,9102.0
+89 - Yonne,89,Yonne,Infectieux & parasitaires,9823.0
+89 - Yonne,89,Yonne,Lésions traumatiques et empoisonnements,11058.0
+89 - Yonne,89,Yonne,Malformations congénitales,592.0
+89 - Yonne,89,Yonne,Neurologie & système nerveux,4644.0
+89 - Yonne,89,Yonne,ORL & audition,583.0
+89 - Yonne,89,Yonne,Ophtalmologie,11863.0
+89 - Yonne,89,Yonne,Ostéo-articulaire – Rhumato,14084.0
+89 - Yonne,89,Yonne,Peau & tissus sous-cutanés,2398.0
+89 - Yonne,89,Yonne,Psychiatrie – Santé mentale,2372.0
+89 - Yonne,89,Yonne,Périnatalité,1154.0
+89 - Yonne,89,Yonne,Respiratoire,6415.0
+89 - Yonne,89,Yonne,Sang & immunité,2406.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Autres motifs de soins,13783.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Cancers / Tumeurs,4405.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Cardiovasculaire,5914.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Digestif & hépatique,6599.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Endocrino – Métabolisme,1251.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Grossesse & accouchement,4768.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Génito-urinaire,3031.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Infectieux & parasitaires,3252.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Lésions traumatiques et empoisonnements,3610.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Malformations congénitales,218.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Neurologie & système nerveux,1334.0
+90 - Territoire de Belfort,90,Territoire de Belfort,ORL & audition,126.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Ophtalmologie,4378.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Ostéo-articulaire – Rhumato,4836.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Peau & tissus sous-cutanés,533.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Psychiatrie – Santé mentale,720.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Périnatalité,638.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Respiratoire,2319.0
+90 - Territoire de Belfort,90,Territoire de Belfort,Sang & immunité,940.0
+91 - Essonne,91,Essonne,Autres motifs de soins,133514.0
+91 - Essonne,91,Essonne,Cancers / Tumeurs,41402.0
+91 - Essonne,91,Essonne,Cardiovasculaire,46806.0
+91 - Essonne,91,Essonne,Digestif & hépatique,65755.0
+91 - Essonne,91,Essonne,Endocrino – Métabolisme,12154.0
+91 - Essonne,91,Essonne,Grossesse & accouchement,53566.0
+91 - Essonne,91,Essonne,Génito-urinaire,33861.0
+91 - Essonne,91,Essonne,Infectieux & parasitaires,31091.0
+91 - Essonne,91,Essonne,Lésions traumatiques et empoisonnements,34185.0
+91 - Essonne,91,Essonne,Malformations congénitales,3345.0
+91 - Essonne,91,Essonne,Neurologie & système nerveux,11812.0
+91 - Essonne,91,Essonne,ORL & audition,2318.0
+91 - Essonne,91,Essonne,Ophtalmologie,34749.0
+91 - Essonne,91,Essonne,Ostéo-articulaire – Rhumato,35670.0
+91 - Essonne,91,Essonne,Peau & tissus sous-cutanés,8231.0
+91 - Essonne,91,Essonne,Psychiatrie – Santé mentale,11414.0
+91 - Essonne,91,Essonne,Périnatalité,5884.0
+91 - Essonne,91,Essonne,Respiratoire,25464.0
+91 - Essonne,91,Essonne,Sang & immunité,8752.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Autres motifs de soins,175381.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Cancers / Tumeurs,52333.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Cardiovasculaire,53113.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Digestif & hépatique,69457.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Endocrino – Métabolisme,14216.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Grossesse & accouchement,58766.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Génito-urinaire,35134.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Infectieux & parasitaires,37699.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Lésions traumatiques et empoisonnements,42598.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Malformations congénitales,3464.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Neurologie & système nerveux,12892.0
+92 - Hauts-de-Seine,92,Hauts de Seine,ORL & audition,2633.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Ophtalmologie,42664.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Ostéo-articulaire – Rhumato,39964.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Peau & tissus sous-cutanés,8992.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Psychiatrie – Santé mentale,14168.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Périnatalité,4684.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Respiratoire,28738.0
+92 - Hauts-de-Seine,92,Hauts de Seine,Sang & immunité,8756.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Autres motifs de soins,651467.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Cancers / Tumeurs,218039.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Cardiovasculaire,249271.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Digestif & hépatique,388175.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Endocrino – Métabolisme,45793.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Grossesse & accouchement,169484.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Génito-urinaire,150161.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Infectieux & parasitaires,161161.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Lésions traumatiques et empoisonnements,224292.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Malformations congénitales,13377.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Neurologie & système nerveux,61753.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,ORL & audition,11002.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Ophtalmologie,200199.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Ostéo-articulaire – Rhumato,206852.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Peau & tissus sous-cutanés,35335.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Psychiatrie – Santé mentale,39674.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Périnatalité,12758.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Respiratoire,111078.0
+93 - Provence-Alpes-Côte d'Azur,93,Provence Alpes Côte d'Azur,Sang & immunité,29768.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Autres motifs de soins,173120.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Cancers / Tumeurs,41088.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Cardiovasculaire,54035.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Digestif & hépatique,69902.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Endocrino – Métabolisme,16596.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Grossesse & accouchement,81778.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Génito-urinaire,38277.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Infectieux & parasitaires,34187.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Lésions traumatiques et empoisonnements,39282.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Malformations congénitales,4229.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Neurologie & système nerveux,13512.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,ORL & audition,2420.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Ophtalmologie,37831.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Ostéo-articulaire – Rhumato,38368.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Peau & tissus sous-cutanés,12060.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Psychiatrie – Santé mentale,10850.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Périnatalité,6696.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Respiratoire,32016.0
+93 - Seine-Saint-Denis,93,Seine Saint Denis,Sang & immunité,12252.0
+94 - Corse,94,Corse,Autres motifs de soins,37095.0
+94 - Corse,94,Corse,Cancers / Tumeurs,14313.0
+94 - Corse,94,Corse,Cardiovasculaire,15997.0
+94 - Corse,94,Corse,Digestif & hépatique,25032.0
+94 - Corse,94,Corse,Endocrino – Métabolisme,1882.0
+94 - Corse,94,Corse,Grossesse & accouchement,8392.0
+94 - Corse,94,Corse,Génito-urinaire,10417.0
+94 - Corse,94,Corse,Infectieux & parasitaires,10544.0
+94 - Corse,94,Corse,Lésions traumatiques et empoisonnements,10756.0
+94 - Corse,94,Corse,Malformations congénitales,661.0
+94 - Corse,94,Corse,Neurologie & système nerveux,2906.0
+94 - Corse,94,Corse,ORL & audition,509.0
+94 - Corse,94,Corse,Ophtalmologie,11696.0
+94 - Corse,94,Corse,Ostéo-articulaire – Rhumato,11312.0
+94 - Corse,94,Corse,Peau & tissus sous-cutanés,2245.0
+94 - Corse,94,Corse,Psychiatrie – Santé mentale,1286.0
+94 - Corse,94,Corse,Périnatalité,444.0
+94 - Corse,94,Corse,Respiratoire,5057.0
+94 - Corse,94,Corse,Sang & immunité,2008.0
+94 - Val-de-Marne,94,Val de Marne,Autres motifs de soins,156411.0
+94 - Val-de-Marne,94,Val de Marne,Cancers / Tumeurs,42535.0
+94 - Val-de-Marne,94,Val de Marne,Cardiovasculaire,47484.0
+94 - Val-de-Marne,94,Val de Marne,Digestif & hépatique,62167.0
+94 - Val-de-Marne,94,Val de Marne,Endocrino – Métabolisme,13525.0
+94 - Val-de-Marne,94,Val de Marne,Grossesse & accouchement,55000.0
+94 - Val-de-Marne,94,Val de Marne,Génito-urinaire,33254.0
+94 - Val-de-Marne,94,Val de Marne,Infectieux & parasitaires,32790.0
+94 - Val-de-Marne,94,Val de Marne,Lésions traumatiques et empoisonnements,37032.0
+94 - Val-de-Marne,94,Val de Marne,Malformations congénitales,3162.0
+94 - Val-de-Marne,94,Val de Marne,Neurologie & système nerveux,11738.0
+94 - Val-de-Marne,94,Val de Marne,ORL & audition,2420.0
+94 - Val-de-Marne,94,Val de Marne,Ophtalmologie,36619.0
+94 - Val-de-Marne,94,Val de Marne,Ostéo-articulaire – Rhumato,36140.0
+94 - Val-de-Marne,94,Val de Marne,Peau & tissus sous-cutanés,8518.0
+94 - Val-de-Marne,94,Val de Marne,Psychiatrie – Santé mentale,15436.0
+94 - Val-de-Marne,94,Val de Marne,Périnatalité,4722.0
+94 - Val-de-Marne,94,Val de Marne,Respiratoire,26005.0
+94 - Val-de-Marne,94,Val de Marne,Sang & immunité,8503.0
+95 - Val-d'Oise,95,Val d'Oise,Autres motifs de soins,124862.0
+95 - Val-d'Oise,95,Val d'Oise,Cancers / Tumeurs,38643.0
+95 - Val-d'Oise,95,Val d'Oise,Cardiovasculaire,40646.0
+95 - Val-d'Oise,95,Val d'Oise,Digestif & hépatique,63210.0
+95 - Val-d'Oise,95,Val d'Oise,Endocrino – Métabolisme,12663.0
+95 - Val-d'Oise,95,Val d'Oise,Grossesse & accouchement,55998.0
+95 - Val-d'Oise,95,Val d'Oise,Génito-urinaire,29088.0
+95 - Val-d'Oise,95,Val d'Oise,Infectieux & parasitaires,31054.0
+95 - Val-d'Oise,95,Val d'Oise,Lésions traumatiques et empoisonnements,30438.0
+95 - Val-d'Oise,95,Val d'Oise,Malformations congénitales,3065.0
+95 - Val-d'Oise,95,Val d'Oise,Neurologie & système nerveux,10669.0
+95 - Val-d'Oise,95,Val d'Oise,ORL & audition,1804.0
+95 - Val-d'Oise,95,Val d'Oise,Ophtalmologie,32946.0
+95 - Val-d'Oise,95,Val d'Oise,Ostéo-articulaire – Rhumato,32622.0
+95 - Val-d'Oise,95,Val d'Oise,Peau & tissus sous-cutanés,8260.0
+95 - Val-d'Oise,95,Val d'Oise,Psychiatrie – Santé mentale,8274.0
+95 - Val-d'Oise,95,Val d'Oise,Périnatalité,4064.0
+95 - Val-d'Oise,95,Val d'Oise,Respiratoire,25499.0
+95 - Val-d'Oise,95,Val d'Oise,Sang & immunité,7308.0
+971 - Guadeloupe,971,Guadeloupe,Autres motifs de soins,53692.0
+971 - Guadeloupe,971,Guadeloupe,Cancers / Tumeurs,12016.0
+971 - Guadeloupe,971,Guadeloupe,Cardiovasculaire,13029.0
+971 - Guadeloupe,971,Guadeloupe,Digestif & hépatique,17296.0
+971 - Guadeloupe,971,Guadeloupe,Endocrino – Métabolisme,5957.0
+971 - Guadeloupe,971,Guadeloupe,Grossesse & accouchement,16800.0
+971 - Guadeloupe,971,Guadeloupe,Génito-urinaire,9066.0
+971 - Guadeloupe,971,Guadeloupe,Infectieux & parasitaires,8807.0
+971 - Guadeloupe,971,Guadeloupe,Lésions traumatiques et empoisonnements,11045.0
+971 - Guadeloupe,971,Guadeloupe,Malformations congénitales,634.0
+971 - Guadeloupe,971,Guadeloupe,Neurologie & système nerveux,3968.0
+971 - Guadeloupe,971,Guadeloupe,ORL & audition,337.0
+971 - Guadeloupe,971,Guadeloupe,Ophtalmologie,13392.0
+971 - Guadeloupe,971,Guadeloupe,Ostéo-articulaire – Rhumato,9514.0
+971 - Guadeloupe,971,Guadeloupe,Peau & tissus sous-cutanés,2662.0
+971 - Guadeloupe,971,Guadeloupe,Psychiatrie – Santé mentale,2451.0
+971 - Guadeloupe,971,Guadeloupe,Périnatalité,803.0
+971 - Guadeloupe,971,Guadeloupe,Respiratoire,5794.0
+971 - Guadeloupe,971,Guadeloupe,Sang & immunité,3718.0
+972 - Martinique,972,Martinique,Autres motifs de soins,31890.0
+972 - Martinique,972,Martinique,Cancers / Tumeurs,10756.0
+972 - Martinique,972,Martinique,Cardiovasculaire,11689.0
+972 - Martinique,972,Martinique,Digestif & hépatique,12337.0
+972 - Martinique,972,Martinique,Endocrino – Métabolisme,4169.0
+972 - Martinique,972,Martinique,Grossesse & accouchement,11552.0
+972 - Martinique,972,Martinique,Génito-urinaire,6795.0
+972 - Martinique,972,Martinique,Infectieux & parasitaires,7924.0
+972 - Martinique,972,Martinique,Lésions traumatiques et empoisonnements,9039.0
+972 - Martinique,972,Martinique,Malformations congénitales,442.0
+972 - Martinique,972,Martinique,Neurologie & système nerveux,3643.0
+972 - Martinique,972,Martinique,ORL & audition,308.0
+972 - Martinique,972,Martinique,Ophtalmologie,8902.0
+972 - Martinique,972,Martinique,Ostéo-articulaire – Rhumato,6376.0
+972 - Martinique,972,Martinique,Peau & tissus sous-cutanés,1749.0
+972 - Martinique,972,Martinique,Psychiatrie – Santé mentale,1726.0
+972 - Martinique,972,Martinique,Périnatalité,486.0
+972 - Martinique,972,Martinique,Respiratoire,5544.0
+972 - Martinique,972,Martinique,Sang & immunité,2943.0
+973 - Guyane,973,Guyane,Autres motifs de soins,13825.0
+973 - Guyane,973,Guyane,Cancers / Tumeurs,2918.0
+973 - Guyane,973,Guyane,Cardiovasculaire,4404.0
+973 - Guyane,973,Guyane,Digestif & hépatique,7708.0
+973 - Guyane,973,Guyane,Endocrino – Métabolisme,3600.0
+973 - Guyane,973,Guyane,Grossesse & accouchement,22006.0
+973 - Guyane,973,Guyane,Génito-urinaire,4329.0
+973 - Guyane,973,Guyane,Infectieux & parasitaires,4735.0
+973 - Guyane,973,Guyane,Lésions traumatiques et empoisonnements,7061.0
+973 - Guyane,973,Guyane,Malformations congénitales,729.0
+973 - Guyane,973,Guyane,Neurologie & système nerveux,1825.0
+973 - Guyane,973,Guyane,ORL & audition,196.0
+973 - Guyane,973,Guyane,Ophtalmologie,3361.0
+973 - Guyane,973,Guyane,Ostéo-articulaire – Rhumato,2888.0
+973 - Guyane,973,Guyane,Peau & tissus sous-cutanés,1370.0
+973 - Guyane,973,Guyane,Psychiatrie – Santé mentale,756.0
+973 - Guyane,973,Guyane,Périnatalité,1855.0
+973 - Guyane,973,Guyane,Respiratoire,4077.0
+973 - Guyane,973,Guyane,Sang & immunité,2304.0
+974 - Réunion,974,Réunion,Autres motifs de soins,91379.0
+974 - Réunion,974,Réunion,Cancers / Tumeurs,20011.0
+974 - Réunion,974,Réunion,Cardiovasculaire,30969.0
+974 - Réunion,974,Réunion,Digestif & hépatique,31279.0
+974 - Réunion,974,Réunion,Endocrino – Métabolisme,7282.0
+974 - Réunion,974,Réunion,Grossesse & accouchement,43086.0
+974 - Réunion,974,Réunion,Génito-urinaire,17622.0
+974 - Réunion,974,Réunion,Infectieux & parasitaires,17124.0
+974 - Réunion,974,Réunion,Lésions traumatiques et empoisonnements,22021.0
+974 - Réunion,974,Réunion,Malformations congénitales,1930.0
+974 - Réunion,974,Réunion,Neurologie & système nerveux,6397.0
+974 - Réunion,974,Réunion,ORL & audition,1612.0
+974 - Réunion,974,Réunion,Ophtalmologie,25833.0
+974 - Réunion,974,Réunion,Ostéo-articulaire – Rhumato,17992.0
+974 - Réunion,974,Réunion,Peau & tissus sous-cutanés,4629.0
+974 - Réunion,974,Réunion,Psychiatrie – Santé mentale,10954.0
+974 - Réunion,974,Réunion,Périnatalité,4960.0
+974 - Réunion,974,Réunion,Respiratoire,18912.0
+974 - Réunion,974,Réunion,Sang & immunité,3928.0
+976 - Mayotte,976,Mayotte,Autres motifs de soins,6663.0
+976 - Mayotte,976,Mayotte,Cancers / Tumeurs,1549.0
+976 - Mayotte,976,Mayotte,Cardiovasculaire,2214.0
+976 - Mayotte,976,Mayotte,Digestif & hépatique,2234.0
+976 - Mayotte,976,Mayotte,Endocrino – Métabolisme,892.0
+976 - Mayotte,976,Mayotte,Grossesse & accouchement,27344.0
+976 - Mayotte,976,Mayotte,Génito-urinaire,1743.0
+976 - Mayotte,976,Mayotte,Infectieux & parasitaires,2488.0
+976 - Mayotte,976,Mayotte,Lésions traumatiques et empoisonnements,3446.0
+976 - Mayotte,976,Mayotte,Malformations congénitales,723.0
+976 - Mayotte,976,Mayotte,Neurologie & système nerveux,885.0
+976 - Mayotte,976,Mayotte,ORL & audition,163.0
+976 - Mayotte,976,Mayotte,Ophtalmologie,648.0
+976 - Mayotte,976,Mayotte,Ostéo-articulaire – Rhumato,1122.0
+976 - Mayotte,976,Mayotte,Peau & tissus sous-cutanés,2339.0
+976 - Mayotte,976,Mayotte,Psychiatrie – Santé mentale,464.0
+976 - Mayotte,976,Mayotte,Périnatalité,1400.0
+976 - Mayotte,976,Mayotte,Respiratoire,4202.0
+976 - Mayotte,976,Mayotte,Sang & immunité,1281.0
