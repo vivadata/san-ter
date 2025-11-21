@@ -74,6 +74,9 @@ def main():
     sex_options = ['Tous'] + sorted(df['sexe'].dropna().unique().tolist())
     sexe = st.sidebar.selectbox("Sexe", sex_options)
 
+    # fixed animation speed: 5000 ms (5 secondes) par année
+    speed_ms = 5000
+
     # subset
     q = df[df['annee_de_deces'] == year]
     if sexe != 'Tous':
@@ -82,14 +85,24 @@ def main():
     # KPI calculations
     total_obs = len(q)
     avg_valeur = q['valeur'].mean()
-    # department with max mean valeur
-    dept_max = q.groupby('departement_de_domicile', dropna=True)['valeur'].mean().idxmax()
-    dept_max_val = q.groupby('departement_de_domicile', dropna=True)['valeur'].mean().max()
+
+    # department with most deaths according to the 'valeur' column (sum)
+    if 'departement_de_domicile' in q.columns and 'valeur' in q.columns and q['departement_de_domicile'].dropna().size > 0:
+        s = q.groupby('departement_de_domicile', dropna=True)['valeur'].sum()
+        if s.size > 0:
+            dept_most = s.idxmax()
+            dept_most_count = s.max()
+        else:
+            dept_most = None
+            dept_most_count = None
+    else:
+        dept_most = None
+        dept_most_count = None
 
     k1, k2, k3 = st.columns(3)
     k1.metric("Observations (année)", f"{total_obs:n}")
     k2.metric("Valeur moyenne (taux)", f"{avg_valeur:.2f}" if not np.isnan(avg_valeur) else "N/A")
-    k3.metric("Dépt. moyenne max", f"{dept_max} ({dept_max_val:.2f})" if pd.notna(dept_max_val) else "N/A")
+    k3.metric("departement ou il y a eu le plus de décès", f"{dept_most} ({dept_most_count:.2f})" if dept_most is not None else "N/A")
 
     st.markdown("---")
 
@@ -98,14 +111,33 @@ def main():
     col1, col2 = st.columns(2)
 
     with col1:
-        st.write("Par grandes classes d'âge")
-        if 'grandes_classes_age' in q.columns:
-            g = q.groupby('grandes_classes_age')['valeur'].mean().reset_index().sort_values('valeur', ascending=False)
-            fig = px.bar(g, x='grandes_classes_age', y='valeur', labels={'valeur':'Taux moyen','grandes_classes_age':'Grande classe d\'âge'}, height=450)
-            fig.update_layout(xaxis={'categoryorder':'total descending'})
+        st.write("Évolution 2018–2023 — top 5 départements (somme de 'valeur')")
+        if 'departement_de_domicile' in df.columns and 'valeur' in df.columns and 'annee_de_deces' in df.columns:
+            # respect current sexe filter but use all years to show trend
+            df_sex = df if sexe == 'Tous' else df[df['sexe'] == sexe]
+
+            # aggregate sum per year and department
+            agg = df_sex.groupby(['annee_de_deces', 'departement_de_domicile'], dropna=True)['valeur'].sum().reset_index()
+
+            # find top 5 departments by total across all years (within selected sexe)
+            top5 = agg.groupby('departement_de_domicile')['valeur'].sum().nlargest(5).index.tolist()
+
+            plot_df = agg[agg['departement_de_domicile'].isin(top5)].copy()
+            plot_df['annee_de_deces'] = plot_df['annee_de_deces'].astype(str)
+
+            fig = px.line(
+                plot_df,
+                x='annee_de_deces',
+                y='valeur',
+                color='departement_de_domicile',
+                markers=True,
+                labels={'valeur': 'Somme de valeur', 'annee_de_deces': 'Année', 'departement_de_domicile': 'Département'},
+                height=450
+            )
+            fig.update_layout(yaxis_title='Somme de valeur', xaxis=dict(dtick=1))
             st.plotly_chart(fig, use_container_width=True)
         else:
-            st.info('Colonne `grandes_classes_age` introuvable')
+            st.info('Colonnes nécessaires (`departement_de_domicile`, `valeur`, `annee_de_deces`) introuvables')
 
     with col2:
         st.write("Par cause initiale de décès (top 5)")
@@ -182,6 +214,30 @@ def main():
 
         fig_map.update_geos(fitbounds="locations", visible=False)
         fig_map.update_layout(margin={"r":0,"t":30,"l":0,"b":0})
+
+        # add custom play/pause buttons with user-selected speed
+        fig_map.update_layout(
+            updatemenus=[{
+                'type': 'buttons',
+                'buttons': [
+                    {
+                        'args': [None, {'frame': {'duration': int(speed_ms), 'redraw': True}, 'fromcurrent': True, 'transition': {'duration': 300}}],
+                        'label': 'Play',
+                        'method': 'animate'
+                    },
+                    {
+                        'args': [[None], {'frame': {'duration': 0, 'redraw': False}, 'mode': 'immediate', 'transition': {'duration': 0}}],
+                        'label': 'Pause',
+                        'method': 'animate'
+                    }
+                ],
+                'direction': 'left',
+                'pad': {'r': 10, 't': 70},
+                'showactive': False,
+                'x': 0.1,
+                'y': 0
+            }]
+        )
 
         st.plotly_chart(fig_map, use_container_width=True)
     except Exception as e:

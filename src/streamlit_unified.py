@@ -11,6 +11,8 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 from typing import Optional
 import time
+import importlib.util
+import sys
 
 # import centralized data loaders
 from data_loaders import (
@@ -26,29 +28,90 @@ from data_loaders import (
 
 BASE = Path(__file__).resolve().parent.parent
 
-st.set_page_config(page_title="Santé & Territoires — Exploration", layout="wide")
+st.set_page_config(page_title="Santé & Territoires — Dashboard", layout="wide", page_icon="🩺", initial_sidebar_state="expanded")
 
+# Visual theme settings
+PRIMARY_COLOR = "#0d6efd"
+BG_COLOR = "#f7f9fc"
+CARD_BG = "#ffffff"
+
+# Plotly theme
+px.defaults.template = 'plotly_white'
+
+# Inject basic CSS to harmonize look and spacing
+st.markdown(
+        f"""
+        <style>
+            .stApp {{ background: {BG_COLOR}; }}
+            .block-container {{ padding: 1rem 2rem; }}
+            .reportview-container .main .block-container{{max-width:1400px}}
+            .css-1d391kg {{ padding-top: 0rem; }}
+            .stSidebar .sidebar-content {{ padding-top: 10px; }}
+            .small-muted {{ color: #6b7280; font-size:13px }}
+            .kpi-card {{ background: {CARD_BG}; padding: 12px; border-radius:8px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }}
+            h1, h2, h3 {{ color: #111827 }}
+        </style>
+        """,
+        unsafe_allow_html=True,
+)
+
+# Additional UI polish: banner, sidebar and button styles
+st.markdown(
+        """
+        <style>
+            /* Top banner */
+            .top-banner{display:flex;align-items:center;justify-content:space-between;padding:18px;border-radius:10px;background:linear-gradient(90deg,#0d6efd 0%, #4f9cff 100%);color:white;margin-bottom:18px}
+            .top-banner .title{font-size:28px;font-weight:700}
+            .top-banner .subtitle{font-size:13px;opacity:0.9}
+            /* Sidebar style */
+            .stSidebar .sidebar-content{background:#ffffff;border-radius:8px;padding:12px}
+            /* Button style */
+            .stButton>button{background:#0d6efd;color:white;border:none;padding:8px 16px;border-radius:8px}
+            .stButton>button:hover{background:#0b5ed7}
+            /* Metric card */
+            .kpi-card{background:#fff;padding:12px;border-radius:10px;box-shadow:0 4px 10px rgba(13,110,253,0.08);}
+        </style>
+        """,
+        unsafe_allow_html=True,
+)
 
 # data loaders are provided by `src/data_loaders.py` and imported above
 
 
 def main():
-    st.title("Santé & Territoires — Dashboard")
+    # Top banner
+    st.markdown(
+        """
+        <div class='top-banner'>
+            <div>
+                <div class='title'>Santé & Territoires</div>
+                <div class='subtitle'>Exploration interactive des indicateurs de santé par territoire — données 2018–2023</div>
+            </div>
+            <div style='font-size:14px;opacity:0.95'>
+                <strong>Version</strong> 1.0
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
     st.sidebar.header("Outils")
-    mode = st.sidebar.radio("Choisir une vue / outil", [
-        'RPPS — Densité',
-        'Vulnérabilité',
-        'Charge pathologique',
-        'Exploration',
-    ])
+    mode = st.sidebar.radio(
+        "Choisir une vue / outil",
+        [
+            'Décès — Mortalité',
+            'RPPS — Densité',
+            'Charge pathologique',
+            'Exploration',
+        ],
+    )
 
     # short animated feedback on every tool change
     top_placeholder = st.empty()
     try:
         variant_map = {
+            'Décès — Mortalité': 'ambulance',
             'RPPS — Densité': 'medecin',
-            'Vulnérabilité': 'ambulance',
             'Charge pathologique': 'brancard',
             'Exploration': 'ambulance',
         }
@@ -62,8 +125,10 @@ def main():
 
     if mode == 'RPPS — Densité':
         show_rpps()
-    elif mode == 'Vulnérabilité':
-        show_vulnerabilite()
+    elif mode == 'Décès — Mortalité':
+        # Load and display the deces app dynamically from notebooks/deces_streamlit.py
+        show_deces()
+    # 'Vulnérabilité' view removed from the sidebar; its function remains available if needed.
     elif mode == 'Charge pathologique':
         show_dev1()
     elif mode == 'Exploration':
@@ -322,113 +387,7 @@ def display_loading_animation(place: Optional[object], variant: str = 'ambulance
                 except Exception:
                         pass
 
-
-def show_vulnerabilite():
-    st.header('Vulnérabilité par département')
-    st.write('Calcul d’un indice composite à partir d’un CSV (exemples inclus).')
-    # allow upload or sample
-    sample_paths = [
-        'notebooks/Category_Profession.csv',
-        'src/summary_low_by_dept.csv',
-        'src/summary_missing_by_dept.csv',
-        'src/dim_geo_departement.csv',
-    ]
-    available = [p for p in sample_paths if os.path.exists(os.path.join(os.getcwd(), p))]
-
-    with st.sidebar:
-        source = st.radio('Source de données', ['Exemple fourni', 'Uploader un CSV'], index=0)
-        chosen = None
-        upload = None
-        if source == 'Exemple fourni' and available:
-            chosen = st.selectbox('Choisir un exemple', available)
-        elif source == 'Uploader un CSV':
-            upload = st.file_uploader('Déposer un CSV', type=['csv'])
-
-    df = None
-    if chosen:
-        df = read_csv_flexible(os.path.join(os.getcwd(), chosen))
-    if upload is not None:
-        df = read_csv_flexible(upload)
-
-    if df is None:
-        st.info('Aucun jeu de données chargé — utilisez la sidebar pour uploader ou choisir un exemple.')
-        return
-
-    st.write(f'Données chargées — {df.shape[0]} lignes × {df.shape[1]} colonnes')
-    if st.checkbox('Afficher aperçu', value=True):
-        st.dataframe(df.head())
-
-    cols = df.columns.tolist()
-    with st.sidebar:
-        dept_col = st.selectbox('Colonne département', [c for c in cols if 'dept' in c.lower() or 'départ' in c.lower() or 'department' in c.lower()] + cols)
-        indicator_cols = st.multiselect('Indicateurs numériques (2–4)', cols, default=[c for c in cols if any(k in c.lower() for k in ['pauv', 'mort', 'csp', 'vuln', 'taux', 'rate', 'prop'])][:3])
-        weight_text = st.text_input('Poids (virgule séparés)', '')
-        invert_choices = st.multiselect('Inverser colonnes (plus grand = moins vulnérable)', indicator_cols)
-        n_top = st.number_input('Top N', min_value=1, max_value=500, value=10)
-        compute = st.button('Calculer indice')
-
-    if compute:
-        if not indicator_cols:
-            st.error('Sélectionnez au moins un indicateur.')
-            return
-        df_work = df.copy()
-        if dept_col not in df_work.columns:
-            st.error('Colonne département introuvable.')
-            return
-        # numeric conversion
-        for c in indicator_cols:
-            if df_work[c].dtype == object:
-                df_work[c] = df_work[c].astype(str).str.replace(' ', '').str.replace('\u00A0', '').str.replace(',', '.').replace('', np.nan)
-            df_work[c] = pd.to_numeric(df_work[c], errors='coerce')
-            if c in invert_choices:
-                df_work[c] = -df_work[c]
-
-        # weights
-        if weight_text.strip():
-            try:
-                weights = [float(w.replace(',', '.')) for w in weight_text.split(',')]
-                if len(weights) != len(indicator_cols):
-                    st.warning('Nombre de poids différent ; poids égaux utilisés.')
-                    weights = None
-            except Exception:
-                st.warning('Impossible d’interpréter les poids ; poids égaux utilisés.')
-                weights = None
-        else:
-            weights = None
-
-        zcols = []
-        for c in indicator_cols:
-            zname = f'z__{c}'
-            s = df_work[c]
-            mean = s.mean(skipna=True)
-            std = s.std(skipna=True)
-            if pd.isna(std) or std == 0:
-                df_work[zname] = 0.0
-            else:
-                df_work[zname] = (s - mean) / std
-            zcols.append(zname)
-
-        if weights is None:
-            weights = [1.0] * len(zcols)
-        w = np.array(weights, dtype=float)
-        w = w / w.sum()
-        df_work['vulnerability_index'] = df_work[zcols].fillna(0).values.dot(w)
-        df_work['vulnerability_rank'] = df_work['vulnerability_index'].rank(ascending=False, method='min')
-
-        grouped = df_work.groupby(dept_col).agg({**{c: 'mean' for c in indicator_cols}, 'vulnerability_index': 'mean', 'vulnerability_rank': 'min'})
-        grouped = grouped.sort_values('vulnerability_index', ascending=False)
-
-        st.subheader('Tableau par département')
-        st.dataframe(grouped.reset_index().head(200))
-
-        st.subheader(f'Top {n_top} départements — vulnérabilité élevée')
-        topn = grouped.reset_index().head(n_top)
-        fig = px.bar(topn, x=dept_col, y='vulnerability_index', color='vulnerability_index', color_continuous_scale='Reds')
-        st.plotly_chart(fig, use_container_width=True)
-
-        # export
-        csv = grouped.reset_index().to_csv(index=False).encode('utf-8')
-        st.download_button('Télécharger le tableau (CSV)', data=csv, file_name='vulnerabilite_dept.csv', mime='text/csv')
+# `show_vulnerabilite` removed per user request — function deleted to simplify the sidebar views.
 
 
 def show_dev1():
@@ -625,6 +584,42 @@ def show_quentin(ext_placeholder: Optional[object] = None):
                         deck = pdk.Deck(layers=[poly_layer], initial_view_state=view_state)
                         st.pydeck_chart(deck)
                     st.table(merged[['ZONE_0', 'ind_freq_sum']].sort_values('ind_freq_sum', ascending=False).head(10).set_index('ZONE_0'))
+
+
+def show_deces():
+    """Dynamically load and render the notebooks/deces_streamlit.py app inside the unified app.
+
+    The deces app defines a `main()` function. We import it from file and call it.
+    To avoid Streamlit's `set_page_config` being invoked twice (which raises),
+    temporarily monkeypatch `st.set_page_config` to a no-op while executing.
+    """
+    st.header('Décès — Mortalité (exploration)')
+    deces_path = BASE / 'notebooks' / 'deces_streamlit.py'
+    if not deces_path.exists():
+        st.error(f"Fichier introuvable: {deces_path}")
+        return
+    try:
+        spec = importlib.util.spec_from_file_location('deces_streamlit', str(deces_path))
+        module = importlib.util.module_from_spec(spec)
+        sys.modules['deces_streamlit'] = module
+        spec.loader.exec_module(module)
+    except Exception as e:
+        st.error(f"Erreur lors de l'import du module deces: {e}")
+        return
+
+    # Prevent double-call to set_page_config in the imported module
+    orig_set_page_config = st.set_page_config
+    st.set_page_config = lambda *a, **k: None
+    try:
+        if hasattr(module, 'main'):
+            try:
+                module.main()
+            except Exception as e:
+                st.error(f"Erreur lors de l'exécution de l'app deces: {e}")
+        else:
+            st.error("Le module 'deces_streamlit' ne contient pas de fonction 'main()'.")
+    finally:
+        st.set_page_config = orig_set_page_config
 
 
 def find_dept_code_col(gdf, df_codes):
