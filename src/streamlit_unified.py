@@ -10,6 +10,7 @@ import pydeck as pdk
 import plotly.express as px
 import matplotlib.pyplot as plt
 from typing import Optional
+import time
 
 # import centralized data loaders
 from data_loaders import (
@@ -37,19 +38,40 @@ def main():
     st.sidebar.header("Outils")
     mode = st.sidebar.radio("Choisir une vue / outil", [
         'RPPS — Densité',
-        'Vulnérabilité ',
+        'Vulnérabilité',
         'Charge pathologique',
         'Exploration',
     ])
 
+    # short animated feedback on every tool change
+    top_placeholder = st.empty()
+    try:
+        variant_map = {
+            'RPPS — Densité': 'medecin',
+            'Vulnérabilité': 'ambulance',
+            'Charge pathologique': 'brancard',
+            'Exploration': 'ambulance',
+        }
+        display_loading_animation(top_placeholder, variant=variant_map.get(mode, 'ambulance'))
+        # brief pause so the animation is visible before rendering the view
+        # ensure the pre-animation is visible for at least 5 seconds
+        time.sleep(5)
+
+    finally:
+        top_placeholder.empty()
+
     if mode == 'RPPS — Densité':
         show_rpps()
-    elif mode == 'Vulnérabilité par département':
+    elif mode == 'Vulnérabilité':
         show_vulnerabilite()
     elif mode == 'Charge pathologique':
         show_dev1()
     elif mode == 'Exploration':
-        show_quentin()
+        # For Exploration, keep the top placeholder active for the whole loading time
+        top_placeholder = st.empty()
+        display_loading_animation(top_placeholder, variant='ambulance')
+        # Call show_quentin and let it clear the placeholder when loading completes
+        show_quentin(ext_placeholder=top_placeholder)
 
 
 def show_rpps():
@@ -521,14 +543,22 @@ def show_dev1():
     st.download_button('Télécharger (CSV)', data=csv_bytes, file_name='filtered_data.csv', mime='text/csv')
 
 
-def show_quentin():
+def show_quentin(ext_placeholder: Optional[object] = None):
     st.header('Exploration — Offres & Pathologies')
-    placeholder = st.empty()
+    # use external placeholder if provided so the pre-animation can stay visible
+    placeholder = ext_placeholder if ext_placeholder is not None else st.empty()
+    res = {}
     try:
+        # ensure there's a loading animation while loading Quentin data
         display_loading_animation(placeholder, variant='ambulance')
-        res = load_quentin_tables()
+        res = load_quentin_tables() or {}
     finally:
-        placeholder.empty()
+        # clear the placeholder after loading (works whether it was external or local)
+        try:
+            placeholder.empty()
+        except Exception:
+            pass
+
     df_offre = res.get('offre')
     df_med = res.get('med')
     df_dept = res.get('dept')
